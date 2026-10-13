@@ -1,0 +1,5907 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//OpenAI//12 Week Wellness Plan//ZH
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:12周运动·体态·护肤计划
+X-WR-TIMEZONE:Asia/Shanghai
+BEGIN:VTIMEZONE
+TZID:Asia/Shanghai
+X-LIC-LOCATION:Asia/Shanghai
+BEGIN:STANDARD
+TZOFFSETFROM:+0800
+TZOFFSETTO:+0800
+TZNAME:CST
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ef81fa87-0c28-46fd-b23f-4a6c33283e53@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261014T090000
+DTEND;TZID=Asia/Shanghai:20261014T091000
+SUMMARY:晨间护肤｜洁面·保湿·防晒
+DESCRIPTION:第1周／第1天。\n1. 油脂明显时用温和洁面；不
+ 油可清水。\n2. 涂轻薄无香精保湿乳。\n3. 涂广谱SPF30–
+ 50防晒；长时间户外按产品说明补涂。\n观察早晨浮肿
+ ；正常饮水，不要通过脱水瘦脸。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:晨间护肤｜洁面·保湿·防晒
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:18fa197f-0dc3-4baf-8bdf-c22329de3442@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261014T164500
+DTEND;TZID=Asia/Shanghai:20261014T165500
+SUMMARY:体态练习｜颈肩胸椎10分钟
+DESCRIPTION:第1周。\n收下巴 2组×10次（每次保持3秒，头水
+ 平后移）；靠墙天使 2组×10次；门框胸肌拉伸 每侧2×30
+ 秒；胸椎旋转 每侧8次。\n时间不足时每项减半。轻柔
+ 完成，不追求疼痛；出现疼痛或眩晕停止。体态练习不
+ 能局部瘦脸。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:体态练习｜颈肩胸椎10分钟
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:74f3f029-dc1f-4e6f-83cd-e80c757aa9e2@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261014T170000
+DTEND;TZID=Asia/Shanghai:20261014T174500
+SUMMARY:力量B｜背肩臀腿
+DESCRIPTION:第1周（阶段1）｜热身5–8分钟。\n罗马尼亚硬
+ 拉 10次；高位下拉 12次；哑铃肩推 10次；死虫式 每侧10
+ 次。\n每项2组；周五侧平板可做2组。组间休息60–120秒
+ 。\n前两周以动作恢复为主，重量轻，留3–4次余力。\n
+ 结束后轻松活动3–5分钟。无需练到力竭。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:力量B｜背肩臀腿
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:b409785e-9e9b-4f68-824c-20e3f5ad9d83@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261014T223000
+DTEND;TZID=Asia/Shanghai:20261014T224000
+SUMMARY:晚间护肤｜温和清洁·保湿
+DESCRIPTION:第1周／第1天。\n1. 用温和洁面清除当天油脂和
+ 防晒。\n2. 涂轻薄保湿乳。\n3. 尽量规律睡眠，减少高
+ 盐宵夜。\n前2–3周先稳定基础护肤，不同时叠加多种
+ 酸类或维A类。皮肤明显刺痛时停用可疑产品。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:晚间护肤｜温和清洁·保湿
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bd6b8c1b-5087-4ff5-a3f1-c0e88e711252@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261015T090000
+DTEND;TZID=Asia/Shanghai:20261015T091000
+SUMMARY:晨间护肤｜洁面·保湿·防晒
+DESCRIPTION:第1周／第2天。\n1. 油脂明显时用温和洁面；不
+ 油可清水。\n2. 涂轻薄无香精保湿乳。\n3. 涂广谱SPF30–
+ 50防晒；长时间户外按产品说明补涂。\n观察早晨浮肿
+ ；正常饮水，不要通过脱水瘦脸。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:晨间护肤｜洁面·保湿·防晒
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:e7759f1c-4b4a-44a8-8af2-1c7da3e2f53f@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261015T164500
+DTEND;TZID=Asia/Shanghai:20261015T165500
+SUMMARY:体态练习｜颈肩胸椎10分钟
+DESCRIPTION:第1周。\n收下巴 2组×10次（每次保持3秒，头水
+ 平后移）；靠墙天使 2组×10次；门框胸肌拉伸 每侧2×30
+ 秒；胸椎旋转 每侧8次。\n时间不足时每项减半。轻柔
+ 完成，不追求疼痛；出现疼痛或眩晕停止。体态练习不
+ 能局部瘦脸。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:体态练习｜颈肩胸椎10分钟
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:360d1c33-c0d1-4ca6-8d7b-6a50bdf72813@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261015T170000
+DTEND;TZID=Asia/Shanghai:20261015T174000
+SUMMARY:有氧｜轻松跑／跑走结合
+DESCRIPTION:第1周（阶段1）。\n快走5分钟热身；慢跑2分钟
+ ＋步行2分钟，交替5组；最后步行放松5分钟。\n保持能
+ 说完整句子的强度；有疼痛就停，疲劳时缩短时长。跑
+ 步不能定向减少脸部脂肪。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:有氧｜轻松跑／跑走结合
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:e0f13b62-ec4c-416b-8879-95d9ef765dd5@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261015T223000
+DTEND;TZID=Asia/Shanghai:20261015T224000
+SUMMARY:晚间护肤｜温和清洁·保湿
+DESCRIPTION:第1周／第2天。\n1. 用温和洁面清除当天油脂和
+ 防晒。\n2. 涂轻薄保湿乳。\n3. 尽量规律睡眠，减少高
+ 盐宵夜。\n前2–3周先稳定基础护肤，不同时叠加多种
+ 酸类或维A类。皮肤明显刺痛时停用可疑产品。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:晚间护肤｜温和清洁·保湿
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:a0b876a7-369a-40d5-8c18-67439fcc51e1@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261016T090000
+DTEND;TZID=Asia/Shanghai:20261016T091000
+SUMMARY:晨间护肤｜洁面·保湿·防晒
+DESCRIPTION:第1周／第3天。\n1. 油脂明显时用温和洁面；不
+ 油可清水。\n2. 涂轻薄无香精保湿乳。\n3. 涂广谱SPF30–
+ 50防晒；长时间户外按产品说明补涂。\n观察早晨浮肿
+ ；正常饮水，不要通过脱水瘦脸。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:晨间护肤｜洁面·保湿·防晒
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:16b92258-1a0d-4111-889f-e8cbad582350@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261016T164500
+DTEND;TZID=Asia/Shanghai:20261016T165500
+SUMMARY:体态练习｜颈肩胸椎10分钟
+DESCRIPTION:第1周。\n收下巴 2组×10次（每次保持3秒，头水
+ 平后移）；靠墙天使 2组×10次；门框胸肌拉伸 每侧2×30
+ 秒；胸椎旋转 每侧8次。\n时间不足时每项减半。轻柔
+ 完成，不追求疼痛；出现疼痛或眩晕停止。体态练习不
+ 能局部瘦脸。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:体态练习｜颈肩胸椎10分钟
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cd2d5a02-0ea2-4d51-be65-22d8358e459f@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261016T170000
+DTEND;TZID=Asia/Shanghai:20261016T174500
+SUMMARY:力量C｜全身综合
+DESCRIPTION:第1周（阶段1）｜热身5–8分钟。\n反向弓步蹲 
+ 每侧10次；俯卧撑 8–15次；单臂哑铃划船 每侧10次；侧
+ 平板支撑 每侧30秒。\n每项2组；周五侧平板可做2组。
+ 组间休息60–120秒。\n前两周以动作恢复为主，重量轻
+ ，留3–4次余力。\n结束后轻松活动3–5分钟。无需练到
+ 力竭。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:力量C｜全身综合
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:6bb66c64-6f8b-4e38-80bb-1c2c1413d136@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261016T223000
+DTEND;TZID=Asia/Shanghai:20261016T224000
+SUMMARY:晚间护肤｜温和清洁·保湿
+DESCRIPTION:第1周／第3天。\n1. 用温和洁面清除当天油脂和
+ 防晒。\n2. 涂轻薄保湿乳。\n3. 尽量规律睡眠，减少高
+ 盐宵夜。\n前2–3周先稳定基础护肤，不同时叠加多种
+ 酸类或维A类。皮肤明显刺痛时停用可疑产品。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:晚间护肤｜温和清洁·保湿
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:8f1a95d4-2803-49d0-827e-61694eeb1387@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261017T090000
+DTEND;TZID=Asia/Shanghai:20261017T091000
+SUMMARY:晨间护肤｜洁面·保湿·防晒
+DESCRIPTION:第1周／第4天。\n1. 油脂明显时用温和洁面；不
+ 油可清水。\n2. 涂轻薄无香精保湿乳。\n3. 涂广谱SPF30–
+ 50防晒；长时间户外按产品说明补涂。\n观察早晨浮肿
+ ；正常饮水，不要通过脱水瘦脸。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:晨间护肤｜洁面·保湿·防晒
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:efba938b-f1e8-4c16-bb02-db55af824603@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261017T164500
+DTEND;TZID=Asia/Shanghai:20261017T165500
+SUMMARY:体态练习｜颈肩胸椎10分钟
+DESCRIPTION:第1周。\n收下巴 2组×10次（每次保持3秒，头水
+ 平后移）；靠墙天使 2组×10次；门框胸肌拉伸 每侧2×30
+ 秒；胸椎旋转 每侧8次。\n时间不足时每项减半。轻柔
+ 完成，不追求疼痛；出现疼痛或眩晕停止。体态练习不
+ 能局部瘦脸。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:体态练习｜颈肩胸椎10分钟
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:f2aeee43-f05f-429a-b8a4-7ea4ea33debf@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261017T170000
+DTEND;TZID=Asia/Shanghai:20261017T174000
+SUMMARY:有氧｜轻松跑／跑走结合
+DESCRIPTION:第1周（阶段1）。\n快走5分钟热身；慢跑2分钟
+ ＋步行2分钟，交替5组；最后步行放松5分钟。 若疲劳
+ ，可改为同等时间快走或骑车。\n保持能说完整句子的
+ 强度；有疼痛就停，疲劳时缩短时长。跑步不能定向减
+ 少脸部脂肪。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:有氧｜轻松跑／跑走结合
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:94a55f99-efb8-4949-9fb2-758fa72ee6f4@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261017T223000
+DTEND;TZID=Asia/Shanghai:20261017T224000
+SUMMARY:晚间护肤｜温和清洁·保湿
+DESCRIPTION:第1周／第4天。\n1. 用温和洁面清除当天油脂和
+ 防晒。\n2. 涂轻薄保湿乳。\n3. 尽量规律睡眠，减少高
+ 盐宵夜。\n前2–3周先稳定基础护肤，不同时叠加多种
+ 酸类或维A类。皮肤明显刺痛时停用可疑产品。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:晚间护肤｜温和清洁·保湿
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:5cc9312f-04db-4db4-9401-46ad44c6f25e@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261018T090000
+DTEND;TZID=Asia/Shanghai:20261018T091000
+SUMMARY:晨间护肤｜洁面·保湿·防晒
+DESCRIPTION:第1周／第5天。\n1. 油脂明显时用温和洁面；不
+ 油可清水。\n2. 涂轻薄无香精保湿乳。\n3. 涂广谱SPF30–
+ 50防晒；长时间户外按产品说明补涂。\n观察早晨浮肿
+ ；正常饮水，不要通过脱水瘦脸。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:晨间护肤｜洁面·保湿·防晒
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:39aae2a7-1d46-4bf4-bbab-0a61763f5188@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261018T164500
+DTEND;TZID=Asia/Shanghai:20261018T165500
+SUMMARY:体态练习｜颈肩胸椎10分钟
+DESCRIPTION:第1周。\n收下巴 2组×10次（每次保持3秒，头水
+ 平后移）；靠墙天使 2组×10次；门框胸肌拉伸 每侧2×30
+ 秒；胸椎旋转 每侧8次。\n时间不足时每项减半。轻柔
+ 完成，不追求疼痛；出现疼痛或眩晕停止。体态练习不
+ 能局部瘦脸。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:体态练习｜颈肩胸椎10分钟
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ec581357-0e7d-451e-af69-b2f710e0f82a@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261018T170000
+DTEND;TZID=Asia/Shanghai:20261018T172500
+SUMMARY:主动恢复｜散步与舒展
+DESCRIPTION:第1周。\n轻松散步15–25分钟，或做舒缓活动。
+ \n检查是否有明显疲劳或关节不适，必要时完全休息。
+ 今天不需要补练。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:主动恢复｜散步与舒展
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:9bf9071f-d37c-43b2-a0e0-1433deb6fc53@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261018T223000
+DTEND;TZID=Asia/Shanghai:20261018T224000
+SUMMARY:晚间护肤｜温和清洁·保湿
+DESCRIPTION:第1周／第5天。\n1. 用温和洁面清除当天油脂和
+ 防晒。\n2. 涂轻薄保湿乳。\n3. 尽量规律睡眠，减少高
+ 盐宵夜。\n前2–3周先稳定基础护肤，不同时叠加多种
+ 酸类或维A类。皮肤明显刺痛时停用可疑产品。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:晚间护肤｜温和清洁·保湿
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:1329898c-f5e1-4e8f-91b7-a525f747ebeb@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261019T090000
+DTEND;TZID=Asia/Shanghai:20261019T091000
+SUMMARY:晨间护肤｜洁面·保湿·防晒
+DESCRIPTION:第1周／第6天。\n1. 油脂明显时用温和洁面；不
+ 油可清水。\n2. 涂轻薄无香精保湿乳。\n3. 涂广谱SPF30–
+ 50防晒；长时间户外按产品说明补涂。\n观察早晨浮肿
+ ；正常饮水，不要通过脱水瘦脸。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:晨间护肤｜洁面·保湿·防晒
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:71f5ba48-745f-42b3-beec-d779697c82ad@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261019T164500
+DTEND;TZID=Asia/Shanghai:20261019T165500
+SUMMARY:体态练习｜颈肩胸椎10分钟
+DESCRIPTION:第1周。\n收下巴 2组×10次（每次保持3秒，头水
+ 平后移）；靠墙天使 2组×10次；门框胸肌拉伸 每侧2×30
+ 秒；胸椎旋转 每侧8次。\n时间不足时每项减半。轻柔
+ 完成，不追求疼痛；出现疼痛或眩晕停止。体态练习不
+ 能局部瘦脸。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:体态练习｜颈肩胸椎10分钟
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:a9c2b5b6-15c7-4a09-9372-97eeda6d8aeb@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261019T170000
+DTEND;TZID=Asia/Shanghai:20261019T174500
+SUMMARY:力量A｜全身基础
+DESCRIPTION:第1周（阶段1）｜热身5–8分钟。\n高脚杯深蹲 
+ 10次；哑铃卧推 10次；坐姿划船 12次；平板支撑 30–45
+ 秒。\n每项2组；周五侧平板可做2组。组间休息60–120秒
+ 。\n前两周以动作恢复为主，重量轻，留3–4次余力。\n
+ 结束后轻松活动3–5分钟。无需练到力竭。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:力量A｜全身基础
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ae9a471b-7f67-4efb-920c-b704f463b289@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261019T223000
+DTEND;TZID=Asia/Shanghai:20261019T224000
+SUMMARY:晚间护肤｜温和清洁·保湿
+DESCRIPTION:第1周／第6天。\n1. 用温和洁面清除当天油脂和
+ 防晒。\n2. 涂轻薄保湿乳。\n3. 尽量规律睡眠，减少高
+ 盐宵夜。\n前2–3周先稳定基础护肤，不同时叠加多种
+ 酸类或维A类。皮肤明显刺痛时停用可疑产品。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:晚间护肤｜温和清洁·保湿
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:5b0d03f6-6fee-4c16-be5a-66e00490ba29@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261020T090000
+DTEND;TZID=Asia/Shanghai:20261020T091000
+SUMMARY:晨间护肤｜洁面·保湿·防晒
+DESCRIPTION:第1周／第7天。\n1. 油脂明显时用温和洁面；不
+ 油可清水。\n2. 涂轻薄无香精保湿乳。\n3. 涂广谱SPF30–
+ 50防晒；长时间户外按产品说明补涂。\n观察早晨浮肿
+ ；正常饮水，不要通过脱水瘦脸。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:晨间护肤｜洁面·保湿·防晒
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ca30c615-a739-48a3-bbb0-cdcf3bf56b6a@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261020T164500
+DTEND;TZID=Asia/Shanghai:20261020T165500
+SUMMARY:体态练习｜颈肩胸椎10分钟
+DESCRIPTION:第1周。\n收下巴 2组×10次（每次保持3秒，头水
+ 平后移）；靠墙天使 2组×10次；门框胸肌拉伸 每侧2×30
+ 秒；胸椎旋转 每侧8次。\n时间不足时每项减半。轻柔
+ 完成，不追求疼痛；出现疼痛或眩晕停止。体态练习不
+ 能局部瘦脸。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:体态练习｜颈肩胸椎10分钟
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:b189ee4e-1d70-4041-8768-4e0267bc8710@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261020T170000
+DTEND;TZID=Asia/Shanghai:20261020T174000
+SUMMARY:有氧｜轻松跑／跑走结合
+DESCRIPTION:第1周（阶段1）。\n快走5分钟热身；慢跑2分钟
+ ＋步行2分钟，交替5组；最后步行放松5分钟。\n保持能
+ 说完整句子的强度；有疼痛就停，疲劳时缩短时长。跑
+ 步不能定向减少脸部脂肪。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:有氧｜轻松跑／跑走结合
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:9bb7fc5c-952a-4b4d-bb3b-afc9ec4ce917@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261020T223000
+DTEND;TZID=Asia/Shanghai:20261020T224000
+SUMMARY:晚间护肤｜温和清洁·保湿
+DESCRIPTION:第1周／第7天。\n1. 用温和洁面清除当天油脂和
+ 防晒。\n2. 涂轻薄保湿乳。\n3. 尽量规律睡眠，减少高
+ 盐宵夜。\n前2–3周先稳定基础护肤，不同时叠加多种
+ 酸类或维A类。皮肤明显刺痛时停用可疑产品。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:晚间护肤｜温和清洁·保湿
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:efbc096a-1d41-4965-95a1-dd64d4e47e89@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261021T090000
+DTEND;TZID=Asia/Shanghai:20261021T091000
+SUMMARY:晨间护肤｜洁面·保湿·防晒
+DESCRIPTION:第2周／第8天。\n1. 油脂明显时用温和洁面；不
+ 油可清水。\n2. 涂轻薄无香精保湿乳。\n3. 涂广谱SPF30–
+ 50防晒；长时间户外按产品说明补涂。\n观察早晨浮肿
+ ；正常饮水，不要通过脱水瘦脸。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:晨间护肤｜洁面·保湿·防晒
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:0a10fb91-7855-4b06-a9dd-2116fc3cff16@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261021T164500
+DTEND;TZID=Asia/Shanghai:20261021T165500
+SUMMARY:体态练习｜颈肩胸椎10分钟
+DESCRIPTION:第2周。\n收下巴 2组×10次（每次保持3秒，头水
+ 平后移）；靠墙天使 2组×10次；门框胸肌拉伸 每侧2×30
+ 秒；胸椎旋转 每侧8次。\n时间不足时每项减半。轻柔
+ 完成，不追求疼痛；出现疼痛或眩晕停止。体态练习不
+ 能局部瘦脸。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:体态练习｜颈肩胸椎10分钟
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:8fb62f3a-f3fd-4a5f-9b32-c219fbd05369@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261021T170000
+DTEND;TZID=Asia/Shanghai:20261021T174500
+SUMMARY:力量B｜背肩臀腿
+DESCRIPTION:第2周（阶段1）｜热身5–8分钟。\n罗马尼亚硬
+ 拉 10次；高位下拉 12次；哑铃肩推 10次；死虫式 每侧10
+ 次。\n每项2组；周五侧平板可做2组。组间休息60–120秒
+ 。\n前两周以动作恢复为主，重量轻，留3–4次余力。\n
+ 结束后轻松活动3–5分钟。无需练到力竭。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:力量B｜背肩臀腿
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:e9798e42-6559-4f3f-84b4-4e740c23368b@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261021T223000
+DTEND;TZID=Asia/Shanghai:20261021T224000
+SUMMARY:晚间护肤｜温和清洁·保湿
+DESCRIPTION:第2周／第8天。\n1. 用温和洁面清除当天油脂和
+ 防晒。\n2. 涂轻薄保湿乳。\n3. 尽量规律睡眠，减少高
+ 盐宵夜。\n前2–3周先稳定基础护肤，不同时叠加多种
+ 酸类或维A类。皮肤明显刺痛时停用可疑产品。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:晚间护肤｜温和清洁·保湿
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:3f3c6780-1c8c-426c-a791-0b9c76942540@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261022T090000
+DTEND;TZID=Asia/Shanghai:20261022T091000
+SUMMARY:晨间护肤｜洁面·保湿·防晒
+DESCRIPTION:第2周／第9天。\n1. 油脂明显时用温和洁面；不
+ 油可清水。\n2. 涂轻薄无香精保湿乳。\n3. 涂广谱SPF30–
+ 50防晒；长时间户外按产品说明补涂。\n观察早晨浮肿
+ ；正常饮水，不要通过脱水瘦脸。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:晨间护肤｜洁面·保湿·防晒
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:51e10e12-ada4-4030-9b22-2beabde8e733@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261022T164500
+DTEND;TZID=Asia/Shanghai:20261022T165500
+SUMMARY:体态练习｜颈肩胸椎10分钟
+DESCRIPTION:第2周。\n收下巴 2组×10次（每次保持3秒，头水
+ 平后移）；靠墙天使 2组×10次；门框胸肌拉伸 每侧2×30
+ 秒；胸椎旋转 每侧8次。\n时间不足时每项减半。轻柔
+ 完成，不追求疼痛；出现疼痛或眩晕停止。体态练习不
+ 能局部瘦脸。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:体态练习｜颈肩胸椎10分钟
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:466c3fb0-8672-4e8c-b153-62a4b327b98a@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261022T170000
+DTEND;TZID=Asia/Shanghai:20261022T174000
+SUMMARY:有氧｜轻松跑／跑走结合
+DESCRIPTION:第2周（阶段1）。\n快走5分钟热身；慢跑2分钟
+ ＋步行2分钟，交替5组；最后步行放松5分钟。\n保持能
+ 说完整句子的强度；有疼痛就停，疲劳时缩短时长。跑
+ 步不能定向减少脸部脂肪。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:有氧｜轻松跑／跑走结合
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:a2a6e810-23c9-4368-8d27-8e0be1f0ff6c@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261022T223000
+DTEND;TZID=Asia/Shanghai:20261022T224000
+SUMMARY:晚间护肤｜温和清洁·保湿
+DESCRIPTION:第2周／第9天。\n1. 用温和洁面清除当天油脂和
+ 防晒。\n2. 涂轻薄保湿乳。\n3. 尽量规律睡眠，减少高
+ 盐宵夜。\n前2–3周先稳定基础护肤，不同时叠加多种
+ 酸类或维A类。皮肤明显刺痛时停用可疑产品。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:晚间护肤｜温和清洁·保湿
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:f69ba83f-9b1e-43ef-889b-78a1da0feed0@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261023T090000
+DTEND;TZID=Asia/Shanghai:20261023T091000
+SUMMARY:晨间护肤｜洁面·保湿·防晒
+DESCRIPTION:第2周／第10天。\n1. 油脂明显时用温和洁面；
+ 不油可清水。\n2. 涂轻薄无香精保湿乳。\n3. 涂广谱SPF30
+ –50防晒；长时间户外按产品说明补涂。\n观察早晨浮
+ 肿；正常饮水，不要通过脱水瘦脸。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:晨间护肤｜洁面·保湿·防晒
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:b7c4781f-6545-471d-a690-746c0bd48e4b@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261023T164500
+DTEND;TZID=Asia/Shanghai:20261023T165500
+SUMMARY:体态练习｜颈肩胸椎10分钟
+DESCRIPTION:第2周。\n收下巴 2组×10次（每次保持3秒，头水
+ 平后移）；靠墙天使 2组×10次；门框胸肌拉伸 每侧2×30
+ 秒；胸椎旋转 每侧8次。\n时间不足时每项减半。轻柔
+ 完成，不追求疼痛；出现疼痛或眩晕停止。体态练习不
+ 能局部瘦脸。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:体态练习｜颈肩胸椎10分钟
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:a6db484c-93e7-4c52-bbaa-e352796a3f19@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261023T170000
+DTEND;TZID=Asia/Shanghai:20261023T174500
+SUMMARY:力量C｜全身综合
+DESCRIPTION:第2周（阶段1）｜热身5–8分钟。\n反向弓步蹲 
+ 每侧10次；俯卧撑 8–15次；单臂哑铃划船 每侧10次；侧
+ 平板支撑 每侧30秒。\n每项2组；周五侧平板可做2组。
+ 组间休息60–120秒。\n前两周以动作恢复为主，重量轻
+ ，留3–4次余力。\n结束后轻松活动3–5分钟。无需练到
+ 力竭。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:力量C｜全身综合
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:a729f7c1-70cf-44f4-b79f-676e28599cd7@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261023T223000
+DTEND;TZID=Asia/Shanghai:20261023T224000
+SUMMARY:晚间护肤｜温和清洁·保湿
+DESCRIPTION:第2周／第10天。\n1. 用温和洁面清除当天油脂
+ 和防晒。\n2. 涂轻薄保湿乳。\n3. 尽量规律睡眠，减少
+ 高盐宵夜。\n前2–3周先稳定基础护肤，不同时叠加多
+ 种酸类或维A类。皮肤明显刺痛时停用可疑产品。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:晚间护肤｜温和清洁·保湿
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:17d5ac46-8738-48f7-b911-305761af8ea7@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261024T090000
+DTEND;TZID=Asia/Shanghai:20261024T091000
+SUMMARY:晨间护肤｜洁面·保湿·防晒
+DESCRIPTION:第2周／第11天。\n1. 油脂明显时用温和洁面；
+ 不油可清水。\n2. 涂轻薄无香精保湿乳。\n3. 涂广谱SPF30
+ –50防晒；长时间户外按产品说明补涂。\n观察早晨浮
+ 肿；正常饮水，不要通过脱水瘦脸。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:晨间护肤｜洁面·保湿·防晒
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:29dfa4d1-1d37-4aff-aa15-4394801d590b@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261024T164500
+DTEND;TZID=Asia/Shanghai:20261024T165500
+SUMMARY:体态练习｜颈肩胸椎10分钟
+DESCRIPTION:第2周。\n收下巴 2组×10次（每次保持3秒，头水
+ 平后移）；靠墙天使 2组×10次；门框胸肌拉伸 每侧2×30
+ 秒；胸椎旋转 每侧8次。\n时间不足时每项减半。轻柔
+ 完成，不追求疼痛；出现疼痛或眩晕停止。体态练习不
+ 能局部瘦脸。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:体态练习｜颈肩胸椎10分钟
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:f37a56e9-75e9-49ed-afd8-40a750a94a75@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261024T170000
+DTEND;TZID=Asia/Shanghai:20261024T174000
+SUMMARY:有氧｜轻松跑／跑走结合
+DESCRIPTION:第2周（阶段1）。\n快走5分钟热身；慢跑2分钟
+ ＋步行2分钟，交替5组；最后步行放松5分钟。 若疲劳
+ ，可改为同等时间快走或骑车。\n保持能说完整句子的
+ 强度；有疼痛就停，疲劳时缩短时长。跑步不能定向减
+ 少脸部脂肪。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:有氧｜轻松跑／跑走结合
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:5bec593a-67f7-4bb1-9440-3e46f3b99b81@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261024T223000
+DTEND;TZID=Asia/Shanghai:20261024T224000
+SUMMARY:晚间护肤｜温和清洁·保湿
+DESCRIPTION:第2周／第11天。\n1. 用温和洁面清除当天油脂
+ 和防晒。\n2. 涂轻薄保湿乳。\n3. 尽量规律睡眠，减少
+ 高盐宵夜。\n前2–3周先稳定基础护肤，不同时叠加多
+ 种酸类或维A类。皮肤明显刺痛时停用可疑产品。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:晚间护肤｜温和清洁·保湿
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:1a26421c-4924-4952-a54c-998f7d5e94bc@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261025T090000
+DTEND;TZID=Asia/Shanghai:20261025T091000
+SUMMARY:晨间护肤｜洁面·保湿·防晒
+DESCRIPTION:第2周／第12天。\n1. 油脂明显时用温和洁面；
+ 不油可清水。\n2. 涂轻薄无香精保湿乳。\n3. 涂广谱SPF30
+ –50防晒；长时间户外按产品说明补涂。\n观察早晨浮
+ 肿；正常饮水，不要通过脱水瘦脸。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:晨间护肤｜洁面·保湿·防晒
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dbff3a60-9dc7-4888-bc21-ba6dffaeb2c5@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261025T164500
+DTEND;TZID=Asia/Shanghai:20261025T165500
+SUMMARY:体态练习｜颈肩胸椎10分钟
+DESCRIPTION:第2周。\n收下巴 2组×10次（每次保持3秒，头水
+ 平后移）；靠墙天使 2组×10次；门框胸肌拉伸 每侧2×30
+ 秒；胸椎旋转 每侧8次。\n时间不足时每项减半。轻柔
+ 完成，不追求疼痛；出现疼痛或眩晕停止。体态练习不
+ 能局部瘦脸。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:体态练习｜颈肩胸椎10分钟
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bf90d62d-515c-40af-bb5f-c9be91ce0070@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261025T170000
+DTEND;TZID=Asia/Shanghai:20261025T172500
+SUMMARY:主动恢复｜散步与舒展
+DESCRIPTION:第2周。\n轻松散步15–25分钟，或做舒缓活动。
+ \n检查是否有明显疲劳或关节不适，必要时完全休息。
+ 今天不需要补练。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:主动恢复｜散步与舒展
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:c4c71f28-c5bb-4219-90b3-7578e5440373@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261025T223000
+DTEND;TZID=Asia/Shanghai:20261025T224000
+SUMMARY:晚间护肤｜温和清洁·保湿
+DESCRIPTION:第2周／第12天。\n1. 用温和洁面清除当天油脂
+ 和防晒。\n2. 涂轻薄保湿乳。\n3. 尽量规律睡眠，减少
+ 高盐宵夜。\n前2–3周先稳定基础护肤，不同时叠加多
+ 种酸类或维A类。皮肤明显刺痛时停用可疑产品。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:晚间护肤｜温和清洁·保湿
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:f512c785-f8fe-4b8b-9690-55e523385026@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261026T090000
+DTEND;TZID=Asia/Shanghai:20261026T091000
+SUMMARY:晨间护肤｜洁面·保湿·防晒
+DESCRIPTION:第2周／第13天。\n1. 油脂明显时用温和洁面；
+ 不油可清水。\n2. 涂轻薄无香精保湿乳。\n3. 涂广谱SPF30
+ –50防晒；长时间户外按产品说明补涂。\n观察早晨浮
+ 肿；正常饮水，不要通过脱水瘦脸。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:晨间护肤｜洁面·保湿·防晒
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2c56a108-69cc-41db-8215-1153274bc495@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261026T164500
+DTEND;TZID=Asia/Shanghai:20261026T165500
+SUMMARY:体态练习｜颈肩胸椎10分钟
+DESCRIPTION:第2周。\n收下巴 2组×10次（每次保持3秒，头水
+ 平后移）；靠墙天使 2组×10次；门框胸肌拉伸 每侧2×30
+ 秒；胸椎旋转 每侧8次。\n时间不足时每项减半。轻柔
+ 完成，不追求疼痛；出现疼痛或眩晕停止。体态练习不
+ 能局部瘦脸。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:体态练习｜颈肩胸椎10分钟
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:634df5ef-b498-4955-bdc2-9d31c504bf31@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261026T170000
+DTEND;TZID=Asia/Shanghai:20261026T174500
+SUMMARY:力量A｜全身基础
+DESCRIPTION:第2周（阶段1）｜热身5–8分钟。\n高脚杯深蹲 
+ 10次；哑铃卧推 10次；坐姿划船 12次；平板支撑 30–45
+ 秒。\n每项2组；周五侧平板可做2组。组间休息60–120秒
+ 。\n前两周以动作恢复为主，重量轻，留3–4次余力。\n
+ 结束后轻松活动3–5分钟。无需练到力竭。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:力量A｜全身基础
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:5856dcd1-2b99-4fa4-a2ce-873cdba79a36@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261026T223000
+DTEND;TZID=Asia/Shanghai:20261026T224000
+SUMMARY:晚间护肤｜温和清洁·保湿
+DESCRIPTION:第2周／第13天。\n1. 用温和洁面清除当天油脂
+ 和防晒。\n2. 涂轻薄保湿乳。\n3. 尽量规律睡眠，减少
+ 高盐宵夜。\n前2–3周先稳定基础护肤，不同时叠加多
+ 种酸类或维A类。皮肤明显刺痛时停用可疑产品。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:晚间护肤｜温和清洁·保湿
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:f9d458bd-1428-4548-9969-bf20b226d7ac@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261027T090000
+DTEND;TZID=Asia/Shanghai:20261027T091000
+SUMMARY:晨间护肤｜洁面·保湿·防晒
+DESCRIPTION:第2周／第14天。\n1. 油脂明显时用温和洁面；
+ 不油可清水。\n2. 涂轻薄无香精保湿乳。\n3. 涂广谱SPF30
+ –50防晒；长时间户外按产品说明补涂。\n观察早晨浮
+ 肿；正常饮水，不要通过脱水瘦脸。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:晨间护肤｜洁面·保湿·防晒
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:0a6367e2-08b6-424a-9424-1dd8e0ea9e4e@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261027T164500
+DTEND;TZID=Asia/Shanghai:20261027T165500
+SUMMARY:体态练习｜颈肩胸椎10分钟
+DESCRIPTION:第2周。\n收下巴 2组×10次（每次保持3秒，头水
+ 平后移）；靠墙天使 2组×10次；门框胸肌拉伸 每侧2×30
+ 秒；胸椎旋转 每侧8次。\n时间不足时每项减半。轻柔
+ 完成，不追求疼痛；出现疼痛或眩晕停止。体态练习不
+ 能局部瘦脸。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:体态练习｜颈肩胸椎10分钟
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:535e4ba3-f847-4daf-81b8-21060e7efcde@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261027T170000
+DTEND;TZID=Asia/Shanghai:20261027T174000
+SUMMARY:有氧｜轻松跑／跑走结合
+DESCRIPTION:第2周（阶段1）。\n快走5分钟热身；慢跑2分钟
+ ＋步行2分钟，交替5组；最后步行放松5分钟。\n保持能
+ 说完整句子的强度；有疼痛就停，疲劳时缩短时长。跑
+ 步不能定向减少脸部脂肪。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:有氧｜轻松跑／跑走结合
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:17a576dd-e772-47a3-8422-36f0e8c12507@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261027T223000
+DTEND;TZID=Asia/Shanghai:20261027T224000
+SUMMARY:晚间护肤｜温和清洁·保湿
+DESCRIPTION:第2周／第14天。\n1. 用温和洁面清除当天油脂
+ 和防晒。\n2. 涂轻薄保湿乳。\n3. 尽量规律睡眠，减少
+ 高盐宵夜。\n前2–3周先稳定基础护肤，不同时叠加多
+ 种酸类或维A类。皮肤明显刺痛时停用可疑产品。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:晚间护肤｜温和清洁·保湿
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:94e80768-f288-4779-b0ce-e069d540eed2@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261028T090000
+DTEND;TZID=Asia/Shanghai:20261028T091000
+SUMMARY:晨间护肤｜洁面·保湿·防晒
+DESCRIPTION:第3周／第15天。\n1. 油脂明显时用温和洁面；
+ 不油可清水。\n2. 涂轻薄无香精保湿乳。\n3. 涂广谱SPF30
+ –50防晒；长时间户外按产品说明补涂。\n观察早晨浮
+ 肿；正常饮水，不要通过脱水瘦脸。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:晨间护肤｜洁面·保湿·防晒
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:d34f5c7e-848f-4736-842f-23812f31ea42@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261028T164500
+DTEND;TZID=Asia/Shanghai:20261028T165500
+SUMMARY:体态练习｜颈肩胸椎10分钟
+DESCRIPTION:第3周。\n收下巴 2组×10次（每次保持3秒，头水
+ 平后移）；靠墙天使 2组×10次；门框胸肌拉伸 每侧2×30
+ 秒；胸椎旋转 每侧8次。\n时间不足时每项减半。轻柔
+ 完成，不追求疼痛；出现疼痛或眩晕停止。体态练习不
+ 能局部瘦脸。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:体态练习｜颈肩胸椎10分钟
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:0955c481-f790-4ffc-9472-9d4457542622@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261028T170000
+DTEND;TZID=Asia/Shanghai:20261028T175500
+SUMMARY:力量B｜背肩臀腿
+DESCRIPTION:第3周（阶段2）｜热身5–8分钟。\n罗马尼亚硬
+ 拉 10次；高位下拉 12次；哑铃肩推 10次；死虫式 每侧10
+ 次。\n每项3组；周五侧平板可做2组。组间休息60–120秒
+ 。\n动作稳定后逐步增加重量，留2–3次余力。\n结束后
+ 轻松活动3–5分钟。无需练到力竭。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:力量B｜背肩臀腿
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:1c5db974-8d45-4f2d-a621-4d06713a2e75@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261028T223000
+DTEND;TZID=Asia/Shanghai:20261028T224000
+SUMMARY:晚间护肤｜温和清洁·保湿
+DESCRIPTION:第3周／第15天。\n1. 用温和洁面清除当天油脂
+ 和防晒。\n2. 涂轻薄保湿乳。\n3. 尽量规律睡眠，减少
+ 高盐宵夜。\n前2–3周先稳定基础护肤，不同时叠加多
+ 种酸类或维A类。皮肤明显刺痛时停用可疑产品。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:晚间护肤｜温和清洁·保湿
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fb6590a5-7dfe-4093-ac46-d1338ceb2a1d@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261029T090000
+DTEND;TZID=Asia/Shanghai:20261029T091000
+SUMMARY:晨间护肤｜洁面·保湿·防晒
+DESCRIPTION:第3周／第16天。\n1. 油脂明显时用温和洁面；
+ 不油可清水。\n2. 涂轻薄无香精保湿乳。\n3. 涂广谱SPF30
+ –50防晒；长时间户外按产品说明补涂。\n观察早晨浮
+ 肿；正常饮水，不要通过脱水瘦脸。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:晨间护肤｜洁面·保湿·防晒
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:98fcf405-a0b7-43c8-84eb-a3fb93b4fae6@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261029T164500
+DTEND;TZID=Asia/Shanghai:20261029T165500
+SUMMARY:体态练习｜颈肩胸椎10分钟
+DESCRIPTION:第3周。\n收下巴 2组×10次（每次保持3秒，头水
+ 平后移）；靠墙天使 2组×10次；门框胸肌拉伸 每侧2×30
+ 秒；胸椎旋转 每侧8次。\n时间不足时每项减半。轻柔
+ 完成，不追求疼痛；出现疼痛或眩晕停止。体态练习不
+ 能局部瘦脸。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:体态练习｜颈肩胸椎10分钟
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:4c26d1b5-e9cf-4e52-89d0-16e45b0d9783@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261029T170000
+DTEND;TZID=Asia/Shanghai:20261029T174000
+SUMMARY:有氧｜轻松跑／跑走结合
+DESCRIPTION:第3周（阶段2）。\n热身快走5分钟；轻松慢跑20
+ –25分钟；步行放松5分钟。\n保持能说完整句子的强度
+ ；有疼痛就停，疲劳时缩短时长。跑步不能定向减少脸
+ 部脂肪。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:有氧｜轻松跑／跑走结合
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:4f1a0327-7f80-4961-b03c-b30906147751@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261029T223000
+DTEND;TZID=Asia/Shanghai:20261029T224000
+SUMMARY:晚间护肤｜温和清洁·保湿
+DESCRIPTION:第3周／第16天。\n1. 用温和洁面清除当天油脂
+ 和防晒。\n2. 涂轻薄保湿乳。\n3. 尽量规律睡眠，减少
+ 高盐宵夜。\n前2–3周先稳定基础护肤，不同时叠加多
+ 种酸类或维A类。皮肤明显刺痛时停用可疑产品。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:晚间护肤｜温和清洁·保湿
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:5c6936a6-ad66-4fa2-92c3-dd5d2796cdfd@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261030T090000
+DTEND;TZID=Asia/Shanghai:20261030T091000
+SUMMARY:晨间护肤｜洁面·保湿·防晒
+DESCRIPTION:第3周／第17天。\n1. 油脂明显时用温和洁面；
+ 不油可清水。\n2. 涂轻薄无香精保湿乳。\n3. 涂广谱SPF30
+ –50防晒；长时间户外按产品说明补涂。\n观察早晨浮
+ 肿；正常饮水，不要通过脱水瘦脸。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:晨间护肤｜洁面·保湿·防晒
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10ea209e-f361-4c1b-acc0-b0836ca94f80@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261030T164500
+DTEND;TZID=Asia/Shanghai:20261030T165500
+SUMMARY:体态练习｜颈肩胸椎10分钟
+DESCRIPTION:第3周。\n收下巴 2组×10次（每次保持3秒，头水
+ 平后移）；靠墙天使 2组×10次；门框胸肌拉伸 每侧2×30
+ 秒；胸椎旋转 每侧8次。\n时间不足时每项减半。轻柔
+ 完成，不追求疼痛；出现疼痛或眩晕停止。体态练习不
+ 能局部瘦脸。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:体态练习｜颈肩胸椎10分钟
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:a1a25fe2-4d2a-4aa8-a42b-b0537c26bd71@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261030T170000
+DTEND;TZID=Asia/Shanghai:20261030T175500
+SUMMARY:力量C｜全身综合
+DESCRIPTION:第3周（阶段2）｜热身5–8分钟。\n反向弓步蹲 
+ 每侧10次；俯卧撑 8–15次；单臂哑铃划船 每侧10次；侧
+ 平板支撑 每侧30秒。\n每项3组；周五侧平板可做2组。
+ 组间休息60–120秒。\n动作稳定后逐步增加重量，留2–3
+ 次余力。\n结束后轻松活动3–5分钟。无需练到力竭。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:力量C｜全身综合
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:5f72c8d1-00bf-430d-8341-4e428b21fcd2@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261030T223000
+DTEND;TZID=Asia/Shanghai:20261030T224000
+SUMMARY:晚间护肤｜温和清洁·保湿
+DESCRIPTION:第3周／第17天。\n1. 用温和洁面清除当天油脂
+ 和防晒。\n2. 涂轻薄保湿乳。\n3. 尽量规律睡眠，减少
+ 高盐宵夜。\n前2–3周先稳定基础护肤，不同时叠加多
+ 种酸类或维A类。皮肤明显刺痛时停用可疑产品。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:晚间护肤｜温和清洁·保湿
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:95844c26-0854-4e2e-a2d9-3dca2eef5474@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261031T090000
+DTEND;TZID=Asia/Shanghai:20261031T091000
+SUMMARY:晨间护肤｜洁面·保湿·防晒
+DESCRIPTION:第3周／第18天。\n1. 油脂明显时用温和洁面；
+ 不油可清水。\n2. 涂轻薄无香精保湿乳。\n3. 涂广谱SPF30
+ –50防晒；长时间户外按产品说明补涂。\n观察早晨浮
+ 肿；正常饮水，不要通过脱水瘦脸。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:晨间护肤｜洁面·保湿·防晒
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:c29666ee-2bcf-4395-a1ea-d66b1e068ac2@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261031T164500
+DTEND;TZID=Asia/Shanghai:20261031T165500
+SUMMARY:体态练习｜颈肩胸椎10分钟
+DESCRIPTION:第3周。\n收下巴 2组×10次（每次保持3秒，头水
+ 平后移）；靠墙天使 2组×10次；门框胸肌拉伸 每侧2×30
+ 秒；胸椎旋转 每侧8次。\n时间不足时每项减半。轻柔
+ 完成，不追求疼痛；出现疼痛或眩晕停止。体态练习不
+ 能局部瘦脸。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:体态练习｜颈肩胸椎10分钟
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:b06d71d1-0d3d-49f8-ad6f-83993e6b40ba@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261031T170000
+DTEND;TZID=Asia/Shanghai:20261031T174000
+SUMMARY:有氧｜轻松跑／跑走结合
+DESCRIPTION:第3周（阶段2）。\n热身快走5分钟；轻松慢跑20
+ –25分钟；步行放松5分钟。 若疲劳，可改为同等时间
+ 快走或骑车。\n保持能说完整句子的强度；有疼痛就停
+ ，疲劳时缩短时长。跑步不能定向减少脸部脂肪。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:有氧｜轻松跑／跑走结合
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:0cde5a38-3628-4a3e-b892-f058f3ad3ab3@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261031T223000
+DTEND;TZID=Asia/Shanghai:20261031T224000
+SUMMARY:晚间护肤｜温和清洁·保湿
+DESCRIPTION:第3周／第18天。\n1. 用温和洁面清除当天油脂
+ 和防晒。\n2. 涂轻薄保湿乳。\n3. 尽量规律睡眠，减少
+ 高盐宵夜。\n前2–3周先稳定基础护肤，不同时叠加多
+ 种酸类或维A类。皮肤明显刺痛时停用可疑产品。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:晚间护肤｜温和清洁·保湿
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:d5c408ad-328b-446b-84bd-05e610bff05b@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261101T090000
+DTEND;TZID=Asia/Shanghai:20261101T091000
+SUMMARY:晨间护肤｜洁面·保湿·防晒
+DESCRIPTION:第3周／第19天。\n1. 油脂明显时用温和洁面；
+ 不油可清水。\n2. 涂轻薄无香精保湿乳。\n3. 涂广谱SPF30
+ –50防晒；长时间户外按产品说明补涂。\n观察早晨浮
+ 肿；正常饮水，不要通过脱水瘦脸。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:晨间护肤｜洁面·保湿·防晒
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:1ae3ba3d-2baa-4199-b52b-29f574c1fa5e@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261101T164500
+DTEND;TZID=Asia/Shanghai:20261101T165500
+SUMMARY:体态练习｜颈肩胸椎10分钟
+DESCRIPTION:第3周。\n收下巴 2组×10次（每次保持3秒，头水
+ 平后移）；靠墙天使 2组×10次；门框胸肌拉伸 每侧2×30
+ 秒；胸椎旋转 每侧8次。\n时间不足时每项减半。轻柔
+ 完成，不追求疼痛；出现疼痛或眩晕停止。体态练习不
+ 能局部瘦脸。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:体态练习｜颈肩胸椎10分钟
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:e316faa9-8754-45dc-be4d-e22730efb0dc@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261101T170000
+DTEND;TZID=Asia/Shanghai:20261101T172500
+SUMMARY:主动恢复｜散步与舒展
+DESCRIPTION:第3周。\n轻松散步15–25分钟，或做舒缓活动。
+ \n检查是否有明显疲劳或关节不适，必要时完全休息。
+ 今天不需要补练。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:主动恢复｜散步与舒展
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:6cc5c98c-1ded-4a92-adeb-b7bcd4047bb9@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261101T223000
+DTEND;TZID=Asia/Shanghai:20261101T224000
+SUMMARY:晚间护肤｜温和清洁·保湿
+DESCRIPTION:第3周／第19天。\n1. 用温和洁面清除当天油脂
+ 和防晒。\n2. 涂轻薄保湿乳。\n3. 尽量规律睡眠，减少
+ 高盐宵夜。\n前2–3周先稳定基础护肤，不同时叠加多
+ 种酸类或维A类。皮肤明显刺痛时停用可疑产品。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:晚间护肤｜温和清洁·保湿
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:0ba31d20-3cb8-42d6-bf37-7c188badc6eb@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261102T090000
+DTEND;TZID=Asia/Shanghai:20261102T091000
+SUMMARY:晨间护肤｜洁面·保湿·防晒
+DESCRIPTION:第3周／第20天。\n1. 油脂明显时用温和洁面；
+ 不油可清水。\n2. 涂轻薄无香精保湿乳。\n3. 涂广谱SPF30
+ –50防晒；长时间户外按产品说明补涂。\n观察早晨浮
+ 肿；正常饮水，不要通过脱水瘦脸。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:晨间护肤｜洁面·保湿·防晒
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:af606b1c-b2a0-4ba8-bf4b-210072e94f5b@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261102T164500
+DTEND;TZID=Asia/Shanghai:20261102T165500
+SUMMARY:体态练习｜颈肩胸椎10分钟
+DESCRIPTION:第3周。\n收下巴 2组×10次（每次保持3秒，头水
+ 平后移）；靠墙天使 2组×10次；门框胸肌拉伸 每侧2×30
+ 秒；胸椎旋转 每侧8次。\n时间不足时每项减半。轻柔
+ 完成，不追求疼痛；出现疼痛或眩晕停止。体态练习不
+ 能局部瘦脸。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:体态练习｜颈肩胸椎10分钟
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:0805d384-a4c8-4d22-bcbd-4dee48859c33@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261102T170000
+DTEND;TZID=Asia/Shanghai:20261102T175500
+SUMMARY:力量A｜全身基础
+DESCRIPTION:第3周（阶段2）｜热身5–8分钟。\n高脚杯深蹲 
+ 10次；哑铃卧推 10次；坐姿划船 12次；平板支撑 30–45
+ 秒。\n每项3组；周五侧平板可做2组。组间休息60–120秒
+ 。\n动作稳定后逐步增加重量，留2–3次余力。\n结束后
+ 轻松活动3–5分钟。无需练到力竭。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:力量A｜全身基础
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:459043fd-2875-4569-94bc-48c8d4ef1a80@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261102T223000
+DTEND;TZID=Asia/Shanghai:20261102T224000
+SUMMARY:晚间护肤｜温和清洁·保湿
+DESCRIPTION:第3周／第20天。\n1. 用温和洁面清除当天油脂
+ 和防晒。\n2. 涂轻薄保湿乳。\n3. 尽量规律睡眠，减少
+ 高盐宵夜。\n前2–3周先稳定基础护肤，不同时叠加多
+ 种酸类或维A类。皮肤明显刺痛时停用可疑产品。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:晚间护肤｜温和清洁·保湿
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:db34d9fe-5931-4728-98ba-b2e1040670e4@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261103T090000
+DTEND;TZID=Asia/Shanghai:20261103T091000
+SUMMARY:晨间护肤｜洁面·保湿·防晒
+DESCRIPTION:第3周／第21天。\n1. 油脂明显时用温和洁面；
+ 不油可清水。\n2. 涂轻薄无香精保湿乳。\n3. 涂广谱SPF30
+ –50防晒；长时间户外按产品说明补涂。\n观察早晨浮
+ 肿；正常饮水，不要通过脱水瘦脸。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:晨间护肤｜洁面·保湿·防晒
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:5ea0ab40-66cb-49a3-b2e7-e3d251090f69@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261103T164500
+DTEND;TZID=Asia/Shanghai:20261103T165500
+SUMMARY:体态练习｜颈肩胸椎10分钟
+DESCRIPTION:第3周。\n收下巴 2组×10次（每次保持3秒，头水
+ 平后移）；靠墙天使 2组×10次；门框胸肌拉伸 每侧2×30
+ 秒；胸椎旋转 每侧8次。\n时间不足时每项减半。轻柔
+ 完成，不追求疼痛；出现疼痛或眩晕停止。体态练习不
+ 能局部瘦脸。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:体态练习｜颈肩胸椎10分钟
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:d2411750-1c07-45ed-b7b7-d5a72ab9a7bd@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261103T170000
+DTEND;TZID=Asia/Shanghai:20261103T174000
+SUMMARY:有氧｜轻松跑／跑走结合
+DESCRIPTION:第3周（阶段2）。\n热身快走5分钟；轻松慢跑20
+ –25分钟；步行放松5分钟。\n保持能说完整句子的强度
+ ；有疼痛就停，疲劳时缩短时长。跑步不能定向减少脸
+ 部脂肪。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:有氧｜轻松跑／跑走结合
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:3bae034e-a524-4be0-a009-41757b8969d8@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261103T223000
+DTEND;TZID=Asia/Shanghai:20261103T224000
+SUMMARY:晚间护肤｜温和清洁·保湿
+DESCRIPTION:第3周／第21天。\n1. 用温和洁面清除当天油脂
+ 和防晒。\n2. 涂轻薄保湿乳。\n3. 尽量规律睡眠，减少
+ 高盐宵夜。\n前2–3周先稳定基础护肤，不同时叠加多
+ 种酸类或维A类。皮肤明显刺痛时停用可疑产品。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:晚间护肤｜温和清洁·保湿
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ededb2f1-c7e7-45ba-8dd2-9c79673a26dc@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261104T090000
+DTEND;TZID=Asia/Shanghai:20261104T091000
+SUMMARY:晨间护肤｜洁面·保湿·防晒
+DESCRIPTION:第4周／第22天。\n1. 油脂明显时用温和洁面；
+ 不油可清水。\n2. 涂轻薄无香精保湿乳。\n3. 涂广谱SPF30
+ –50防晒；长时间户外按产品说明补涂。\n观察早晨浮
+ 肿；正常饮水，不要通过脱水瘦脸。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:晨间护肤｜洁面·保湿·防晒
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:8004fc6b-c351-4680-8ade-780069453db1@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261104T164500
+DTEND;TZID=Asia/Shanghai:20261104T165500
+SUMMARY:体态练习｜颈肩胸椎10分钟
+DESCRIPTION:第4周。\n收下巴 2组×10次（每次保持3秒，头水
+ 平后移）；靠墙天使 2组×10次；门框胸肌拉伸 每侧2×30
+ 秒；胸椎旋转 每侧8次。\n时间不足时每项减半。轻柔
+ 完成，不追求疼痛；出现疼痛或眩晕停止。体态练习不
+ 能局部瘦脸。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:体态练习｜颈肩胸椎10分钟
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:50b04d16-f90c-4dc9-9816-1296bd4f5e0c@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261104T170000
+DTEND;TZID=Asia/Shanghai:20261104T175500
+SUMMARY:力量B｜背肩臀腿
+DESCRIPTION:第4周（阶段2）｜热身5–8分钟。\n罗马尼亚硬
+ 拉 10次；高位下拉 12次；哑铃肩推 10次；死虫式 每侧10
+ 次。\n每项3组；周五侧平板可做2组。组间休息60–120秒
+ 。\n动作稳定后逐步增加重量，留2–3次余力。\n结束后
+ 轻松活动3–5分钟。无需练到力竭。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:力量B｜背肩臀腿
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:a7ba49da-fd2d-498e-a873-63fe402aeb62@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261104T223000
+DTEND;TZID=Asia/Shanghai:20261104T224000
+SUMMARY:晚间护肤｜温和清洁·保湿
+DESCRIPTION:第4周／第22天。\n1. 用温和洁面清除当天油脂
+ 和防晒。\n2. 涂轻薄保湿乳。\n3. 尽量规律睡眠，减少
+ 高盐宵夜。\n前2–3周先稳定基础护肤，不同时叠加多
+ 种酸类或维A类。皮肤明显刺痛时停用可疑产品。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:晚间护肤｜温和清洁·保湿
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:009a2778-5963-42d6-9435-3ba7034f8eff@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261105T090000
+DTEND;TZID=Asia/Shanghai:20261105T091000
+SUMMARY:晨间护肤｜洁面·保湿·防晒
+DESCRIPTION:第4周／第23天。\n1. 油脂明显时用温和洁面；
+ 不油可清水。\n2. 涂轻薄无香精保湿乳。\n3. 涂广谱SPF30
+ –50防晒；长时间户外按产品说明补涂。\n观察早晨浮
+ 肿；正常饮水，不要通过脱水瘦脸。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:晨间护肤｜洁面·保湿·防晒
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:642b02a2-d7ff-450f-9b0b-cfda3de3cb50@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261105T164500
+DTEND;TZID=Asia/Shanghai:20261105T165500
+SUMMARY:体态练习｜颈肩胸椎10分钟
+DESCRIPTION:第4周。\n收下巴 2组×10次（每次保持3秒，头水
+ 平后移）；靠墙天使 2组×10次；门框胸肌拉伸 每侧2×30
+ 秒；胸椎旋转 每侧8次。\n时间不足时每项减半。轻柔
+ 完成，不追求疼痛；出现疼痛或眩晕停止。体态练习不
+ 能局部瘦脸。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:体态练习｜颈肩胸椎10分钟
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:46b2b90c-9fba-4b66-b3e0-42b9a6588fd9@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261105T170000
+DTEND;TZID=Asia/Shanghai:20261105T174000
+SUMMARY:有氧｜轻松跑／跑走结合
+DESCRIPTION:第4周（阶段2）。\n热身快走5分钟；轻松慢跑20
+ –25分钟；步行放松5分钟。\n保持能说完整句子的强度
+ ；有疼痛就停，疲劳时缩短时长。跑步不能定向减少脸
+ 部脂肪。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:有氧｜轻松跑／跑走结合
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:1333cc22-08c4-4635-b0e2-7ede8fc5f148@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261105T223000
+DTEND;TZID=Asia/Shanghai:20261105T224000
+SUMMARY:晚间护肤｜温和清洁·保湿
+DESCRIPTION:第4周／第23天。\n1. 用温和洁面清除当天油脂
+ 和防晒。\n2. 涂轻薄保湿乳。\n3. 尽量规律睡眠，减少
+ 高盐宵夜。\n前2–3周先稳定基础护肤，不同时叠加多
+ 种酸类或维A类。皮肤明显刺痛时停用可疑产品。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:晚间护肤｜温和清洁·保湿
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:5d2ea734-f0b6-4edc-88a2-3f13b7848f50@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261106T090000
+DTEND;TZID=Asia/Shanghai:20261106T091000
+SUMMARY:晨间护肤｜洁面·保湿·防晒
+DESCRIPTION:第4周／第24天。\n1. 油脂明显时用温和洁面；
+ 不油可清水。\n2. 涂轻薄无香精保湿乳。\n3. 涂广谱SPF30
+ –50防晒；长时间户外按产品说明补涂。\n观察早晨浮
+ 肿；正常饮水，不要通过脱水瘦脸。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:晨间护肤｜洁面·保湿·防晒
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:91b1df66-e28c-4c3b-9c94-3237e357b613@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261106T164500
+DTEND;TZID=Asia/Shanghai:20261106T165500
+SUMMARY:体态练习｜颈肩胸椎10分钟
+DESCRIPTION:第4周。\n收下巴 2组×10次（每次保持3秒，头水
+ 平后移）；靠墙天使 2组×10次；门框胸肌拉伸 每侧2×30
+ 秒；胸椎旋转 每侧8次。\n时间不足时每项减半。轻柔
+ 完成，不追求疼痛；出现疼痛或眩晕停止。体态练习不
+ 能局部瘦脸。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:体态练习｜颈肩胸椎10分钟
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:c9aff33a-8550-4895-8722-02746c134f43@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261106T170000
+DTEND;TZID=Asia/Shanghai:20261106T175500
+SUMMARY:力量C｜全身综合
+DESCRIPTION:第4周（阶段2）｜热身5–8分钟。\n反向弓步蹲 
+ 每侧10次；俯卧撑 8–15次；单臂哑铃划船 每侧10次；侧
+ 平板支撑 每侧30秒。\n每项3组；周五侧平板可做2组。
+ 组间休息60–120秒。\n动作稳定后逐步增加重量，留2–3
+ 次余力。\n结束后轻松活动3–5分钟。无需练到力竭。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:力量C｜全身综合
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:c842aca7-22f7-4377-95a6-5582f9456a2d@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261106T223000
+DTEND;TZID=Asia/Shanghai:20261106T224000
+SUMMARY:晚间护肤｜温和清洁·保湿
+DESCRIPTION:第4周／第24天。\n1. 用温和洁面清除当天油脂
+ 和防晒。\n2. 涂轻薄保湿乳。\n3. 尽量规律睡眠，减少
+ 高盐宵夜。\n前2–3周先稳定基础护肤，不同时叠加多
+ 种酸类或维A类。皮肤明显刺痛时停用可疑产品。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:晚间护肤｜温和清洁·保湿
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:8d4e1633-5f67-4d8e-ba65-c229ab985ad2@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261107T090000
+DTEND;TZID=Asia/Shanghai:20261107T091000
+SUMMARY:晨间护肤｜洁面·保湿·防晒
+DESCRIPTION:第4周／第25天。\n1. 油脂明显时用温和洁面；
+ 不油可清水。\n2. 涂轻薄无香精保湿乳。\n3. 涂广谱SPF30
+ –50防晒；长时间户外按产品说明补涂。\n观察早晨浮
+ 肿；正常饮水，不要通过脱水瘦脸。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:晨间护肤｜洁面·保湿·防晒
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:f30d812a-e334-43ba-acd7-9d63b7d4cb4d@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261107T164500
+DTEND;TZID=Asia/Shanghai:20261107T165500
+SUMMARY:体态练习｜颈肩胸椎10分钟
+DESCRIPTION:第4周。\n收下巴 2组×10次（每次保持3秒，头水
+ 平后移）；靠墙天使 2组×10次；门框胸肌拉伸 每侧2×30
+ 秒；胸椎旋转 每侧8次。\n时间不足时每项减半。轻柔
+ 完成，不追求疼痛；出现疼痛或眩晕停止。体态练习不
+ 能局部瘦脸。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:体态练习｜颈肩胸椎10分钟
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:c383f34c-13b7-407b-8cae-5bfa2c5a78b4@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261107T170000
+DTEND;TZID=Asia/Shanghai:20261107T174000
+SUMMARY:有氧｜轻松跑／跑走结合
+DESCRIPTION:第4周（阶段2）。\n热身快走5分钟；轻松慢跑20
+ –25分钟；步行放松5分钟。 若疲劳，可改为同等时间
+ 快走或骑车。\n保持能说完整句子的强度；有疼痛就停
+ ，疲劳时缩短时长。跑步不能定向减少脸部脂肪。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:有氧｜轻松跑／跑走结合
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:a8eba6c3-bb18-46b4-96f3-97b2f2a6441d@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261107T223000
+DTEND;TZID=Asia/Shanghai:20261107T224000
+SUMMARY:晚间护肤｜温和清洁·保湿
+DESCRIPTION:第4周／第25天。\n1. 用温和洁面清除当天油脂
+ 和防晒。\n2. 涂轻薄保湿乳。\n3. 尽量规律睡眠，减少
+ 高盐宵夜。\n前2–3周先稳定基础护肤，不同时叠加多
+ 种酸类或维A类。皮肤明显刺痛时停用可疑产品。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:晚间护肤｜温和清洁·保湿
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:f6c3c7d2-7e4c-4fa9-b2e0-1847adf755b1@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261108T090000
+DTEND;TZID=Asia/Shanghai:20261108T091000
+SUMMARY:晨间护肤｜洁面·保湿·防晒
+DESCRIPTION:第4周／第26天。\n1. 油脂明显时用温和洁面；
+ 不油可清水。\n2. 涂轻薄无香精保湿乳。\n3. 涂广谱SPF30
+ –50防晒；长时间户外按产品说明补涂。\n观察早晨浮
+ 肿；正常饮水，不要通过脱水瘦脸。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:晨间护肤｜洁面·保湿·防晒
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:abf819ee-7e3f-4bfe-b9c0-506d010d8022@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261108T164500
+DTEND;TZID=Asia/Shanghai:20261108T165500
+SUMMARY:体态练习｜颈肩胸椎10分钟
+DESCRIPTION:第4周。\n收下巴 2组×10次（每次保持3秒，头水
+ 平后移）；靠墙天使 2组×10次；门框胸肌拉伸 每侧2×30
+ 秒；胸椎旋转 每侧8次。\n时间不足时每项减半。轻柔
+ 完成，不追求疼痛；出现疼痛或眩晕停止。体态练习不
+ 能局部瘦脸。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:体态练习｜颈肩胸椎10分钟
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ad109b7b-cfeb-4264-a191-8e1a58fcb2df@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261108T170000
+DTEND;TZID=Asia/Shanghai:20261108T172500
+SUMMARY:主动恢复｜散步与舒展
+DESCRIPTION:第4周。\n轻松散步15–25分钟，或做舒缓活动。
+ \n检查是否有明显疲劳或关节不适，必要时完全休息。
+ 今天不需要补练。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:主动恢复｜散步与舒展
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:b004e5b1-13de-435a-84f9-c9c9d4ebf1e8@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261108T223000
+DTEND;TZID=Asia/Shanghai:20261108T224000
+SUMMARY:晚间护肤｜温和清洁·保湿
+DESCRIPTION:第4周／第26天。\n1. 用温和洁面清除当天油脂
+ 和防晒。\n2. 涂轻薄保湿乳。\n3. 尽量规律睡眠，减少
+ 高盐宵夜。\n前2–3周先稳定基础护肤，不同时叠加多
+ 种酸类或维A类。皮肤明显刺痛时停用可疑产品。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:晚间护肤｜温和清洁·保湿
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:f6e9061d-610e-4545-a12d-888a1551db55@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261109T090000
+DTEND;TZID=Asia/Shanghai:20261109T091000
+SUMMARY:晨间护肤｜洁面·保湿·防晒
+DESCRIPTION:第4周／第27天。\n1. 油脂明显时用温和洁面；
+ 不油可清水。\n2. 涂轻薄无香精保湿乳。\n3. 涂广谱SPF30
+ –50防晒；长时间户外按产品说明补涂。\n观察早晨浮
+ 肿；正常饮水，不要通过脱水瘦脸。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:晨间护肤｜洁面·保湿·防晒
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:22ea6b82-a93d-4df6-972d-b57bda496a3c@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261109T164500
+DTEND;TZID=Asia/Shanghai:20261109T165500
+SUMMARY:体态练习｜颈肩胸椎10分钟
+DESCRIPTION:第4周。\n收下巴 2组×10次（每次保持3秒，头水
+ 平后移）；靠墙天使 2组×10次；门框胸肌拉伸 每侧2×30
+ 秒；胸椎旋转 每侧8次。\n时间不足时每项减半。轻柔
+ 完成，不追求疼痛；出现疼痛或眩晕停止。体态练习不
+ 能局部瘦脸。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:体态练习｜颈肩胸椎10分钟
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:78c22734-a80c-4465-8eaa-b8534d780ef8@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261109T170000
+DTEND;TZID=Asia/Shanghai:20261109T175500
+SUMMARY:力量A｜全身基础
+DESCRIPTION:第4周（阶段2）｜热身5–8分钟。\n高脚杯深蹲 
+ 10次；哑铃卧推 10次；坐姿划船 12次；平板支撑 30–45
+ 秒。\n每项3组；周五侧平板可做2组。组间休息60–120秒
+ 。\n动作稳定后逐步增加重量，留2–3次余力。\n结束后
+ 轻松活动3–5分钟。无需练到力竭。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:力量A｜全身基础
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:4829b08d-f9f9-4e8a-ba6c-78f6b3e3c7fa@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261109T223000
+DTEND;TZID=Asia/Shanghai:20261109T224000
+SUMMARY:晚间护肤｜温和清洁·保湿
+DESCRIPTION:第4周／第27天。\n1. 用温和洁面清除当天油脂
+ 和防晒。\n2. 涂轻薄保湿乳。\n3. 尽量规律睡眠，减少
+ 高盐宵夜。\n前2–3周先稳定基础护肤，不同时叠加多
+ 种酸类或维A类。皮肤明显刺痛时停用可疑产品。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:晚间护肤｜温和清洁·保湿
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:b2cc9c24-5202-425f-b4d8-f89f464a46cc@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261110T090000
+DTEND;TZID=Asia/Shanghai:20261110T091000
+SUMMARY:晨间护肤｜洁面·保湿·防晒
+DESCRIPTION:第4周／第28天。\n1. 油脂明显时用温和洁面；
+ 不油可清水。\n2. 涂轻薄无香精保湿乳。\n3. 涂广谱SPF30
+ –50防晒；长时间户外按产品说明补涂。\n观察早晨浮
+ 肿；正常饮水，不要通过脱水瘦脸。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:晨间护肤｜洁面·保湿·防晒
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2e1115cf-d51d-48cd-b5ce-3103b5f2ff0c@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261110T164500
+DTEND;TZID=Asia/Shanghai:20261110T165500
+SUMMARY:体态练习｜颈肩胸椎10分钟
+DESCRIPTION:第4周。\n收下巴 2组×10次（每次保持3秒，头水
+ 平后移）；靠墙天使 2组×10次；门框胸肌拉伸 每侧2×30
+ 秒；胸椎旋转 每侧8次。\n时间不足时每项减半。轻柔
+ 完成，不追求疼痛；出现疼痛或眩晕停止。体态练习不
+ 能局部瘦脸。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:体态练习｜颈肩胸椎10分钟
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:24b75c18-6db1-4e1e-a3b6-c8d37fba29bf@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261110T170000
+DTEND;TZID=Asia/Shanghai:20261110T174000
+SUMMARY:有氧｜轻松跑／跑走结合
+DESCRIPTION:第4周（阶段2）。\n热身快走5分钟；轻松慢跑20
+ –25分钟；步行放松5分钟。\n保持能说完整句子的强度
+ ；有疼痛就停，疲劳时缩短时长。跑步不能定向减少脸
+ 部脂肪。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:有氧｜轻松跑／跑走结合
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:da9063a3-f772-4d93-84f6-60d1a1c6958d@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261110T223000
+DTEND;TZID=Asia/Shanghai:20261110T224000
+SUMMARY:晚间护肤｜温和清洁·保湿
+DESCRIPTION:第4周／第28天。\n1. 用温和洁面清除当天油脂
+ 和防晒。\n2. 涂轻薄保湿乳。\n3. 尽量规律睡眠，减少
+ 高盐宵夜。\n前2–3周先稳定基础护肤，不同时叠加多
+ 种酸类或维A类。皮肤明显刺痛时停用可疑产品。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:晚间护肤｜温和清洁·保湿
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bb2858c3-e7ba-4069-9608-5a9711f5cc5f@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261111T090000
+DTEND;TZID=Asia/Shanghai:20261111T091000
+SUMMARY:晨间护肤｜洁面·保湿·防晒
+DESCRIPTION:第5周／第29天。\n1. 油脂明显时用温和洁面；
+ 不油可清水。\n2. 涂轻薄无香精保湿乳。\n3. 涂广谱SPF30
+ –50防晒；长时间户外按产品说明补涂。\n观察早晨浮
+ 肿；正常饮水，不要通过脱水瘦脸。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:晨间护肤｜洁面·保湿·防晒
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fc6f8ddc-50f2-4a88-8f77-14b1550e16b9@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261111T164500
+DTEND;TZID=Asia/Shanghai:20261111T165500
+SUMMARY:体态练习｜颈肩胸椎10分钟
+DESCRIPTION:第5周。\n收下巴 2组×10次（每次保持3秒，头水
+ 平后移）；靠墙天使 2组×10次；门框胸肌拉伸 每侧2×30
+ 秒；胸椎旋转 每侧8次。\n时间不足时每项减半。轻柔
+ 完成，不追求疼痛；出现疼痛或眩晕停止。体态练习不
+ 能局部瘦脸。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:体态练习｜颈肩胸椎10分钟
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fd1729fe-af98-4eb9-a4a3-272fe179c7db@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261111T170000
+DTEND;TZID=Asia/Shanghai:20261111T175500
+SUMMARY:力量B｜背肩臀腿
+DESCRIPTION:第5周（阶段2）｜热身5–8分钟。\n罗马尼亚硬
+ 拉 10次；高位下拉 12次；哑铃肩推 10次；死虫式 每侧10
+ 次。\n每项3组；周五侧平板可做2组。组间休息60–120秒
+ 。\n动作稳定后逐步增加重量，留2–3次余力。\n结束后
+ 轻松活动3–5分钟。无需练到力竭。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:力量B｜背肩臀腿
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2b11a2b0-9414-4cd2-9afd-35f2e85d0c84@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261111T223000
+DTEND;TZID=Asia/Shanghai:20261111T224000
+SUMMARY:晚间护肤｜温和清洁·保湿
+DESCRIPTION:第5周／第29天。\n1. 用温和洁面清除当天油脂
+ 和防晒。\n2. 涂轻薄保湿乳。\n3. 尽量规律睡眠，减少
+ 高盐宵夜。\n前2–3周先稳定基础护肤，不同时叠加多
+ 种酸类或维A类。皮肤明显刺痛时停用可疑产品。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:晚间护肤｜温和清洁·保湿
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:236bc213-076e-4227-89a1-d6229b8d5a7a@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261112T090000
+DTEND;TZID=Asia/Shanghai:20261112T091000
+SUMMARY:晨间护肤｜洁面·保湿·防晒
+DESCRIPTION:第5周／第30天。\n1. 油脂明显时用温和洁面；
+ 不油可清水。\n2. 涂轻薄无香精保湿乳。\n3. 涂广谱SPF30
+ –50防晒；长时间户外按产品说明补涂。\n观察早晨浮
+ 肿；正常饮水，不要通过脱水瘦脸。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:晨间护肤｜洁面·保湿·防晒
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:e9ff0b6d-a960-48f9-be9a-be714e9480b8@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261112T164500
+DTEND;TZID=Asia/Shanghai:20261112T165500
+SUMMARY:体态练习｜颈肩胸椎10分钟
+DESCRIPTION:第5周。\n收下巴 2组×10次（每次保持3秒，头水
+ 平后移）；靠墙天使 2组×10次；门框胸肌拉伸 每侧2×30
+ 秒；胸椎旋转 每侧8次。\n时间不足时每项减半。轻柔
+ 完成，不追求疼痛；出现疼痛或眩晕停止。体态练习不
+ 能局部瘦脸。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:体态练习｜颈肩胸椎10分钟
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:99e994e7-6d64-4215-8589-4d52c80d036a@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261112T170000
+DTEND;TZID=Asia/Shanghai:20261112T174500
+SUMMARY:有氧｜轻松跑／跑走结合
+DESCRIPTION:第5周（阶段2）。\n热身快走5分钟；轻松慢跑25
+ –35分钟；步行放松5分钟。\n保持能说完整句子的强度
+ ；有疼痛就停，疲劳时缩短时长。跑步不能定向减少脸
+ 部脂肪。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:有氧｜轻松跑／跑走结合
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:836f9a11-3d72-44ae-ad0c-cbdfc0b2992f@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261112T223000
+DTEND;TZID=Asia/Shanghai:20261112T224000
+SUMMARY:晚间护肤｜温和清洁·保湿
+DESCRIPTION:第5周／第30天。\n1. 用温和洁面清除当天油脂
+ 和防晒。\n2. 涂轻薄保湿乳。\n3. 尽量规律睡眠，减少
+ 高盐宵夜。\n前2–3周先稳定基础护肤，不同时叠加多
+ 种酸类或维A类。皮肤明显刺痛时停用可疑产品。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:晚间护肤｜温和清洁·保湿
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:8964f605-af18-4b78-8864-9d02a1326b8d@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261113T090000
+DTEND;TZID=Asia/Shanghai:20261113T091000
+SUMMARY:晨间护肤｜洁面·保湿·防晒
+DESCRIPTION:第5周／第31天。\n1. 油脂明显时用温和洁面；
+ 不油可清水。\n2. 涂轻薄无香精保湿乳。\n3. 涂广谱SPF30
+ –50防晒；长时间户外按产品说明补涂。\n观察早晨浮
+ 肿；正常饮水，不要通过脱水瘦脸。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:晨间护肤｜洁面·保湿·防晒
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bce5167f-b44b-4699-86fd-ce77818c9d12@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261113T164500
+DTEND;TZID=Asia/Shanghai:20261113T165500
+SUMMARY:体态练习｜颈肩胸椎10分钟
+DESCRIPTION:第5周。\n收下巴 2组×10次（每次保持3秒，头水
+ 平后移）；靠墙天使 2组×10次；门框胸肌拉伸 每侧2×30
+ 秒；胸椎旋转 每侧8次。\n时间不足时每项减半。轻柔
+ 完成，不追求疼痛；出现疼痛或眩晕停止。体态练习不
+ 能局部瘦脸。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:体态练习｜颈肩胸椎10分钟
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:26d8afcd-5f0c-411f-b1e1-f3181279d664@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261113T170000
+DTEND;TZID=Asia/Shanghai:20261113T175500
+SUMMARY:力量C｜全身综合
+DESCRIPTION:第5周（阶段2）｜热身5–8分钟。\n反向弓步蹲 
+ 每侧10次；俯卧撑 8–15次；单臂哑铃划船 每侧10次；侧
+ 平板支撑 每侧30秒。\n每项3组；周五侧平板可做2组。
+ 组间休息60–120秒。\n动作稳定后逐步增加重量，留2–3
+ 次余力。\n结束后轻松活动3–5分钟。无需练到力竭。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:力量C｜全身综合
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2eac0d27-dbf6-482e-bdc6-401f3d806ebe@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261113T223000
+DTEND;TZID=Asia/Shanghai:20261113T224000
+SUMMARY:晚间护肤｜温和清洁·保湿
+DESCRIPTION:第5周／第31天。\n1. 用温和洁面清除当天油脂
+ 和防晒。\n2. 涂轻薄保湿乳。\n3. 尽量规律睡眠，减少
+ 高盐宵夜。\n前2–3周先稳定基础护肤，不同时叠加多
+ 种酸类或维A类。皮肤明显刺痛时停用可疑产品。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:晚间护肤｜温和清洁·保湿
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:0876a716-8d98-4bd1-a9d6-b1aa7b290791@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261114T090000
+DTEND;TZID=Asia/Shanghai:20261114T091000
+SUMMARY:晨间护肤｜洁面·保湿·防晒
+DESCRIPTION:第5周／第32天。\n1. 油脂明显时用温和洁面；
+ 不油可清水。\n2. 涂轻薄无香精保湿乳。\n3. 涂广谱SPF30
+ –50防晒；长时间户外按产品说明补涂。\n观察早晨浮
+ 肿；正常饮水，不要通过脱水瘦脸。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:晨间护肤｜洁面·保湿·防晒
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2dd12168-62cb-43b2-90c0-99a0eac54371@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261114T164500
+DTEND;TZID=Asia/Shanghai:20261114T165500
+SUMMARY:体态练习｜颈肩胸椎10分钟
+DESCRIPTION:第5周。\n收下巴 2组×10次（每次保持3秒，头水
+ 平后移）；靠墙天使 2组×10次；门框胸肌拉伸 每侧2×30
+ 秒；胸椎旋转 每侧8次。\n时间不足时每项减半。轻柔
+ 完成，不追求疼痛；出现疼痛或眩晕停止。体态练习不
+ 能局部瘦脸。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:体态练习｜颈肩胸椎10分钟
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:76922928-1176-4f1c-b040-c90a78be0b0e@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261114T170000
+DTEND;TZID=Asia/Shanghai:20261114T174500
+SUMMARY:有氧｜轻松跑／跑走结合
+DESCRIPTION:第5周（阶段2）。\n热身快走5分钟；轻松慢跑25
+ –35分钟；步行放松5分钟。 若疲劳，可改为同等时间
+ 快走或骑车。\n保持能说完整句子的强度；有疼痛就停
+ ，疲劳时缩短时长。跑步不能定向减少脸部脂肪。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:有氧｜轻松跑／跑走结合
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:b6857d0e-4484-4e3f-839a-9a76e5ec5699@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261114T223000
+DTEND;TZID=Asia/Shanghai:20261114T224000
+SUMMARY:晚间护肤｜温和清洁·保湿
+DESCRIPTION:第5周／第32天。\n1. 用温和洁面清除当天油脂
+ 和防晒。\n2. 涂轻薄保湿乳。\n3. 尽量规律睡眠，减少
+ 高盐宵夜。\n前2–3周先稳定基础护肤，不同时叠加多
+ 种酸类或维A类。皮肤明显刺痛时停用可疑产品。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:晚间护肤｜温和清洁·保湿
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:5c0e0dd4-9e55-49cc-9743-46fd7aedb21c@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261115T090000
+DTEND;TZID=Asia/Shanghai:20261115T091000
+SUMMARY:晨间护肤｜洁面·保湿·防晒
+DESCRIPTION:第5周／第33天。\n1. 油脂明显时用温和洁面；
+ 不油可清水。\n2. 涂轻薄无香精保湿乳。\n3. 涂广谱SPF30
+ –50防晒；长时间户外按产品说明补涂。\n观察早晨浮
+ 肿；正常饮水，不要通过脱水瘦脸。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:晨间护肤｜洁面·保湿·防晒
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:6cdd7c86-2f66-4c0b-aab4-30db87b2f410@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261115T164500
+DTEND;TZID=Asia/Shanghai:20261115T165500
+SUMMARY:体态练习｜颈肩胸椎10分钟
+DESCRIPTION:第5周。\n收下巴 2组×10次（每次保持3秒，头水
+ 平后移）；靠墙天使 2组×10次；门框胸肌拉伸 每侧2×30
+ 秒；胸椎旋转 每侧8次。\n时间不足时每项减半。轻柔
+ 完成，不追求疼痛；出现疼痛或眩晕停止。体态练习不
+ 能局部瘦脸。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:体态练习｜颈肩胸椎10分钟
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:524c548e-a4e4-4753-8567-d439c20133bc@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261115T170000
+DTEND;TZID=Asia/Shanghai:20261115T172500
+SUMMARY:主动恢复｜散步与舒展
+DESCRIPTION:第5周。\n轻松散步15–25分钟，或做舒缓活动。
+ \n检查是否有明显疲劳或关节不适，必要时完全休息。
+ 今天不需要补练。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:主动恢复｜散步与舒展
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:46da1bbb-5783-4d19-82ae-633f5873a7b8@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261115T223000
+DTEND;TZID=Asia/Shanghai:20261115T224000
+SUMMARY:晚间护肤｜温和清洁·保湿
+DESCRIPTION:第5周／第33天。\n1. 用温和洁面清除当天油脂
+ 和防晒。\n2. 涂轻薄保湿乳。\n3. 尽量规律睡眠，减少
+ 高盐宵夜。\n前2–3周先稳定基础护肤，不同时叠加多
+ 种酸类或维A类。皮肤明显刺痛时停用可疑产品。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:晚间护肤｜温和清洁·保湿
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:1bbfee4e-29d8-4409-81ca-bac925a14c57@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261116T090000
+DTEND;TZID=Asia/Shanghai:20261116T091000
+SUMMARY:晨间护肤｜洁面·保湿·防晒
+DESCRIPTION:第5周／第34天。\n1. 油脂明显时用温和洁面；
+ 不油可清水。\n2. 涂轻薄无香精保湿乳。\n3. 涂广谱SPF30
+ –50防晒；长时间户外按产品说明补涂。\n观察早晨浮
+ 肿；正常饮水，不要通过脱水瘦脸。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:晨间护肤｜洁面·保湿·防晒
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:b17293d6-50c1-4374-9516-9e59e5020360@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261116T164500
+DTEND;TZID=Asia/Shanghai:20261116T165500
+SUMMARY:体态练习｜颈肩胸椎10分钟
+DESCRIPTION:第5周。\n收下巴 2组×10次（每次保持3秒，头水
+ 平后移）；靠墙天使 2组×10次；门框胸肌拉伸 每侧2×30
+ 秒；胸椎旋转 每侧8次。\n时间不足时每项减半。轻柔
+ 完成，不追求疼痛；出现疼痛或眩晕停止。体态练习不
+ 能局部瘦脸。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:体态练习｜颈肩胸椎10分钟
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dfd5b401-e5de-46b7-aee5-e81a98ca351c@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261116T170000
+DTEND;TZID=Asia/Shanghai:20261116T175500
+SUMMARY:力量A｜全身基础
+DESCRIPTION:第5周（阶段2）｜热身5–8分钟。\n高脚杯深蹲 
+ 10次；哑铃卧推 10次；坐姿划船 12次；平板支撑 30–45
+ 秒。\n每项3组；周五侧平板可做2组。组间休息60–120秒
+ 。\n动作稳定后逐步增加重量，留2–3次余力。\n结束后
+ 轻松活动3–5分钟。无需练到力竭。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:力量A｜全身基础
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:5b771abc-1a54-4970-a445-a5c69702532d@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261116T223000
+DTEND;TZID=Asia/Shanghai:20261116T224000
+SUMMARY:晚间护肤｜温和清洁·保湿
+DESCRIPTION:第5周／第34天。\n1. 用温和洁面清除当天油脂
+ 和防晒。\n2. 涂轻薄保湿乳。\n3. 尽量规律睡眠，减少
+ 高盐宵夜。\n前2–3周先稳定基础护肤，不同时叠加多
+ 种酸类或维A类。皮肤明显刺痛时停用可疑产品。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:晚间护肤｜温和清洁·保湿
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:31610c68-85d6-40f9-954f-41835ffe1c21@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261117T090000
+DTEND;TZID=Asia/Shanghai:20261117T091000
+SUMMARY:晨间护肤｜洁面·保湿·防晒
+DESCRIPTION:第5周／第35天。\n1. 油脂明显时用温和洁面；
+ 不油可清水。\n2. 涂轻薄无香精保湿乳。\n3. 涂广谱SPF30
+ –50防晒；长时间户外按产品说明补涂。\n观察早晨浮
+ 肿；正常饮水，不要通过脱水瘦脸。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:晨间护肤｜洁面·保湿·防晒
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:6b45fbf9-0665-49a8-8788-76e8ac78bc54@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261117T164500
+DTEND;TZID=Asia/Shanghai:20261117T165500
+SUMMARY:体态练习｜颈肩胸椎10分钟
+DESCRIPTION:第5周。\n收下巴 2组×10次（每次保持3秒，头水
+ 平后移）；靠墙天使 2组×10次；门框胸肌拉伸 每侧2×30
+ 秒；胸椎旋转 每侧8次。\n时间不足时每项减半。轻柔
+ 完成，不追求疼痛；出现疼痛或眩晕停止。体态练习不
+ 能局部瘦脸。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:体态练习｜颈肩胸椎10分钟
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:28517424-010b-4404-88c0-00833b6ee369@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261117T170000
+DTEND;TZID=Asia/Shanghai:20261117T174500
+SUMMARY:有氧｜轻松跑／跑走结合
+DESCRIPTION:第5周（阶段2）。\n热身快走5分钟；轻松慢跑25
+ –35分钟；步行放松5分钟。\n保持能说完整句子的强度
+ ；有疼痛就停，疲劳时缩短时长。跑步不能定向减少脸
+ 部脂肪。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:有氧｜轻松跑／跑走结合
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:7b4c20f4-0c0f-4ee0-a2c8-6aebfa07cecb@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261117T223000
+DTEND;TZID=Asia/Shanghai:20261117T224000
+SUMMARY:晚间护肤｜温和清洁·保湿
+DESCRIPTION:第5周／第35天。\n1. 用温和洁面清除当天油脂
+ 和防晒。\n2. 涂轻薄保湿乳。\n3. 尽量规律睡眠，减少
+ 高盐宵夜。\n前2–3周先稳定基础护肤，不同时叠加多
+ 种酸类或维A类。皮肤明显刺痛时停用可疑产品。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:晚间护肤｜温和清洁·保湿
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:283c6ec8-6e27-4698-8770-403ec2b4a4fd@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261118T090000
+DTEND;TZID=Asia/Shanghai:20261118T091000
+SUMMARY:晨间护肤｜洁面·保湿·防晒
+DESCRIPTION:第6周／第36天。\n1. 油脂明显时用温和洁面；
+ 不油可清水。\n2. 涂轻薄无香精保湿乳。\n3. 涂广谱SPF30
+ –50防晒；长时间户外按产品说明补涂。\n观察早晨浮
+ 肿；正常饮水，不要通过脱水瘦脸。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:晨间护肤｜洁面·保湿·防晒
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:5325f955-9ee5-4a1d-9f4b-395ae719ec92@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261118T164500
+DTEND;TZID=Asia/Shanghai:20261118T165500
+SUMMARY:体态练习｜颈肩胸椎10分钟
+DESCRIPTION:第6周。\n收下巴 2组×10次（每次保持3秒，头水
+ 平后移）；靠墙天使 2组×10次；门框胸肌拉伸 每侧2×30
+ 秒；胸椎旋转 每侧8次。\n时间不足时每项减半。轻柔
+ 完成，不追求疼痛；出现疼痛或眩晕停止。体态练习不
+ 能局部瘦脸。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:体态练习｜颈肩胸椎10分钟
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:f0d079b0-78e9-4044-9acb-d6ea2df46f27@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261118T170000
+DTEND;TZID=Asia/Shanghai:20261118T175500
+SUMMARY:力量B｜背肩臀腿
+DESCRIPTION:第6周（阶段2）｜热身5–8分钟。\n罗马尼亚硬
+ 拉 10次；高位下拉 12次；哑铃肩推 10次；死虫式 每侧10
+ 次。\n每项3组；周五侧平板可做2组。组间休息60–120秒
+ 。\n动作稳定后逐步增加重量，留2–3次余力。\n结束后
+ 轻松活动3–5分钟。无需练到力竭。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:力量B｜背肩臀腿
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:4afe09b0-6b5c-4c61-8d5b-94448220a344@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261118T223000
+DTEND;TZID=Asia/Shanghai:20261118T224000
+SUMMARY:晚间护肤｜温和清洁·保湿
+DESCRIPTION:第6周／第36天。\n1. 用温和洁面清除当天油脂
+ 和防晒。\n2. 涂轻薄保湿乳。\n3. 尽量规律睡眠，减少
+ 高盐宵夜。\n前2–3周先稳定基础护肤，不同时叠加多
+ 种酸类或维A类。皮肤明显刺痛时停用可疑产品。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:晚间护肤｜温和清洁·保湿
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:84c83e5f-7918-4557-98d2-61556e38874a@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261119T090000
+DTEND;TZID=Asia/Shanghai:20261119T091000
+SUMMARY:晨间护肤｜洁面·保湿·防晒
+DESCRIPTION:第6周／第37天。\n1. 油脂明显时用温和洁面；
+ 不油可清水。\n2. 涂轻薄无香精保湿乳。\n3. 涂广谱SPF30
+ –50防晒；长时间户外按产品说明补涂。\n观察早晨浮
+ 肿；正常饮水，不要通过脱水瘦脸。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:晨间护肤｜洁面·保湿·防晒
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fbb9a694-1774-4827-8e9d-fc62befa6c8c@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261119T164500
+DTEND;TZID=Asia/Shanghai:20261119T165500
+SUMMARY:体态练习｜颈肩胸椎10分钟
+DESCRIPTION:第6周。\n收下巴 2组×10次（每次保持3秒，头水
+ 平后移）；靠墙天使 2组×10次；门框胸肌拉伸 每侧2×30
+ 秒；胸椎旋转 每侧8次。\n时间不足时每项减半。轻柔
+ 完成，不追求疼痛；出现疼痛或眩晕停止。体态练习不
+ 能局部瘦脸。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:体态练习｜颈肩胸椎10分钟
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:c6f5c732-9b10-4ac9-9628-595119f20f61@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261119T170000
+DTEND;TZID=Asia/Shanghai:20261119T174500
+SUMMARY:有氧｜轻松跑／跑走结合
+DESCRIPTION:第6周（阶段2）。\n热身快走5分钟；轻松慢跑25
+ –35分钟；步行放松5分钟。\n保持能说完整句子的强度
+ ；有疼痛就停，疲劳时缩短时长。跑步不能定向减少脸
+ 部脂肪。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:有氧｜轻松跑／跑走结合
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:098421dc-9d79-4715-8623-2c2b39ebdd61@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261119T223000
+DTEND;TZID=Asia/Shanghai:20261119T224000
+SUMMARY:晚间护肤｜温和清洁·保湿
+DESCRIPTION:第6周／第37天。\n1. 用温和洁面清除当天油脂
+ 和防晒。\n2. 涂轻薄保湿乳。\n3. 尽量规律睡眠，减少
+ 高盐宵夜。\n前2–3周先稳定基础护肤，不同时叠加多
+ 种酸类或维A类。皮肤明显刺痛时停用可疑产品。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:晚间护肤｜温和清洁·保湿
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:0257ca07-fcd1-4727-a82d-83b7fa1bd9ea@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261120T090000
+DTEND;TZID=Asia/Shanghai:20261120T091000
+SUMMARY:晨间护肤｜洁面·保湿·防晒
+DESCRIPTION:第6周／第38天。\n1. 油脂明显时用温和洁面；
+ 不油可清水。\n2. 涂轻薄无香精保湿乳。\n3. 涂广谱SPF30
+ –50防晒；长时间户外按产品说明补涂。\n观察早晨浮
+ 肿；正常饮水，不要通过脱水瘦脸。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:晨间护肤｜洁面·保湿·防晒
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:c13a7960-8eea-469b-9d83-fd1cdae52a60@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261120T164500
+DTEND;TZID=Asia/Shanghai:20261120T165500
+SUMMARY:体态练习｜颈肩胸椎10分钟
+DESCRIPTION:第6周。\n收下巴 2组×10次（每次保持3秒，头水
+ 平后移）；靠墙天使 2组×10次；门框胸肌拉伸 每侧2×30
+ 秒；胸椎旋转 每侧8次。\n时间不足时每项减半。轻柔
+ 完成，不追求疼痛；出现疼痛或眩晕停止。体态练习不
+ 能局部瘦脸。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:体态练习｜颈肩胸椎10分钟
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:a337f130-8faf-4182-9588-4d8b103bd11a@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261120T170000
+DTEND;TZID=Asia/Shanghai:20261120T175500
+SUMMARY:力量C｜全身综合
+DESCRIPTION:第6周（阶段2）｜热身5–8分钟。\n反向弓步蹲 
+ 每侧10次；俯卧撑 8–15次；单臂哑铃划船 每侧10次；侧
+ 平板支撑 每侧30秒。\n每项3组；周五侧平板可做2组。
+ 组间休息60–120秒。\n动作稳定后逐步增加重量，留2–3
+ 次余力。\n结束后轻松活动3–5分钟。无需练到力竭。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:力量C｜全身综合
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:b5b7a2a4-3a8e-4d93-9771-9ac41b9a8450@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261120T223000
+DTEND;TZID=Asia/Shanghai:20261120T224000
+SUMMARY:晚间护肤｜温和清洁·保湿
+DESCRIPTION:第6周／第38天。\n1. 用温和洁面清除当天油脂
+ 和防晒。\n2. 涂轻薄保湿乳。\n3. 尽量规律睡眠，减少
+ 高盐宵夜。\n前2–3周先稳定基础护肤，不同时叠加多
+ 种酸类或维A类。皮肤明显刺痛时停用可疑产品。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:晚间护肤｜温和清洁·保湿
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:d9497d5a-f5b3-4680-8945-85187783684b@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261121T090000
+DTEND;TZID=Asia/Shanghai:20261121T091000
+SUMMARY:晨间护肤｜洁面·保湿·防晒
+DESCRIPTION:第6周／第39天。\n1. 油脂明显时用温和洁面；
+ 不油可清水。\n2. 涂轻薄无香精保湿乳。\n3. 涂广谱SPF30
+ –50防晒；长时间户外按产品说明补涂。\n观察早晨浮
+ 肿；正常饮水，不要通过脱水瘦脸。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:晨间护肤｜洁面·保湿·防晒
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:7a7413fa-7c32-4c89-a735-d0aba000e84b@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261121T164500
+DTEND;TZID=Asia/Shanghai:20261121T165500
+SUMMARY:体态练习｜颈肩胸椎10分钟
+DESCRIPTION:第6周。\n收下巴 2组×10次（每次保持3秒，头水
+ 平后移）；靠墙天使 2组×10次；门框胸肌拉伸 每侧2×30
+ 秒；胸椎旋转 每侧8次。\n时间不足时每项减半。轻柔
+ 完成，不追求疼痛；出现疼痛或眩晕停止。体态练习不
+ 能局部瘦脸。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:体态练习｜颈肩胸椎10分钟
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:62ea6424-48e5-407f-ba9e-36795892d4a7@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261121T170000
+DTEND;TZID=Asia/Shanghai:20261121T174500
+SUMMARY:有氧｜轻松跑／跑走结合
+DESCRIPTION:第6周（阶段2）。\n热身快走5分钟；轻松慢跑25
+ –35分钟；步行放松5分钟。 若疲劳，可改为同等时间
+ 快走或骑车。\n保持能说完整句子的强度；有疼痛就停
+ ，疲劳时缩短时长。跑步不能定向减少脸部脂肪。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:有氧｜轻松跑／跑走结合
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:a7ac3b0c-4d65-4ba3-b130-6fdfe8231db2@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261121T223000
+DTEND;TZID=Asia/Shanghai:20261121T224000
+SUMMARY:晚间护肤｜温和清洁·保湿
+DESCRIPTION:第6周／第39天。\n1. 用温和洁面清除当天油脂
+ 和防晒。\n2. 涂轻薄保湿乳。\n3. 尽量规律睡眠，减少
+ 高盐宵夜。\n前2–3周先稳定基础护肤，不同时叠加多
+ 种酸类或维A类。皮肤明显刺痛时停用可疑产品。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:晚间护肤｜温和清洁·保湿
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:e5bdead6-cbbe-4c91-8944-8e62d4ae0cc6@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261122T090000
+DTEND;TZID=Asia/Shanghai:20261122T091000
+SUMMARY:晨间护肤｜洁面·保湿·防晒
+DESCRIPTION:第6周／第40天。\n1. 油脂明显时用温和洁面；
+ 不油可清水。\n2. 涂轻薄无香精保湿乳。\n3. 涂广谱SPF30
+ –50防晒；长时间户外按产品说明补涂。\n观察早晨浮
+ 肿；正常饮水，不要通过脱水瘦脸。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:晨间护肤｜洁面·保湿·防晒
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:16fc7719-0c6d-4935-93c8-279b16b1aa07@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261122T164500
+DTEND;TZID=Asia/Shanghai:20261122T165500
+SUMMARY:体态练习｜颈肩胸椎10分钟
+DESCRIPTION:第6周。\n收下巴 2组×10次（每次保持3秒，头水
+ 平后移）；靠墙天使 2组×10次；门框胸肌拉伸 每侧2×30
+ 秒；胸椎旋转 每侧8次。\n时间不足时每项减半。轻柔
+ 完成，不追求疼痛；出现疼痛或眩晕停止。体态练习不
+ 能局部瘦脸。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:体态练习｜颈肩胸椎10分钟
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:8653e001-0d04-4164-8bc1-8f624dc70799@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261122T170000
+DTEND;TZID=Asia/Shanghai:20261122T172500
+SUMMARY:主动恢复｜散步与舒展
+DESCRIPTION:第6周。\n轻松散步15–25分钟，或做舒缓活动。
+ \n检查是否有明显疲劳或关节不适，必要时完全休息。
+ 今天不需要补练。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:主动恢复｜散步与舒展
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:da837e4d-d8eb-436e-b5a5-d933289231ea@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261122T223000
+DTEND;TZID=Asia/Shanghai:20261122T224000
+SUMMARY:晚间护肤｜温和清洁·保湿
+DESCRIPTION:第6周／第40天。\n1. 用温和洁面清除当天油脂
+ 和防晒。\n2. 涂轻薄保湿乳。\n3. 尽量规律睡眠，减少
+ 高盐宵夜。\n前2–3周先稳定基础护肤，不同时叠加多
+ 种酸类或维A类。皮肤明显刺痛时停用可疑产品。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:晚间护肤｜温和清洁·保湿
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:a463bbce-f1d5-4975-bfe6-993ba937dcc9@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261123T090000
+DTEND;TZID=Asia/Shanghai:20261123T091000
+SUMMARY:晨间护肤｜洁面·保湿·防晒
+DESCRIPTION:第6周／第41天。\n1. 油脂明显时用温和洁面；
+ 不油可清水。\n2. 涂轻薄无香精保湿乳。\n3. 涂广谱SPF30
+ –50防晒；长时间户外按产品说明补涂。\n观察早晨浮
+ 肿；正常饮水，不要通过脱水瘦脸。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:晨间护肤｜洁面·保湿·防晒
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:f0f6bb63-32f3-4086-a778-f345e7fdbc6e@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261123T164500
+DTEND;TZID=Asia/Shanghai:20261123T165500
+SUMMARY:体态练习｜颈肩胸椎10分钟
+DESCRIPTION:第6周。\n收下巴 2组×10次（每次保持3秒，头水
+ 平后移）；靠墙天使 2组×10次；门框胸肌拉伸 每侧2×30
+ 秒；胸椎旋转 每侧8次。\n时间不足时每项减半。轻柔
+ 完成，不追求疼痛；出现疼痛或眩晕停止。体态练习不
+ 能局部瘦脸。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:体态练习｜颈肩胸椎10分钟
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:0a86dab5-c080-4612-9696-478063bf57e6@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261123T170000
+DTEND;TZID=Asia/Shanghai:20261123T175500
+SUMMARY:力量A｜全身基础
+DESCRIPTION:第6周（阶段2）｜热身5–8分钟。\n高脚杯深蹲 
+ 10次；哑铃卧推 10次；坐姿划船 12次；平板支撑 30–45
+ 秒。\n每项3组；周五侧平板可做2组。组间休息60–120秒
+ 。\n动作稳定后逐步增加重量，留2–3次余力。\n结束后
+ 轻松活动3–5分钟。无需练到力竭。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:力量A｜全身基础
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:4e68e384-de69-42cb-8ea1-9c8e72779d80@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261123T223000
+DTEND;TZID=Asia/Shanghai:20261123T224000
+SUMMARY:晚间护肤｜温和清洁·保湿
+DESCRIPTION:第6周／第41天。\n1. 用温和洁面清除当天油脂
+ 和防晒。\n2. 涂轻薄保湿乳。\n3. 尽量规律睡眠，减少
+ 高盐宵夜。\n前2–3周先稳定基础护肤，不同时叠加多
+ 种酸类或维A类。皮肤明显刺痛时停用可疑产品。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:晚间护肤｜温和清洁·保湿
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:927c3d37-9016-4fa1-9ba7-ea77a7eb29ed@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261124T090000
+DTEND;TZID=Asia/Shanghai:20261124T091000
+SUMMARY:晨间护肤｜洁面·保湿·防晒
+DESCRIPTION:第6周／第42天。\n1. 油脂明显时用温和洁面；
+ 不油可清水。\n2. 涂轻薄无香精保湿乳。\n3. 涂广谱SPF30
+ –50防晒；长时间户外按产品说明补涂。\n观察早晨浮
+ 肿；正常饮水，不要通过脱水瘦脸。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:晨间护肤｜洁面·保湿·防晒
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:5706dd7a-a1bc-4773-b578-63563652fbd2@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261124T164500
+DTEND;TZID=Asia/Shanghai:20261124T165500
+SUMMARY:体态练习｜颈肩胸椎10分钟
+DESCRIPTION:第6周。\n收下巴 2组×10次（每次保持3秒，头水
+ 平后移）；靠墙天使 2组×10次；门框胸肌拉伸 每侧2×30
+ 秒；胸椎旋转 每侧8次。\n时间不足时每项减半。轻柔
+ 完成，不追求疼痛；出现疼痛或眩晕停止。体态练习不
+ 能局部瘦脸。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:体态练习｜颈肩胸椎10分钟
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:d4a8f054-e18c-4802-9211-2688b04652ef@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261124T170000
+DTEND;TZID=Asia/Shanghai:20261124T174500
+SUMMARY:有氧｜轻松跑／跑走结合
+DESCRIPTION:第6周（阶段2）。\n热身快走5分钟；轻松慢跑25
+ –35分钟；步行放松5分钟。\n保持能说完整句子的强度
+ ；有疼痛就停，疲劳时缩短时长。跑步不能定向减少脸
+ 部脂肪。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:有氧｜轻松跑／跑走结合
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:f4431e69-b790-46da-aace-f8ee19a35dc5@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261124T223000
+DTEND;TZID=Asia/Shanghai:20261124T224000
+SUMMARY:晚间护肤｜温和清洁·保湿
+DESCRIPTION:第6周／第42天。\n1. 用温和洁面清除当天油脂
+ 和防晒。\n2. 涂轻薄保湿乳。\n3. 尽量规律睡眠，减少
+ 高盐宵夜。\n前2–3周先稳定基础护肤，不同时叠加多
+ 种酸类或维A类。皮肤明显刺痛时停用可疑产品。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:晚间护肤｜温和清洁·保湿
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:af7146b1-15f7-48cf-ad73-c679aee1711f@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261125T090000
+DTEND;TZID=Asia/Shanghai:20261125T091000
+SUMMARY:晨间护肤｜洁面·保湿·防晒
+DESCRIPTION:第7周／第43天。\n1. 油脂明显时用温和洁面；
+ 不油可清水。\n2. 涂轻薄无香精保湿乳。\n3. 涂广谱SPF30
+ –50防晒；长时间户外按产品说明补涂。\n观察早晨浮
+ 肿；正常饮水，不要通过脱水瘦脸。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:晨间护肤｜洁面·保湿·防晒
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cbe2ae2c-05bc-4956-a427-45b1fce25a01@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261125T164500
+DTEND;TZID=Asia/Shanghai:20261125T165500
+SUMMARY:体态练习｜颈肩胸椎10分钟
+DESCRIPTION:第7周。\n收下巴 2组×10次（每次保持3秒，头水
+ 平后移）；靠墙天使 2组×10次；门框胸肌拉伸 每侧2×30
+ 秒；胸椎旋转 每侧8次。\n时间不足时每项减半。轻柔
+ 完成，不追求疼痛；出现疼痛或眩晕停止。体态练习不
+ 能局部瘦脸。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:体态练习｜颈肩胸椎10分钟
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bd498ad6-3f28-4a7e-903b-f4cbba0a9461@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261125T170000
+DTEND;TZID=Asia/Shanghai:20261125T175500
+SUMMARY:力量B｜背肩臀腿
+DESCRIPTION:第7周（阶段3）｜热身5–8分钟。\n罗马尼亚硬
+ 拉 10次；高位下拉 12次；哑铃肩推 10次；死虫式 每侧10
+ 次。\n每项3组；周五侧平板可做2组。组间休息60–120秒
+ 。\n动作稳定后逐步增加重量，留2–3次余力。\n结束后
+ 轻松活动3–5分钟。无需练到力竭。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:力量B｜背肩臀腿
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:23a3b548-ebdc-49f7-98c5-32c8844504b3@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261125T223000
+DTEND;TZID=Asia/Shanghai:20261125T224000
+SUMMARY:晚间护肤｜温和清洁·保湿
+DESCRIPTION:第7周／第43天。\n1. 用温和洁面清除当天油脂
+ 和防晒。\n2. 涂轻薄保湿乳。\n3. 尽量规律睡眠，减少
+ 高盐宵夜。\n前2–3周先稳定基础护肤，不同时叠加多
+ 种酸类或维A类。皮肤明显刺痛时停用可疑产品。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:晚间护肤｜温和清洁·保湿
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cefb4075-beaa-4a44-89b0-c6b7b75b7daa@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261126T090000
+DTEND;TZID=Asia/Shanghai:20261126T091000
+SUMMARY:晨间护肤｜洁面·保湿·防晒
+DESCRIPTION:第7周／第44天。\n1. 油脂明显时用温和洁面；
+ 不油可清水。\n2. 涂轻薄无香精保湿乳。\n3. 涂广谱SPF30
+ –50防晒；长时间户外按产品说明补涂。\n观察早晨浮
+ 肿；正常饮水，不要通过脱水瘦脸。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:晨间护肤｜洁面·保湿·防晒
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:9ad1399e-8339-46c2-b45d-db69c45ad81f@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261126T164500
+DTEND;TZID=Asia/Shanghai:20261126T165500
+SUMMARY:体态练习｜颈肩胸椎10分钟
+DESCRIPTION:第7周。\n收下巴 2组×10次（每次保持3秒，头水
+ 平后移）；靠墙天使 2组×10次；门框胸肌拉伸 每侧2×30
+ 秒；胸椎旋转 每侧8次。\n时间不足时每项减半。轻柔
+ 完成，不追求疼痛；出现疼痛或眩晕停止。体态练习不
+ 能局部瘦脸。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:体态练习｜颈肩胸椎10分钟
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2406be2c-a066-48e5-8705-abe103f606a7@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261126T170000
+DTEND;TZID=Asia/Shanghai:20261126T174500
+SUMMARY:有氧｜轻松跑／跑走结合
+DESCRIPTION:第7周（阶段3）。\n热身快走5分钟；轻松慢跑25
+ –35分钟；步行放松5分钟。\n保持能说完整句子的强度
+ ；有疼痛就停，疲劳时缩短时长。跑步不能定向减少脸
+ 部脂肪。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:有氧｜轻松跑／跑走结合
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ec14da7a-891b-444b-84e9-932f25f970b2@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261126T223000
+DTEND;TZID=Asia/Shanghai:20261126T224000
+SUMMARY:晚间护肤｜温和清洁·保湿
+DESCRIPTION:第7周／第44天。\n1. 用温和洁面清除当天油脂
+ 和防晒。\n2. 涂轻薄保湿乳。\n3. 尽量规律睡眠，减少
+ 高盐宵夜。\n前2–3周先稳定基础护肤，不同时叠加多
+ 种酸类或维A类。皮肤明显刺痛时停用可疑产品。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:晚间护肤｜温和清洁·保湿
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:b9cf994b-fba8-4e57-9515-b9daf2b98b8d@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261127T090000
+DTEND;TZID=Asia/Shanghai:20261127T091000
+SUMMARY:晨间护肤｜洁面·保湿·防晒
+DESCRIPTION:第7周／第45天。\n1. 油脂明显时用温和洁面；
+ 不油可清水。\n2. 涂轻薄无香精保湿乳。\n3. 涂广谱SPF30
+ –50防晒；长时间户外按产品说明补涂。\n观察早晨浮
+ 肿；正常饮水，不要通过脱水瘦脸。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:晨间护肤｜洁面·保湿·防晒
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:f02d3154-0993-47d2-bad6-01e69ad67cf4@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261127T164500
+DTEND;TZID=Asia/Shanghai:20261127T165500
+SUMMARY:体态练习｜颈肩胸椎10分钟
+DESCRIPTION:第7周。\n收下巴 2组×10次（每次保持3秒，头水
+ 平后移）；靠墙天使 2组×10次；门框胸肌拉伸 每侧2×30
+ 秒；胸椎旋转 每侧8次。\n时间不足时每项减半。轻柔
+ 完成，不追求疼痛；出现疼痛或眩晕停止。体态练习不
+ 能局部瘦脸。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:体态练习｜颈肩胸椎10分钟
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:41320b36-271d-43ba-be60-36803bcaed94@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261127T170000
+DTEND;TZID=Asia/Shanghai:20261127T175500
+SUMMARY:力量C｜全身综合
+DESCRIPTION:第7周（阶段3）｜热身5–8分钟。\n反向弓步蹲 
+ 每侧10次；俯卧撑 8–15次；单臂哑铃划船 每侧10次；侧
+ 平板支撑 每侧30秒。\n每项3组；周五侧平板可做2组。
+ 组间休息60–120秒。\n动作稳定后逐步增加重量，留2–3
+ 次余力。\n结束后轻松活动3–5分钟。无需练到力竭。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:力量C｜全身综合
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:065f1729-4a01-4bd4-809f-ed987d1e5c09@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261127T223000
+DTEND;TZID=Asia/Shanghai:20261127T224000
+SUMMARY:晚间护肤｜温和清洁·保湿
+DESCRIPTION:第7周／第45天。\n1. 用温和洁面清除当天油脂
+ 和防晒。\n2. 涂轻薄保湿乳。\n3. 尽量规律睡眠，减少
+ 高盐宵夜。\n前2–3周先稳定基础护肤，不同时叠加多
+ 种酸类或维A类。皮肤明显刺痛时停用可疑产品。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:晚间护肤｜温和清洁·保湿
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ff058a6d-649b-4d8d-b36d-527db4851bfc@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261128T090000
+DTEND;TZID=Asia/Shanghai:20261128T091000
+SUMMARY:晨间护肤｜洁面·保湿·防晒
+DESCRIPTION:第7周／第46天。\n1. 油脂明显时用温和洁面；
+ 不油可清水。\n2. 涂轻薄无香精保湿乳。\n3. 涂广谱SPF30
+ –50防晒；长时间户外按产品说明补涂。\n观察早晨浮
+ 肿；正常饮水，不要通过脱水瘦脸。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:晨间护肤｜洁面·保湿·防晒
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:97aae417-b133-49ae-997b-5fd88fe8e396@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261128T164500
+DTEND;TZID=Asia/Shanghai:20261128T165500
+SUMMARY:体态练习｜颈肩胸椎10分钟
+DESCRIPTION:第7周。\n收下巴 2组×10次（每次保持3秒，头水
+ 平后移）；靠墙天使 2组×10次；门框胸肌拉伸 每侧2×30
+ 秒；胸椎旋转 每侧8次。\n时间不足时每项减半。轻柔
+ 完成，不追求疼痛；出现疼痛或眩晕停止。体态练习不
+ 能局部瘦脸。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:体态练习｜颈肩胸椎10分钟
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ff2c263c-5b2d-4bea-9283-ff4c16e38d64@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261128T170000
+DTEND;TZID=Asia/Shanghai:20261128T174500
+SUMMARY:有氧｜轻松跑／跑走结合
+DESCRIPTION:第7周（阶段3）。\n热身快走5分钟；轻松慢跑25
+ –35分钟；步行放松5分钟。 若疲劳，可改为同等时间
+ 快走或骑车。\n保持能说完整句子的强度；有疼痛就停
+ ，疲劳时缩短时长。跑步不能定向减少脸部脂肪。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:有氧｜轻松跑／跑走结合
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:d0e4d969-5b94-4931-9a1f-8f3eb9cb36a7@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261128T223000
+DTEND;TZID=Asia/Shanghai:20261128T224000
+SUMMARY:晚间护肤｜温和清洁·保湿
+DESCRIPTION:第7周／第46天。\n1. 用温和洁面清除当天油脂
+ 和防晒。\n2. 涂轻薄保湿乳。\n3. 尽量规律睡眠，减少
+ 高盐宵夜。\n前2–3周先稳定基础护肤，不同时叠加多
+ 种酸类或维A类。皮肤明显刺痛时停用可疑产品。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:晚间护肤｜温和清洁·保湿
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:26253de5-ac97-45a4-97aa-d4823813d77a@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261129T090000
+DTEND;TZID=Asia/Shanghai:20261129T091000
+SUMMARY:晨间护肤｜洁面·保湿·防晒
+DESCRIPTION:第7周／第47天。\n1. 油脂明显时用温和洁面；
+ 不油可清水。\n2. 涂轻薄无香精保湿乳。\n3. 涂广谱SPF30
+ –50防晒；长时间户外按产品说明补涂。\n观察早晨浮
+ 肿；正常饮水，不要通过脱水瘦脸。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:晨间护肤｜洁面·保湿·防晒
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:8f695220-1554-4545-a3c8-c94c8ee5ecbb@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261129T164500
+DTEND;TZID=Asia/Shanghai:20261129T165500
+SUMMARY:体态练习｜颈肩胸椎10分钟
+DESCRIPTION:第7周。\n收下巴 2组×10次（每次保持3秒，头水
+ 平后移）；靠墙天使 2组×10次；门框胸肌拉伸 每侧2×30
+ 秒；胸椎旋转 每侧8次。\n时间不足时每项减半。轻柔
+ 完成，不追求疼痛；出现疼痛或眩晕停止。体态练习不
+ 能局部瘦脸。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:体态练习｜颈肩胸椎10分钟
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:6e070ca2-e986-4112-a855-9bbcdeedc21e@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261129T170000
+DTEND;TZID=Asia/Shanghai:20261129T172500
+SUMMARY:主动恢复｜散步与舒展
+DESCRIPTION:第7周。\n轻松散步15–25分钟，或做舒缓活动。
+ \n检查是否有明显疲劳或关节不适，必要时完全休息。
+ 今天不需要补练。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:主动恢复｜散步与舒展
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:21203d2e-9a0e-4e8e-af26-866d84fdfb50@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261129T223000
+DTEND;TZID=Asia/Shanghai:20261129T224000
+SUMMARY:晚间护肤｜温和清洁·保湿
+DESCRIPTION:第7周／第47天。\n1. 用温和洁面清除当天油脂
+ 和防晒。\n2. 涂轻薄保湿乳。\n3. 尽量规律睡眠，减少
+ 高盐宵夜。\n前2–3周先稳定基础护肤，不同时叠加多
+ 种酸类或维A类。皮肤明显刺痛时停用可疑产品。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:晚间护肤｜温和清洁·保湿
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:4b1cb728-8f08-4dd7-88fc-45ff717aca86@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261130T090000
+DTEND;TZID=Asia/Shanghai:20261130T091000
+SUMMARY:晨间护肤｜洁面·保湿·防晒
+DESCRIPTION:第7周／第48天。\n1. 油脂明显时用温和洁面；
+ 不油可清水。\n2. 涂轻薄无香精保湿乳。\n3. 涂广谱SPF30
+ –50防晒；长时间户外按产品说明补涂。\n观察早晨浮
+ 肿；正常饮水，不要通过脱水瘦脸。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:晨间护肤｜洁面·保湿·防晒
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bde5663f-6ea7-4e61-a7ba-b882ada90b9c@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261130T164500
+DTEND;TZID=Asia/Shanghai:20261130T165500
+SUMMARY:体态练习｜颈肩胸椎10分钟
+DESCRIPTION:第7周。\n收下巴 2组×10次（每次保持3秒，头水
+ 平后移）；靠墙天使 2组×10次；门框胸肌拉伸 每侧2×30
+ 秒；胸椎旋转 每侧8次。\n时间不足时每项减半。轻柔
+ 完成，不追求疼痛；出现疼痛或眩晕停止。体态练习不
+ 能局部瘦脸。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:体态练习｜颈肩胸椎10分钟
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:e0b39030-8296-4b33-a15b-b068791c1824@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261130T170000
+DTEND;TZID=Asia/Shanghai:20261130T175500
+SUMMARY:力量A｜全身基础
+DESCRIPTION:第7周（阶段3）｜热身5–8分钟。\n高脚杯深蹲 
+ 10次；哑铃卧推 10次；坐姿划船 12次；平板支撑 30–45
+ 秒。\n每项3组；周五侧平板可做2组。组间休息60–120秒
+ 。\n动作稳定后逐步增加重量，留2–3次余力。\n结束后
+ 轻松活动3–5分钟。无需练到力竭。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:力量A｜全身基础
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aee77617-5726-4a1f-8609-29e9de5d96e7@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261130T223000
+DTEND;TZID=Asia/Shanghai:20261130T224000
+SUMMARY:晚间护肤｜温和清洁·保湿
+DESCRIPTION:第7周／第48天。\n1. 用温和洁面清除当天油脂
+ 和防晒。\n2. 涂轻薄保湿乳。\n3. 尽量规律睡眠，减少
+ 高盐宵夜。\n前2–3周先稳定基础护肤，不同时叠加多
+ 种酸类或维A类。皮肤明显刺痛时停用可疑产品。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:晚间护肤｜温和清洁·保湿
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:52c52e1d-18ea-41f0-955e-478a487771dd@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261201T090000
+DTEND;TZID=Asia/Shanghai:20261201T091000
+SUMMARY:晨间护肤｜洁面·保湿·防晒
+DESCRIPTION:第7周／第49天。\n1. 油脂明显时用温和洁面；
+ 不油可清水。\n2. 涂轻薄无香精保湿乳。\n3. 涂广谱SPF30
+ –50防晒；长时间户外按产品说明补涂。\n观察早晨浮
+ 肿；正常饮水，不要通过脱水瘦脸。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:晨间护肤｜洁面·保湿·防晒
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:93391973-3098-42ce-84ba-045607f41e78@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261201T164500
+DTEND;TZID=Asia/Shanghai:20261201T165500
+SUMMARY:体态练习｜颈肩胸椎10分钟
+DESCRIPTION:第7周。\n收下巴 2组×10次（每次保持3秒，头水
+ 平后移）；靠墙天使 2组×10次；门框胸肌拉伸 每侧2×30
+ 秒；胸椎旋转 每侧8次。\n时间不足时每项减半。轻柔
+ 完成，不追求疼痛；出现疼痛或眩晕停止。体态练习不
+ 能局部瘦脸。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:体态练习｜颈肩胸椎10分钟
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:87b8a6fb-3a09-4314-ab97-b562274c89fe@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261201T170000
+DTEND;TZID=Asia/Shanghai:20261201T174500
+SUMMARY:有氧｜轻松跑／跑走结合
+DESCRIPTION:第7周（阶段3）。\n热身快走5分钟；轻松慢跑25
+ –35分钟；步行放松5分钟。\n保持能说完整句子的强度
+ ；有疼痛就停，疲劳时缩短时长。跑步不能定向减少脸
+ 部脂肪。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:有氧｜轻松跑／跑走结合
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:6225669b-e01a-45d8-8a24-7faa307c8bfb@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261201T223000
+DTEND;TZID=Asia/Shanghai:20261201T224000
+SUMMARY:晚间护肤｜温和清洁·保湿
+DESCRIPTION:第7周／第49天。\n1. 用温和洁面清除当天油脂
+ 和防晒。\n2. 涂轻薄保湿乳。\n3. 尽量规律睡眠，减少
+ 高盐宵夜。\n前2–3周先稳定基础护肤，不同时叠加多
+ 种酸类或维A类。皮肤明显刺痛时停用可疑产品。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:晚间护肤｜温和清洁·保湿
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:27fbbff5-5301-416e-92fc-fa5dc1e624fb@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261202T090000
+DTEND;TZID=Asia/Shanghai:20261202T091000
+SUMMARY:晨间护肤｜洁面·保湿·防晒
+DESCRIPTION:第8周／第50天。\n1. 油脂明显时用温和洁面；
+ 不油可清水。\n2. 涂轻薄无香精保湿乳。\n3. 涂广谱SPF30
+ –50防晒；长时间户外按产品说明补涂。\n观察早晨浮
+ 肿；正常饮水，不要通过脱水瘦脸。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:晨间护肤｜洁面·保湿·防晒
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:983be3e6-1eb9-4102-894a-b060841ca6e6@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261202T164500
+DTEND;TZID=Asia/Shanghai:20261202T165500
+SUMMARY:体态练习｜颈肩胸椎10分钟
+DESCRIPTION:第8周。\n收下巴 2组×10次（每次保持3秒，头水
+ 平后移）；靠墙天使 2组×10次；门框胸肌拉伸 每侧2×30
+ 秒；胸椎旋转 每侧8次。\n时间不足时每项减半。轻柔
+ 完成，不追求疼痛；出现疼痛或眩晕停止。体态练习不
+ 能局部瘦脸。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:体态练习｜颈肩胸椎10分钟
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:4ad5d840-db89-41be-b74c-a7c7a762010f@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261202T170000
+DTEND;TZID=Asia/Shanghai:20261202T175500
+SUMMARY:力量B｜背肩臀腿
+DESCRIPTION:第8周（阶段3）｜热身5–8分钟。\n罗马尼亚硬
+ 拉 10次；高位下拉 12次；哑铃肩推 10次；死虫式 每侧10
+ 次。\n每项3组；周五侧平板可做2组。组间休息60–120秒
+ 。\n动作稳定后逐步增加重量，留2–3次余力。\n结束后
+ 轻松活动3–5分钟。无需练到力竭。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:力量B｜背肩臀腿
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:83900df1-51fa-4b38-a2fb-c8431a9912cd@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261202T223000
+DTEND;TZID=Asia/Shanghai:20261202T224000
+SUMMARY:晚间护肤｜温和清洁·保湿
+DESCRIPTION:第8周／第50天。\n1. 用温和洁面清除当天油脂
+ 和防晒。\n2. 涂轻薄保湿乳。\n3. 尽量规律睡眠，减少
+ 高盐宵夜。\n前2–3周先稳定基础护肤，不同时叠加多
+ 种酸类或维A类。皮肤明显刺痛时停用可疑产品。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:晚间护肤｜温和清洁·保湿
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:12dea585-7f7d-4acb-b0ae-e0094e93bf29@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261203T090000
+DTEND;TZID=Asia/Shanghai:20261203T091000
+SUMMARY:晨间护肤｜洁面·保湿·防晒
+DESCRIPTION:第8周／第51天。\n1. 油脂明显时用温和洁面；
+ 不油可清水。\n2. 涂轻薄无香精保湿乳。\n3. 涂广谱SPF30
+ –50防晒；长时间户外按产品说明补涂。\n观察早晨浮
+ 肿；正常饮水，不要通过脱水瘦脸。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:晨间护肤｜洁面·保湿·防晒
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:c70d7132-4839-486c-8202-053bbb06fcdd@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261203T164500
+DTEND;TZID=Asia/Shanghai:20261203T165500
+SUMMARY:体态练习｜颈肩胸椎10分钟
+DESCRIPTION:第8周。\n收下巴 2组×10次（每次保持3秒，头水
+ 平后移）；靠墙天使 2组×10次；门框胸肌拉伸 每侧2×30
+ 秒；胸椎旋转 每侧8次。\n时间不足时每项减半。轻柔
+ 完成，不追求疼痛；出现疼痛或眩晕停止。体态练习不
+ 能局部瘦脸。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:体态练习｜颈肩胸椎10分钟
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:0e34f36a-d3ad-422e-9e16-0c46a0992cfa@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261203T170000
+DTEND;TZID=Asia/Shanghai:20261203T174500
+SUMMARY:有氧｜轻松跑／跑走结合
+DESCRIPTION:第8周（阶段3）。\n热身快走5分钟；轻松慢跑25
+ –35分钟；步行放松5分钟。\n保持能说完整句子的强度
+ ；有疼痛就停，疲劳时缩短时长。跑步不能定向减少脸
+ 部脂肪。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:有氧｜轻松跑／跑走结合
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:c7e6f751-d08d-4cfc-b21e-45efcf6e16a4@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261203T223000
+DTEND;TZID=Asia/Shanghai:20261203T224000
+SUMMARY:晚间护肤｜温和清洁·保湿
+DESCRIPTION:第8周／第51天。\n1. 用温和洁面清除当天油脂
+ 和防晒。\n2. 涂轻薄保湿乳。\n3. 尽量规律睡眠，减少
+ 高盐宵夜。\n前2–3周先稳定基础护肤，不同时叠加多
+ 种酸类或维A类。皮肤明显刺痛时停用可疑产品。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:晚间护肤｜温和清洁·保湿
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:60777d62-f626-4045-b406-c13b0d66a5eb@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261204T090000
+DTEND;TZID=Asia/Shanghai:20261204T091000
+SUMMARY:晨间护肤｜洁面·保湿·防晒
+DESCRIPTION:第8周／第52天。\n1. 油脂明显时用温和洁面；
+ 不油可清水。\n2. 涂轻薄无香精保湿乳。\n3. 涂广谱SPF30
+ –50防晒；长时间户外按产品说明补涂。\n观察早晨浮
+ 肿；正常饮水，不要通过脱水瘦脸。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:晨间护肤｜洁面·保湿·防晒
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:efeae68e-3a8b-45a5-ac01-164d5549e189@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261204T164500
+DTEND;TZID=Asia/Shanghai:20261204T165500
+SUMMARY:体态练习｜颈肩胸椎10分钟
+DESCRIPTION:第8周。\n收下巴 2组×10次（每次保持3秒，头水
+ 平后移）；靠墙天使 2组×10次；门框胸肌拉伸 每侧2×30
+ 秒；胸椎旋转 每侧8次。\n时间不足时每项减半。轻柔
+ 完成，不追求疼痛；出现疼痛或眩晕停止。体态练习不
+ 能局部瘦脸。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:体态练习｜颈肩胸椎10分钟
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:b7c7c4e4-9d45-4c90-b22f-c20e27ff9945@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261204T170000
+DTEND;TZID=Asia/Shanghai:20261204T175500
+SUMMARY:力量C｜全身综合
+DESCRIPTION:第8周（阶段3）｜热身5–8分钟。\n反向弓步蹲 
+ 每侧10次；俯卧撑 8–15次；单臂哑铃划船 每侧10次；侧
+ 平板支撑 每侧30秒。\n每项3组；周五侧平板可做2组。
+ 组间休息60–120秒。\n动作稳定后逐步增加重量，留2–3
+ 次余力。\n结束后轻松活动3–5分钟。无需练到力竭。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:力量C｜全身综合
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:9976bc6c-7fe9-40aa-95cb-5f857a6dc85a@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261204T223000
+DTEND;TZID=Asia/Shanghai:20261204T224000
+SUMMARY:晚间护肤｜温和清洁·保湿
+DESCRIPTION:第8周／第52天。\n1. 用温和洁面清除当天油脂
+ 和防晒。\n2. 涂轻薄保湿乳。\n3. 尽量规律睡眠，减少
+ 高盐宵夜。\n前2–3周先稳定基础护肤，不同时叠加多
+ 种酸类或维A类。皮肤明显刺痛时停用可疑产品。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:晚间护肤｜温和清洁·保湿
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:7ba11167-ee2a-4730-a4d5-3adf9a560bad@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261205T090000
+DTEND;TZID=Asia/Shanghai:20261205T091000
+SUMMARY:晨间护肤｜洁面·保湿·防晒
+DESCRIPTION:第8周／第53天。\n1. 油脂明显时用温和洁面；
+ 不油可清水。\n2. 涂轻薄无香精保湿乳。\n3. 涂广谱SPF30
+ –50防晒；长时间户外按产品说明补涂。\n观察早晨浮
+ 肿；正常饮水，不要通过脱水瘦脸。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:晨间护肤｜洁面·保湿·防晒
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:242966cd-d9eb-4f9c-969a-28450a16169b@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261205T164500
+DTEND;TZID=Asia/Shanghai:20261205T165500
+SUMMARY:体态练习｜颈肩胸椎10分钟
+DESCRIPTION:第8周。\n收下巴 2组×10次（每次保持3秒，头水
+ 平后移）；靠墙天使 2组×10次；门框胸肌拉伸 每侧2×30
+ 秒；胸椎旋转 每侧8次。\n时间不足时每项减半。轻柔
+ 完成，不追求疼痛；出现疼痛或眩晕停止。体态练习不
+ 能局部瘦脸。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:体态练习｜颈肩胸椎10分钟
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:641a596f-8316-4826-8b43-132cb256531f@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261205T170000
+DTEND;TZID=Asia/Shanghai:20261205T174500
+SUMMARY:有氧｜轻松跑／跑走结合
+DESCRIPTION:第8周（阶段3）。\n热身快走5分钟；轻松慢跑25
+ –35分钟；步行放松5分钟。 若疲劳，可改为同等时间
+ 快走或骑车。\n保持能说完整句子的强度；有疼痛就停
+ ，疲劳时缩短时长。跑步不能定向减少脸部脂肪。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:有氧｜轻松跑／跑走结合
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cd4e129d-8a22-419e-ab87-bea2f1d51504@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261205T223000
+DTEND;TZID=Asia/Shanghai:20261205T224000
+SUMMARY:晚间护肤｜温和清洁·保湿
+DESCRIPTION:第8周／第53天。\n1. 用温和洁面清除当天油脂
+ 和防晒。\n2. 涂轻薄保湿乳。\n3. 尽量规律睡眠，减少
+ 高盐宵夜。\n前2–3周先稳定基础护肤，不同时叠加多
+ 种酸类或维A类。皮肤明显刺痛时停用可疑产品。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:晚间护肤｜温和清洁·保湿
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:5ac3f2ee-d494-431d-a7fa-04e04259119e@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261206T090000
+DTEND;TZID=Asia/Shanghai:20261206T091000
+SUMMARY:晨间护肤｜洁面·保湿·防晒
+DESCRIPTION:第8周／第54天。\n1. 油脂明显时用温和洁面；
+ 不油可清水。\n2. 涂轻薄无香精保湿乳。\n3. 涂广谱SPF30
+ –50防晒；长时间户外按产品说明补涂。\n观察早晨浮
+ 肿；正常饮水，不要通过脱水瘦脸。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:晨间护肤｜洁面·保湿·防晒
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:d01c2201-3c8e-4b70-9d8a-15c6617e9df7@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261206T164500
+DTEND;TZID=Asia/Shanghai:20261206T165500
+SUMMARY:体态练习｜颈肩胸椎10分钟
+DESCRIPTION:第8周。\n收下巴 2组×10次（每次保持3秒，头水
+ 平后移）；靠墙天使 2组×10次；门框胸肌拉伸 每侧2×30
+ 秒；胸椎旋转 每侧8次。\n时间不足时每项减半。轻柔
+ 完成，不追求疼痛；出现疼痛或眩晕停止。体态练习不
+ 能局部瘦脸。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:体态练习｜颈肩胸椎10分钟
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:e2d834d9-ddbd-4e99-9adb-e139ad63053f@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261206T170000
+DTEND;TZID=Asia/Shanghai:20261206T172500
+SUMMARY:主动恢复｜散步与舒展
+DESCRIPTION:第8周。\n轻松散步15–25分钟，或做舒缓活动。
+ \n检查是否有明显疲劳或关节不适，必要时完全休息。
+ 今天不需要补练。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:主动恢复｜散步与舒展
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:8f6d7aa3-5c4c-4e97-a67c-1c261e5a4eb4@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261206T223000
+DTEND;TZID=Asia/Shanghai:20261206T224000
+SUMMARY:晚间护肤｜温和清洁·保湿
+DESCRIPTION:第8周／第54天。\n1. 用温和洁面清除当天油脂
+ 和防晒。\n2. 涂轻薄保湿乳。\n3. 尽量规律睡眠，减少
+ 高盐宵夜。\n前2–3周先稳定基础护肤，不同时叠加多
+ 种酸类或维A类。皮肤明显刺痛时停用可疑产品。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:晚间护肤｜温和清洁·保湿
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:64096c0a-6555-46e4-bee2-e03a49d78499@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261207T090000
+DTEND;TZID=Asia/Shanghai:20261207T091000
+SUMMARY:晨间护肤｜洁面·保湿·防晒
+DESCRIPTION:第8周／第55天。\n1. 油脂明显时用温和洁面；
+ 不油可清水。\n2. 涂轻薄无香精保湿乳。\n3. 涂广谱SPF30
+ –50防晒；长时间户外按产品说明补涂。\n观察早晨浮
+ 肿；正常饮水，不要通过脱水瘦脸。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:晨间护肤｜洁面·保湿·防晒
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:e730f314-dc58-447b-a058-cd4ed62d8c9e@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261207T164500
+DTEND;TZID=Asia/Shanghai:20261207T165500
+SUMMARY:体态练习｜颈肩胸椎10分钟
+DESCRIPTION:第8周。\n收下巴 2组×10次（每次保持3秒，头水
+ 平后移）；靠墙天使 2组×10次；门框胸肌拉伸 每侧2×30
+ 秒；胸椎旋转 每侧8次。\n时间不足时每项减半。轻柔
+ 完成，不追求疼痛；出现疼痛或眩晕停止。体态练习不
+ 能局部瘦脸。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:体态练习｜颈肩胸椎10分钟
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:1349a2e3-4526-4b56-a7ea-f53c90b4d2fe@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261207T170000
+DTEND;TZID=Asia/Shanghai:20261207T175500
+SUMMARY:力量A｜全身基础
+DESCRIPTION:第8周（阶段3）｜热身5–8分钟。\n高脚杯深蹲 
+ 10次；哑铃卧推 10次；坐姿划船 12次；平板支撑 30–45
+ 秒。\n每项3组；周五侧平板可做2组。组间休息60–120秒
+ 。\n动作稳定后逐步增加重量，留2–3次余力。\n结束后
+ 轻松活动3–5分钟。无需练到力竭。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:力量A｜全身基础
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2ec5cda6-5d20-460c-af44-6f2641a92a0e@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261207T223000
+DTEND;TZID=Asia/Shanghai:20261207T224000
+SUMMARY:晚间护肤｜温和清洁·保湿
+DESCRIPTION:第8周／第55天。\n1. 用温和洁面清除当天油脂
+ 和防晒。\n2. 涂轻薄保湿乳。\n3. 尽量规律睡眠，减少
+ 高盐宵夜。\n前2–3周先稳定基础护肤，不同时叠加多
+ 种酸类或维A类。皮肤明显刺痛时停用可疑产品。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:晚间护肤｜温和清洁·保湿
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:8bf14d23-6056-4eb9-bca5-7ecbbc19d492@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261208T090000
+DTEND;TZID=Asia/Shanghai:20261208T091000
+SUMMARY:晨间护肤｜洁面·保湿·防晒
+DESCRIPTION:第8周／第56天。\n1. 油脂明显时用温和洁面；
+ 不油可清水。\n2. 涂轻薄无香精保湿乳。\n3. 涂广谱SPF30
+ –50防晒；长时间户外按产品说明补涂。\n观察早晨浮
+ 肿；正常饮水，不要通过脱水瘦脸。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:晨间护肤｜洁面·保湿·防晒
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:4ea70053-ed45-40d9-9386-0641a269c964@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261208T164500
+DTEND;TZID=Asia/Shanghai:20261208T165500
+SUMMARY:体态练习｜颈肩胸椎10分钟
+DESCRIPTION:第8周。\n收下巴 2组×10次（每次保持3秒，头水
+ 平后移）；靠墙天使 2组×10次；门框胸肌拉伸 每侧2×30
+ 秒；胸椎旋转 每侧8次。\n时间不足时每项减半。轻柔
+ 完成，不追求疼痛；出现疼痛或眩晕停止。体态练习不
+ 能局部瘦脸。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:体态练习｜颈肩胸椎10分钟
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:0b8d2649-10bf-407b-aa17-8b696b885314@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261208T170000
+DTEND;TZID=Asia/Shanghai:20261208T174500
+SUMMARY:有氧｜轻松跑／跑走结合
+DESCRIPTION:第8周（阶段3）。\n热身快走5分钟；轻松慢跑25
+ –35分钟；步行放松5分钟。\n保持能说完整句子的强度
+ ；有疼痛就停，疲劳时缩短时长。跑步不能定向减少脸
+ 部脂肪。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:有氧｜轻松跑／跑走结合
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:504af7f0-b4e6-4143-b913-4f1f036f7870@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261208T223000
+DTEND;TZID=Asia/Shanghai:20261208T224000
+SUMMARY:晚间护肤｜温和清洁·保湿
+DESCRIPTION:第8周／第56天。\n1. 用温和洁面清除当天油脂
+ 和防晒。\n2. 涂轻薄保湿乳。\n3. 尽量规律睡眠，减少
+ 高盐宵夜。\n前2–3周先稳定基础护肤，不同时叠加多
+ 种酸类或维A类。皮肤明显刺痛时停用可疑产品。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:晚间护肤｜温和清洁·保湿
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:670a6a5a-7a84-484b-bd05-08c4f4b7fc33@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261209T090000
+DTEND;TZID=Asia/Shanghai:20261209T091000
+SUMMARY:晨间护肤｜洁面·保湿·防晒
+DESCRIPTION:第9周／第57天。\n1. 油脂明显时用温和洁面；
+ 不油可清水。\n2. 涂轻薄无香精保湿乳。\n3. 涂广谱SPF30
+ –50防晒；长时间户外按产品说明补涂。\n观察早晨浮
+ 肿；正常饮水，不要通过脱水瘦脸。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:晨间护肤｜洁面·保湿·防晒
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:84b46da2-4430-405b-bb66-ca4e90e688c8@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261209T164500
+DTEND;TZID=Asia/Shanghai:20261209T165500
+SUMMARY:体态练习｜颈肩胸椎10分钟
+DESCRIPTION:第9周。\n收下巴 2组×10次（每次保持3秒，头水
+ 平后移）；靠墙天使 2组×10次；门框胸肌拉伸 每侧2×30
+ 秒；胸椎旋转 每侧8次。\n时间不足时每项减半。轻柔
+ 完成，不追求疼痛；出现疼痛或眩晕停止。体态练习不
+ 能局部瘦脸。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:体态练习｜颈肩胸椎10分钟
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ff65b353-dbf9-4934-80e3-89cb1d956a62@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261209T170000
+DTEND;TZID=Asia/Shanghai:20261209T175500
+SUMMARY:力量B｜背肩臀腿
+DESCRIPTION:第9周（阶段3）｜热身5–8分钟。\n罗马尼亚硬
+ 拉 10次；高位下拉 12次；哑铃肩推 10次；死虫式 每侧10
+ 次。\n每项3组；周五侧平板可做2组。组间休息60–120秒
+ 。\n动作稳定后逐步增加重量，留2–3次余力。\n结束后
+ 轻松活动3–5分钟。无需练到力竭。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:力量B｜背肩臀腿
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:91b36944-f8ce-41ab-8096-6ee4a2bdd04c@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261209T223000
+DTEND;TZID=Asia/Shanghai:20261209T224000
+SUMMARY:晚间护肤｜温和清洁·保湿
+DESCRIPTION:第9周／第57天。\n1. 用温和洁面清除当天油脂
+ 和防晒。\n2. 涂轻薄保湿乳。\n3. 尽量规律睡眠，减少
+ 高盐宵夜。\n前2–3周先稳定基础护肤，不同时叠加多
+ 种酸类或维A类。皮肤明显刺痛时停用可疑产品。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:晚间护肤｜温和清洁·保湿
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:c63e36ea-04ad-4e3a-80b7-468652ee9469@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261210T090000
+DTEND;TZID=Asia/Shanghai:20261210T091000
+SUMMARY:晨间护肤｜洁面·保湿·防晒
+DESCRIPTION:第9周／第58天。\n1. 油脂明显时用温和洁面；
+ 不油可清水。\n2. 涂轻薄无香精保湿乳。\n3. 涂广谱SPF30
+ –50防晒；长时间户外按产品说明补涂。\n观察早晨浮
+ 肿；正常饮水，不要通过脱水瘦脸。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:晨间护肤｜洁面·保湿·防晒
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:24bff863-95cd-42a2-b0ba-560968fe047d@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261210T164500
+DTEND;TZID=Asia/Shanghai:20261210T165500
+SUMMARY:体态练习｜颈肩胸椎10分钟
+DESCRIPTION:第9周。\n收下巴 2组×10次（每次保持3秒，头水
+ 平后移）；靠墙天使 2组×10次；门框胸肌拉伸 每侧2×30
+ 秒；胸椎旋转 每侧8次。\n时间不足时每项减半。轻柔
+ 完成，不追求疼痛；出现疼痛或眩晕停止。体态练习不
+ 能局部瘦脸。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:体态练习｜颈肩胸椎10分钟
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bb80ad2d-ffdd-4396-9b04-c847f47ee4fd@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261210T170000
+DTEND;TZID=Asia/Shanghai:20261210T175000
+SUMMARY:有氧｜轻松跑／跑走结合
+DESCRIPTION:第9周（阶段3）。\n热身快走5分钟；轻松慢跑30
+ –40分钟；步行放松5分钟。\n保持能说完整句子的强度
+ ；有疼痛就停，疲劳时缩短时长。跑步不能定向减少脸
+ 部脂肪。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:有氧｜轻松跑／跑走结合
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:b2607db6-6c11-4501-bdab-9d903dece4bf@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261210T223000
+DTEND;TZID=Asia/Shanghai:20261210T224000
+SUMMARY:晚间护肤｜温和清洁·保湿
+DESCRIPTION:第9周／第58天。\n1. 用温和洁面清除当天油脂
+ 和防晒。\n2. 涂轻薄保湿乳。\n3. 尽量规律睡眠，减少
+ 高盐宵夜。\n前2–3周先稳定基础护肤，不同时叠加多
+ 种酸类或维A类。皮肤明显刺痛时停用可疑产品。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:晚间护肤｜温和清洁·保湿
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:5da24136-769d-4455-943b-9984c73d0681@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261211T090000
+DTEND;TZID=Asia/Shanghai:20261211T091000
+SUMMARY:晨间护肤｜洁面·保湿·防晒
+DESCRIPTION:第9周／第59天。\n1. 油脂明显时用温和洁面；
+ 不油可清水。\n2. 涂轻薄无香精保湿乳。\n3. 涂广谱SPF30
+ –50防晒；长时间户外按产品说明补涂。\n观察早晨浮
+ 肿；正常饮水，不要通过脱水瘦脸。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:晨间护肤｜洁面·保湿·防晒
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2a5fc815-310c-4715-80c0-5ff03e9df035@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261211T164500
+DTEND;TZID=Asia/Shanghai:20261211T165500
+SUMMARY:体态练习｜颈肩胸椎10分钟
+DESCRIPTION:第9周。\n收下巴 2组×10次（每次保持3秒，头水
+ 平后移）；靠墙天使 2组×10次；门框胸肌拉伸 每侧2×30
+ 秒；胸椎旋转 每侧8次。\n时间不足时每项减半。轻柔
+ 完成，不追求疼痛；出现疼痛或眩晕停止。体态练习不
+ 能局部瘦脸。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:体态练习｜颈肩胸椎10分钟
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:561687d4-e6f7-4198-b8c5-8738dfc0f1f6@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261211T170000
+DTEND;TZID=Asia/Shanghai:20261211T175500
+SUMMARY:力量C｜全身综合
+DESCRIPTION:第9周（阶段3）｜热身5–8分钟。\n反向弓步蹲 
+ 每侧10次；俯卧撑 8–15次；单臂哑铃划船 每侧10次；侧
+ 平板支撑 每侧30秒。\n每项3组；周五侧平板可做2组。
+ 组间休息60–120秒。\n动作稳定后逐步增加重量，留2–3
+ 次余力。\n结束后轻松活动3–5分钟。无需练到力竭。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:力量C｜全身综合
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:4db7212a-f89b-41a2-a72a-0caacb2d3e86@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261211T223000
+DTEND;TZID=Asia/Shanghai:20261211T224000
+SUMMARY:晚间护肤｜温和清洁·保湿
+DESCRIPTION:第9周／第59天。\n1. 用温和洁面清除当天油脂
+ 和防晒。\n2. 涂轻薄保湿乳。\n3. 尽量规律睡眠，减少
+ 高盐宵夜。\n前2–3周先稳定基础护肤，不同时叠加多
+ 种酸类或维A类。皮肤明显刺痛时停用可疑产品。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:晚间护肤｜温和清洁·保湿
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2ca6712c-c81d-4fc6-ac44-eda222db72ac@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261212T090000
+DTEND;TZID=Asia/Shanghai:20261212T091000
+SUMMARY:晨间护肤｜洁面·保湿·防晒
+DESCRIPTION:第9周／第60天。\n1. 油脂明显时用温和洁面；
+ 不油可清水。\n2. 涂轻薄无香精保湿乳。\n3. 涂广谱SPF30
+ –50防晒；长时间户外按产品说明补涂。\n观察早晨浮
+ 肿；正常饮水，不要通过脱水瘦脸。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:晨间护肤｜洁面·保湿·防晒
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:c94e5421-bc7a-4577-adbe-4d15572c90d7@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261212T164500
+DTEND;TZID=Asia/Shanghai:20261212T165500
+SUMMARY:体态练习｜颈肩胸椎10分钟
+DESCRIPTION:第9周。\n收下巴 2组×10次（每次保持3秒，头水
+ 平后移）；靠墙天使 2组×10次；门框胸肌拉伸 每侧2×30
+ 秒；胸椎旋转 每侧8次。\n时间不足时每项减半。轻柔
+ 完成，不追求疼痛；出现疼痛或眩晕停止。体态练习不
+ 能局部瘦脸。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:体态练习｜颈肩胸椎10分钟
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:f651d18a-ebd2-4908-955a-0bbe62126662@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261212T170000
+DTEND;TZID=Asia/Shanghai:20261212T175000
+SUMMARY:有氧｜轻松跑／跑走结合
+DESCRIPTION:第9周（阶段3）。\n热身快走5分钟；轻松慢跑30
+ –40分钟；步行放松5分钟。 若疲劳，可改为同等时间
+ 快走或骑车。\n保持能说完整句子的强度；有疼痛就停
+ ，疲劳时缩短时长。跑步不能定向减少脸部脂肪。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:有氧｜轻松跑／跑走结合
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:48f30170-1d02-4d0f-8d94-972e1a26c8d1@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261212T223000
+DTEND;TZID=Asia/Shanghai:20261212T224000
+SUMMARY:晚间护肤｜温和清洁·保湿
+DESCRIPTION:第9周／第60天。\n1. 用温和洁面清除当天油脂
+ 和防晒。\n2. 涂轻薄保湿乳。\n3. 尽量规律睡眠，减少
+ 高盐宵夜。\n前2–3周先稳定基础护肤，不同时叠加多
+ 种酸类或维A类。皮肤明显刺痛时停用可疑产品。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:晚间护肤｜温和清洁·保湿
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:6207df7d-4c33-4d80-b9a6-5f287dd5dc20@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261213T090000
+DTEND;TZID=Asia/Shanghai:20261213T091000
+SUMMARY:晨间护肤｜洁面·保湿·防晒
+DESCRIPTION:第9周／第61天。\n1. 油脂明显时用温和洁面；
+ 不油可清水。\n2. 涂轻薄无香精保湿乳。\n3. 涂广谱SPF30
+ –50防晒；长时间户外按产品说明补涂。\n观察早晨浮
+ 肿；正常饮水，不要通过脱水瘦脸。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:晨间护肤｜洁面·保湿·防晒
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:b0bce7c1-d454-4f58-bd3a-79a000a2d4e7@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261213T164500
+DTEND;TZID=Asia/Shanghai:20261213T165500
+SUMMARY:体态练习｜颈肩胸椎10分钟
+DESCRIPTION:第9周。\n收下巴 2组×10次（每次保持3秒，头水
+ 平后移）；靠墙天使 2组×10次；门框胸肌拉伸 每侧2×30
+ 秒；胸椎旋转 每侧8次。\n时间不足时每项减半。轻柔
+ 完成，不追求疼痛；出现疼痛或眩晕停止。体态练习不
+ 能局部瘦脸。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:体态练习｜颈肩胸椎10分钟
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:e1f3d18c-cdd4-4e01-bf0e-e16ca9701df1@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261213T170000
+DTEND;TZID=Asia/Shanghai:20261213T172500
+SUMMARY:主动恢复｜散步与舒展
+DESCRIPTION:第9周。\n轻松散步15–25分钟，或做舒缓活动。
+ \n检查是否有明显疲劳或关节不适，必要时完全休息。
+ 今天不需要补练。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:主动恢复｜散步与舒展
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:742cfbbd-723a-4323-8352-2484beb28472@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261213T223000
+DTEND;TZID=Asia/Shanghai:20261213T224000
+SUMMARY:晚间护肤｜温和清洁·保湿
+DESCRIPTION:第9周／第61天。\n1. 用温和洁面清除当天油脂
+ 和防晒。\n2. 涂轻薄保湿乳。\n3. 尽量规律睡眠，减少
+ 高盐宵夜。\n前2–3周先稳定基础护肤，不同时叠加多
+ 种酸类或维A类。皮肤明显刺痛时停用可疑产品。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:晚间护肤｜温和清洁·保湿
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:82fed8b6-ffc6-4410-8627-8eed958058e7@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261214T090000
+DTEND;TZID=Asia/Shanghai:20261214T091000
+SUMMARY:晨间护肤｜洁面·保湿·防晒
+DESCRIPTION:第9周／第62天。\n1. 油脂明显时用温和洁面；
+ 不油可清水。\n2. 涂轻薄无香精保湿乳。\n3. 涂广谱SPF30
+ –50防晒；长时间户外按产品说明补涂。\n观察早晨浮
+ 肿；正常饮水，不要通过脱水瘦脸。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:晨间护肤｜洁面·保湿·防晒
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:28ba3c03-f59e-47fc-9e7d-a5ed3b3a5fd7@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261214T164500
+DTEND;TZID=Asia/Shanghai:20261214T165500
+SUMMARY:体态练习｜颈肩胸椎10分钟
+DESCRIPTION:第9周。\n收下巴 2组×10次（每次保持3秒，头水
+ 平后移）；靠墙天使 2组×10次；门框胸肌拉伸 每侧2×30
+ 秒；胸椎旋转 每侧8次。\n时间不足时每项减半。轻柔
+ 完成，不追求疼痛；出现疼痛或眩晕停止。体态练习不
+ 能局部瘦脸。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:体态练习｜颈肩胸椎10分钟
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:4a600857-c81f-4533-8310-8c4533808c68@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261214T170000
+DTEND;TZID=Asia/Shanghai:20261214T175500
+SUMMARY:力量A｜全身基础
+DESCRIPTION:第9周（阶段3）｜热身5–8分钟。\n高脚杯深蹲 
+ 10次；哑铃卧推 10次；坐姿划船 12次；平板支撑 30–45
+ 秒。\n每项3组；周五侧平板可做2组。组间休息60–120秒
+ 。\n动作稳定后逐步增加重量，留2–3次余力。\n结束后
+ 轻松活动3–5分钟。无需练到力竭。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:力量A｜全身基础
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:725e4f66-a6c1-43eb-997b-f123b1a38bc0@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261214T223000
+DTEND;TZID=Asia/Shanghai:20261214T224000
+SUMMARY:晚间护肤｜温和清洁·保湿
+DESCRIPTION:第9周／第62天。\n1. 用温和洁面清除当天油脂
+ 和防晒。\n2. 涂轻薄保湿乳。\n3. 尽量规律睡眠，减少
+ 高盐宵夜。\n前2–3周先稳定基础护肤，不同时叠加多
+ 种酸类或维A类。皮肤明显刺痛时停用可疑产品。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:晚间护肤｜温和清洁·保湿
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:e67284f5-2b1d-4263-a52a-228f2a627ba6@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261215T090000
+DTEND;TZID=Asia/Shanghai:20261215T091000
+SUMMARY:晨间护肤｜洁面·保湿·防晒
+DESCRIPTION:第9周／第63天。\n1. 油脂明显时用温和洁面；
+ 不油可清水。\n2. 涂轻薄无香精保湿乳。\n3. 涂广谱SPF30
+ –50防晒；长时间户外按产品说明补涂。\n观察早晨浮
+ 肿；正常饮水，不要通过脱水瘦脸。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:晨间护肤｜洁面·保湿·防晒
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:f75554c4-3244-4ca5-ad49-b28a37b9d1c9@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261215T164500
+DTEND;TZID=Asia/Shanghai:20261215T165500
+SUMMARY:体态练习｜颈肩胸椎10分钟
+DESCRIPTION:第9周。\n收下巴 2组×10次（每次保持3秒，头水
+ 平后移）；靠墙天使 2组×10次；门框胸肌拉伸 每侧2×30
+ 秒；胸椎旋转 每侧8次。\n时间不足时每项减半。轻柔
+ 完成，不追求疼痛；出现疼痛或眩晕停止。体态练习不
+ 能局部瘦脸。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:体态练习｜颈肩胸椎10分钟
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:1ba73267-3735-4755-bfe4-2f0dc9da79d2@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261215T170000
+DTEND;TZID=Asia/Shanghai:20261215T175000
+SUMMARY:有氧｜轻松跑／跑走结合
+DESCRIPTION:第9周（阶段3）。\n热身快走5分钟；轻松慢跑30
+ –40分钟；步行放松5分钟。\n保持能说完整句子的强度
+ ；有疼痛就停，疲劳时缩短时长。跑步不能定向减少脸
+ 部脂肪。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:有氧｜轻松跑／跑走结合
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:57d7e492-0e82-40ad-a6b6-83dce297708e@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261215T223000
+DTEND;TZID=Asia/Shanghai:20261215T224000
+SUMMARY:晚间护肤｜温和清洁·保湿
+DESCRIPTION:第9周／第63天。\n1. 用温和洁面清除当天油脂
+ 和防晒。\n2. 涂轻薄保湿乳。\n3. 尽量规律睡眠，减少
+ 高盐宵夜。\n前2–3周先稳定基础护肤，不同时叠加多
+ 种酸类或维A类。皮肤明显刺痛时停用可疑产品。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:晚间护肤｜温和清洁·保湿
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2d03fce3-70d1-4cb8-8258-ea5739c59af6@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261216T090000
+DTEND;TZID=Asia/Shanghai:20261216T091000
+SUMMARY:晨间护肤｜洁面·保湿·防晒
+DESCRIPTION:第10周／第64天。\n1. 油脂明显时用温和洁面；
+ 不油可清水。\n2. 涂轻薄无香精保湿乳。\n3. 涂广谱SPF30
+ –50防晒；长时间户外按产品说明补涂。\n观察早晨浮
+ 肿；正常饮水，不要通过脱水瘦脸。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:晨间护肤｜洁面·保湿·防晒
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:f273fab4-8c05-44ed-b36d-77dacc224c8e@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261216T164500
+DTEND;TZID=Asia/Shanghai:20261216T165500
+SUMMARY:体态练习｜颈肩胸椎10分钟
+DESCRIPTION:第10周。\n收下巴 2组×10次（每次保持3秒，头
+ 水平后移）；靠墙天使 2组×10次；门框胸肌拉伸 每侧2
+ ×30秒；胸椎旋转 每侧8次。\n时间不足时每项减半。轻
+ 柔完成，不追求疼痛；出现疼痛或眩晕停止。体态练习
+ 不能局部瘦脸。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:体态练习｜颈肩胸椎10分钟
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:6639192d-fca5-4578-bd5b-158b310bb299@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261216T170000
+DTEND;TZID=Asia/Shanghai:20261216T175500
+SUMMARY:力量B｜背肩臀腿
+DESCRIPTION:第10周（阶段3）｜热身5–8分钟。\n罗马尼亚硬
+ 拉 10次；高位下拉 12次；哑铃肩推 10次；死虫式 每侧10
+ 次。\n每项3组；周五侧平板可做2组。组间休息60–120秒
+ 。\n动作稳定后逐步增加重量，留2–3次余力。\n结束后
+ 轻松活动3–5分钟。无需练到力竭。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:力量B｜背肩臀腿
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ebd7960a-0689-4bab-a2c8-8163580c7818@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261216T223000
+DTEND;TZID=Asia/Shanghai:20261216T224000
+SUMMARY:晚间护肤｜温和清洁·保湿
+DESCRIPTION:第10周／第64天。\n1. 用温和洁面清除当天油脂
+ 和防晒。\n2. 涂轻薄保湿乳。\n3. 尽量规律睡眠，减少
+ 高盐宵夜。\n前2–3周先稳定基础护肤，不同时叠加多
+ 种酸类或维A类。皮肤明显刺痛时停用可疑产品。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:晚间护肤｜温和清洁·保湿
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:57c8e01e-659c-446d-aba8-27248ec04ae8@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261217T090000
+DTEND;TZID=Asia/Shanghai:20261217T091000
+SUMMARY:晨间护肤｜洁面·保湿·防晒
+DESCRIPTION:第10周／第65天。\n1. 油脂明显时用温和洁面；
+ 不油可清水。\n2. 涂轻薄无香精保湿乳。\n3. 涂广谱SPF30
+ –50防晒；长时间户外按产品说明补涂。\n观察早晨浮
+ 肿；正常饮水，不要通过脱水瘦脸。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:晨间护肤｜洁面·保湿·防晒
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:35d7bd1d-545d-4d60-8636-367e665e2f48@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261217T164500
+DTEND;TZID=Asia/Shanghai:20261217T165500
+SUMMARY:体态练习｜颈肩胸椎10分钟
+DESCRIPTION:第10周。\n收下巴 2组×10次（每次保持3秒，头
+ 水平后移）；靠墙天使 2组×10次；门框胸肌拉伸 每侧2
+ ×30秒；胸椎旋转 每侧8次。\n时间不足时每项减半。轻
+ 柔完成，不追求疼痛；出现疼痛或眩晕停止。体态练习
+ 不能局部瘦脸。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:体态练习｜颈肩胸椎10分钟
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2b3ab329-4d39-442c-980e-6b0c752ab270@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261217T170000
+DTEND;TZID=Asia/Shanghai:20261217T175000
+SUMMARY:有氧｜轻松跑／跑走结合
+DESCRIPTION:第10周（阶段3）。\n热身快走5分钟；轻松慢跑3
+ 0–40分钟；步行放松5分钟。\n保持能说完整句子的强度
+ ；有疼痛就停，疲劳时缩短时长。跑步不能定向减少脸
+ 部脂肪。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:有氧｜轻松跑／跑走结合
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2b82adea-4d6e-40f4-9bb1-6ece804c6c18@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261217T223000
+DTEND;TZID=Asia/Shanghai:20261217T224000
+SUMMARY:晚间护肤｜温和清洁·保湿
+DESCRIPTION:第10周／第65天。\n1. 用温和洁面清除当天油脂
+ 和防晒。\n2. 涂轻薄保湿乳。\n3. 尽量规律睡眠，减少
+ 高盐宵夜。\n前2–3周先稳定基础护肤，不同时叠加多
+ 种酸类或维A类。皮肤明显刺痛时停用可疑产品。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:晚间护肤｜温和清洁·保湿
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:343f6265-1a8b-4dd1-8ec3-8a208bfaf0e2@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261218T090000
+DTEND;TZID=Asia/Shanghai:20261218T091000
+SUMMARY:晨间护肤｜洁面·保湿·防晒
+DESCRIPTION:第10周／第66天。\n1. 油脂明显时用温和洁面；
+ 不油可清水。\n2. 涂轻薄无香精保湿乳。\n3. 涂广谱SPF30
+ –50防晒；长时间户外按产品说明补涂。\n观察早晨浮
+ 肿；正常饮水，不要通过脱水瘦脸。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:晨间护肤｜洁面·保湿·防晒
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:b0b49d7d-9caa-452a-88d9-d49c1cb65fbf@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261218T164500
+DTEND;TZID=Asia/Shanghai:20261218T165500
+SUMMARY:体态练习｜颈肩胸椎10分钟
+DESCRIPTION:第10周。\n收下巴 2组×10次（每次保持3秒，头
+ 水平后移）；靠墙天使 2组×10次；门框胸肌拉伸 每侧2
+ ×30秒；胸椎旋转 每侧8次。\n时间不足时每项减半。轻
+ 柔完成，不追求疼痛；出现疼痛或眩晕停止。体态练习
+ 不能局部瘦脸。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:体态练习｜颈肩胸椎10分钟
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:e41ff440-5f86-454f-bb92-47deaa5f6e84@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261218T170000
+DTEND;TZID=Asia/Shanghai:20261218T175500
+SUMMARY:力量C｜全身综合
+DESCRIPTION:第10周（阶段3）｜热身5–8分钟。\n反向弓步蹲
+  每侧10次；俯卧撑 8–15次；单臂哑铃划船 每侧10次；
+ 侧平板支撑 每侧30秒。\n每项3组；周五侧平板可做2组
+ 。组间休息60–120秒。\n动作稳定后逐步增加重量，留2
+ –3次余力。\n结束后轻松活动3–5分钟。无需练到力竭
+ 。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:力量C｜全身综合
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:967ed79b-30d8-4ba6-a115-d656b9c31704@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261218T223000
+DTEND;TZID=Asia/Shanghai:20261218T224000
+SUMMARY:晚间护肤｜温和清洁·保湿
+DESCRIPTION:第10周／第66天。\n1. 用温和洁面清除当天油脂
+ 和防晒。\n2. 涂轻薄保湿乳。\n3. 尽量规律睡眠，减少
+ 高盐宵夜。\n前2–3周先稳定基础护肤，不同时叠加多
+ 种酸类或维A类。皮肤明显刺痛时停用可疑产品。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:晚间护肤｜温和清洁·保湿
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:315f4e85-8f68-4ade-96a1-7e956dc34aa1@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261219T090000
+DTEND;TZID=Asia/Shanghai:20261219T091000
+SUMMARY:晨间护肤｜洁面·保湿·防晒
+DESCRIPTION:第10周／第67天。\n1. 油脂明显时用温和洁面；
+ 不油可清水。\n2. 涂轻薄无香精保湿乳。\n3. 涂广谱SPF30
+ –50防晒；长时间户外按产品说明补涂。\n观察早晨浮
+ 肿；正常饮水，不要通过脱水瘦脸。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:晨间护肤｜洁面·保湿·防晒
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ce4040e0-a427-40ce-a0af-175f99a051ab@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261219T164500
+DTEND;TZID=Asia/Shanghai:20261219T165500
+SUMMARY:体态练习｜颈肩胸椎10分钟
+DESCRIPTION:第10周。\n收下巴 2组×10次（每次保持3秒，头
+ 水平后移）；靠墙天使 2组×10次；门框胸肌拉伸 每侧2
+ ×30秒；胸椎旋转 每侧8次。\n时间不足时每项减半。轻
+ 柔完成，不追求疼痛；出现疼痛或眩晕停止。体态练习
+ 不能局部瘦脸。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:体态练习｜颈肩胸椎10分钟
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:f3f695d6-2a05-46a8-87b0-b2dc33fe10f6@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261219T170000
+DTEND;TZID=Asia/Shanghai:20261219T175000
+SUMMARY:有氧｜轻松跑／跑走结合
+DESCRIPTION:第10周（阶段3）。\n热身快走5分钟；轻松慢跑3
+ 0–40分钟；步行放松5分钟。 若疲劳，可改为同等时间
+ 快走或骑车。\n保持能说完整句子的强度；有疼痛就停
+ ，疲劳时缩短时长。跑步不能定向减少脸部脂肪。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:有氧｜轻松跑／跑走结合
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:98e493db-82ce-4d21-aa50-aa53de508b3f@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261219T223000
+DTEND;TZID=Asia/Shanghai:20261219T224000
+SUMMARY:晚间护肤｜温和清洁·保湿
+DESCRIPTION:第10周／第67天。\n1. 用温和洁面清除当天油脂
+ 和防晒。\n2. 涂轻薄保湿乳。\n3. 尽量规律睡眠，减少
+ 高盐宵夜。\n前2–3周先稳定基础护肤，不同时叠加多
+ 种酸类或维A类。皮肤明显刺痛时停用可疑产品。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:晚间护肤｜温和清洁·保湿
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:12095d66-551b-450e-875b-2d446b1ad4bd@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261220T090000
+DTEND;TZID=Asia/Shanghai:20261220T091000
+SUMMARY:晨间护肤｜洁面·保湿·防晒
+DESCRIPTION:第10周／第68天。\n1. 油脂明显时用温和洁面；
+ 不油可清水。\n2. 涂轻薄无香精保湿乳。\n3. 涂广谱SPF30
+ –50防晒；长时间户外按产品说明补涂。\n观察早晨浮
+ 肿；正常饮水，不要通过脱水瘦脸。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:晨间护肤｜洁面·保湿·防晒
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:5cc3b147-28fa-49e3-b5aa-4257e3afb3da@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261220T164500
+DTEND;TZID=Asia/Shanghai:20261220T165500
+SUMMARY:体态练习｜颈肩胸椎10分钟
+DESCRIPTION:第10周。\n收下巴 2组×10次（每次保持3秒，头
+ 水平后移）；靠墙天使 2组×10次；门框胸肌拉伸 每侧2
+ ×30秒；胸椎旋转 每侧8次。\n时间不足时每项减半。轻
+ 柔完成，不追求疼痛；出现疼痛或眩晕停止。体态练习
+ 不能局部瘦脸。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:体态练习｜颈肩胸椎10分钟
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2099830e-04d8-4dce-aa7e-86986f4db420@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261220T170000
+DTEND;TZID=Asia/Shanghai:20261220T172500
+SUMMARY:主动恢复｜散步与舒展
+DESCRIPTION:第10周。\n轻松散步15–25分钟，或做舒缓活动
+ 。\n检查是否有明显疲劳或关节不适，必要时完全休息
+ 。今天不需要补练。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:主动恢复｜散步与舒展
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:44784423-c6d1-4311-a292-7f5fa48aea22@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261220T223000
+DTEND;TZID=Asia/Shanghai:20261220T224000
+SUMMARY:晚间护肤｜温和清洁·保湿
+DESCRIPTION:第10周／第68天。\n1. 用温和洁面清除当天油脂
+ 和防晒。\n2. 涂轻薄保湿乳。\n3. 尽量规律睡眠，减少
+ 高盐宵夜。\n前2–3周先稳定基础护肤，不同时叠加多
+ 种酸类或维A类。皮肤明显刺痛时停用可疑产品。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:晚间护肤｜温和清洁·保湿
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:06d6665b-0bb9-4846-9cdb-444bf24759eb@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261221T090000
+DTEND;TZID=Asia/Shanghai:20261221T091000
+SUMMARY:晨间护肤｜洁面·保湿·防晒
+DESCRIPTION:第10周／第69天。\n1. 油脂明显时用温和洁面；
+ 不油可清水。\n2. 涂轻薄无香精保湿乳。\n3. 涂广谱SPF30
+ –50防晒；长时间户外按产品说明补涂。\n观察早晨浮
+ 肿；正常饮水，不要通过脱水瘦脸。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:晨间护肤｜洁面·保湿·防晒
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:f55e916e-a505-4d89-aa16-53c9b97f92eb@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261221T164500
+DTEND;TZID=Asia/Shanghai:20261221T165500
+SUMMARY:体态练习｜颈肩胸椎10分钟
+DESCRIPTION:第10周。\n收下巴 2组×10次（每次保持3秒，头
+ 水平后移）；靠墙天使 2组×10次；门框胸肌拉伸 每侧2
+ ×30秒；胸椎旋转 每侧8次。\n时间不足时每项减半。轻
+ 柔完成，不追求疼痛；出现疼痛或眩晕停止。体态练习
+ 不能局部瘦脸。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:体态练习｜颈肩胸椎10分钟
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:95901594-5c4b-4dde-88fc-332fe9247452@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261221T170000
+DTEND;TZID=Asia/Shanghai:20261221T175500
+SUMMARY:力量A｜全身基础
+DESCRIPTION:第10周（阶段3）｜热身5–8分钟。\n高脚杯深蹲
+  10次；哑铃卧推 10次；坐姿划船 12次；平板支撑 30–45
+ 秒。\n每项3组；周五侧平板可做2组。组间休息60–120秒
+ 。\n动作稳定后逐步增加重量，留2–3次余力。\n结束后
+ 轻松活动3–5分钟。无需练到力竭。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:力量A｜全身基础
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:65251733-31ed-4950-a5c8-48b907d9007f@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261221T223000
+DTEND;TZID=Asia/Shanghai:20261221T224000
+SUMMARY:晚间护肤｜温和清洁·保湿
+DESCRIPTION:第10周／第69天。\n1. 用温和洁面清除当天油脂
+ 和防晒。\n2. 涂轻薄保湿乳。\n3. 尽量规律睡眠，减少
+ 高盐宵夜。\n前2–3周先稳定基础护肤，不同时叠加多
+ 种酸类或维A类。皮肤明显刺痛时停用可疑产品。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:晚间护肤｜温和清洁·保湿
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:38e88060-4e22-4b86-9434-f36a57eeeb7e@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261222T090000
+DTEND;TZID=Asia/Shanghai:20261222T091000
+SUMMARY:晨间护肤｜洁面·保湿·防晒
+DESCRIPTION:第10周／第70天。\n1. 油脂明显时用温和洁面；
+ 不油可清水。\n2. 涂轻薄无香精保湿乳。\n3. 涂广谱SPF30
+ –50防晒；长时间户外按产品说明补涂。\n观察早晨浮
+ 肿；正常饮水，不要通过脱水瘦脸。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:晨间护肤｜洁面·保湿·防晒
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:4c6ae50d-3be9-4c89-89d7-7b4b1d9aee15@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261222T164500
+DTEND;TZID=Asia/Shanghai:20261222T165500
+SUMMARY:体态练习｜颈肩胸椎10分钟
+DESCRIPTION:第10周。\n收下巴 2组×10次（每次保持3秒，头
+ 水平后移）；靠墙天使 2组×10次；门框胸肌拉伸 每侧2
+ ×30秒；胸椎旋转 每侧8次。\n时间不足时每项减半。轻
+ 柔完成，不追求疼痛；出现疼痛或眩晕停止。体态练习
+ 不能局部瘦脸。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:体态练习｜颈肩胸椎10分钟
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ba9eeb8c-c5c4-47f8-8e73-40b51cd1beac@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261222T170000
+DTEND;TZID=Asia/Shanghai:20261222T175000
+SUMMARY:有氧｜轻松跑／跑走结合
+DESCRIPTION:第10周（阶段3）。\n热身快走5分钟；轻松慢跑3
+ 0–40分钟；步行放松5分钟。\n保持能说完整句子的强度
+ ；有疼痛就停，疲劳时缩短时长。跑步不能定向减少脸
+ 部脂肪。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:有氧｜轻松跑／跑走结合
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:3bc8d3fc-f489-4a50-bca5-21c96b3959f6@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261222T223000
+DTEND;TZID=Asia/Shanghai:20261222T224000
+SUMMARY:晚间护肤｜温和清洁·保湿
+DESCRIPTION:第10周／第70天。\n1. 用温和洁面清除当天油脂
+ 和防晒。\n2. 涂轻薄保湿乳。\n3. 尽量规律睡眠，减少
+ 高盐宵夜。\n前2–3周先稳定基础护肤，不同时叠加多
+ 种酸类或维A类。皮肤明显刺痛时停用可疑产品。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:晚间护肤｜温和清洁·保湿
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ae826a25-78cc-4ea6-aec5-8ac4c929e366@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261223T090000
+DTEND;TZID=Asia/Shanghai:20261223T091000
+SUMMARY:晨间护肤｜洁面·保湿·防晒
+DESCRIPTION:第11周／第71天。\n1. 油脂明显时用温和洁面；
+ 不油可清水。\n2. 涂轻薄无香精保湿乳。\n3. 涂广谱SPF30
+ –50防晒；长时间户外按产品说明补涂。\n观察早晨浮
+ 肿；正常饮水，不要通过脱水瘦脸。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:晨间护肤｜洁面·保湿·防晒
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:322d2524-c287-44fd-9e34-2b6f8064f7d4@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261223T164500
+DTEND;TZID=Asia/Shanghai:20261223T165500
+SUMMARY:体态练习｜颈肩胸椎10分钟
+DESCRIPTION:第11周。\n收下巴 2组×10次（每次保持3秒，头
+ 水平后移）；靠墙天使 2组×10次；门框胸肌拉伸 每侧2
+ ×30秒；胸椎旋转 每侧8次。\n时间不足时每项减半。轻
+ 柔完成，不追求疼痛；出现疼痛或眩晕停止。体态练习
+ 不能局部瘦脸。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:体态练习｜颈肩胸椎10分钟
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:5f4e375a-568e-4a3a-a1d9-80fd96658c4d@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261223T170000
+DTEND;TZID=Asia/Shanghai:20261223T175500
+SUMMARY:力量B｜背肩臀腿
+DESCRIPTION:第11周（阶段4）｜热身5–8分钟。\n罗马尼亚硬
+ 拉 10次；高位下拉 12次；哑铃肩推 10次；死虫式 每侧10
+ 次。\n每项3组；周五侧平板可做2组。组间休息60–120秒
+ 。\n维持动作质量，不必追求极限重量。\n结束后轻松
+ 活动3–5分钟。无需练到力竭。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:力量B｜背肩臀腿
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:48ef4ebe-3fe2-45bc-bafc-2c121165db29@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261223T223000
+DTEND;TZID=Asia/Shanghai:20261223T224000
+SUMMARY:晚间护肤｜温和清洁·保湿
+DESCRIPTION:第11周／第71天。\n1. 用温和洁面清除当天油脂
+ 和防晒。\n2. 涂轻薄保湿乳。\n3. 尽量规律睡眠，减少
+ 高盐宵夜。\n前2–3周先稳定基础护肤，不同时叠加多
+ 种酸类或维A类。皮肤明显刺痛时停用可疑产品。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:晚间护肤｜温和清洁·保湿
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:616fe4bf-7072-4385-8bef-7c0af126605d@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261224T090000
+DTEND;TZID=Asia/Shanghai:20261224T091000
+SUMMARY:晨间护肤｜洁面·保湿·防晒
+DESCRIPTION:第11周／第72天。\n1. 油脂明显时用温和洁面；
+ 不油可清水。\n2. 涂轻薄无香精保湿乳。\n3. 涂广谱SPF30
+ –50防晒；长时间户外按产品说明补涂。\n观察早晨浮
+ 肿；正常饮水，不要通过脱水瘦脸。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:晨间护肤｜洁面·保湿·防晒
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:53a94375-ee4f-415d-acd0-2398faa8a91d@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261224T164500
+DTEND;TZID=Asia/Shanghai:20261224T165500
+SUMMARY:体态练习｜颈肩胸椎10分钟
+DESCRIPTION:第11周。\n收下巴 2组×10次（每次保持3秒，头
+ 水平后移）；靠墙天使 2组×10次；门框胸肌拉伸 每侧2
+ ×30秒；胸椎旋转 每侧8次。\n时间不足时每项减半。轻
+ 柔完成，不追求疼痛；出现疼痛或眩晕停止。体态练习
+ 不能局部瘦脸。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:体态练习｜颈肩胸椎10分钟
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:b5206f11-9b58-4842-9ba4-fc1c5989f846@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261224T170000
+DTEND;TZID=Asia/Shanghai:20261224T175000
+SUMMARY:有氧｜轻松跑／跑走结合
+DESCRIPTION:第11周（阶段4）。\n热身快走5分钟；轻松慢跑3
+ 0–40分钟；步行放松5分钟。\n保持能说完整句子的强度
+ ；有疼痛就停，疲劳时缩短时长。跑步不能定向减少脸
+ 部脂肪。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:有氧｜轻松跑／跑走结合
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ecb36058-6926-4cf4-9beb-afa8d79a3d19@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261224T223000
+DTEND;TZID=Asia/Shanghai:20261224T224000
+SUMMARY:晚间护肤｜温和清洁·保湿
+DESCRIPTION:第11周／第72天。\n1. 用温和洁面清除当天油脂
+ 和防晒。\n2. 涂轻薄保湿乳。\n3. 尽量规律睡眠，减少
+ 高盐宵夜。\n前2–3周先稳定基础护肤，不同时叠加多
+ 种酸类或维A类。皮肤明显刺痛时停用可疑产品。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:晚间护肤｜温和清洁·保湿
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:c5da27f9-1798-46b2-919c-1be63b390d25@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261225T090000
+DTEND;TZID=Asia/Shanghai:20261225T091000
+SUMMARY:晨间护肤｜洁面·保湿·防晒
+DESCRIPTION:第11周／第73天。\n1. 油脂明显时用温和洁面；
+ 不油可清水。\n2. 涂轻薄无香精保湿乳。\n3. 涂广谱SPF30
+ –50防晒；长时间户外按产品说明补涂。\n观察早晨浮
+ 肿；正常饮水，不要通过脱水瘦脸。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:晨间护肤｜洁面·保湿·防晒
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:95d56bbb-3b3a-4ee7-8d63-03c307398d3d@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261225T164500
+DTEND;TZID=Asia/Shanghai:20261225T165500
+SUMMARY:体态练习｜颈肩胸椎10分钟
+DESCRIPTION:第11周。\n收下巴 2组×10次（每次保持3秒，头
+ 水平后移）；靠墙天使 2组×10次；门框胸肌拉伸 每侧2
+ ×30秒；胸椎旋转 每侧8次。\n时间不足时每项减半。轻
+ 柔完成，不追求疼痛；出现疼痛或眩晕停止。体态练习
+ 不能局部瘦脸。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:体态练习｜颈肩胸椎10分钟
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:c3411e42-e307-4f37-8a60-a829d0fb339e@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261225T170000
+DTEND;TZID=Asia/Shanghai:20261225T175500
+SUMMARY:力量C｜全身综合
+DESCRIPTION:第11周（阶段4）｜热身5–8分钟。\n反向弓步蹲
+  每侧10次；俯卧撑 8–15次；单臂哑铃划船 每侧10次；
+ 侧平板支撑 每侧30秒。\n每项3组；周五侧平板可做2组
+ 。组间休息60–120秒。\n维持动作质量，不必追求极限
+ 重量。\n结束后轻松活动3–5分钟。无需练到力竭。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:力量C｜全身综合
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:a92b27ce-3017-42d7-97b2-38b330287f38@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261225T223000
+DTEND;TZID=Asia/Shanghai:20261225T224000
+SUMMARY:晚间护肤｜温和清洁·保湿
+DESCRIPTION:第11周／第73天。\n1. 用温和洁面清除当天油脂
+ 和防晒。\n2. 涂轻薄保湿乳。\n3. 尽量规律睡眠，减少
+ 高盐宵夜。\n前2–3周先稳定基础护肤，不同时叠加多
+ 种酸类或维A类。皮肤明显刺痛时停用可疑产品。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:晚间护肤｜温和清洁·保湿
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:1fcdf253-6db0-46f0-878d-47cb7d87b426@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261226T090000
+DTEND;TZID=Asia/Shanghai:20261226T091000
+SUMMARY:晨间护肤｜洁面·保湿·防晒
+DESCRIPTION:第11周／第74天。\n1. 油脂明显时用温和洁面；
+ 不油可清水。\n2. 涂轻薄无香精保湿乳。\n3. 涂广谱SPF30
+ –50防晒；长时间户外按产品说明补涂。\n观察早晨浮
+ 肿；正常饮水，不要通过脱水瘦脸。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:晨间护肤｜洁面·保湿·防晒
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2a8bc385-bf34-4c66-94d1-2140bb18f9bd@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261226T164500
+DTEND;TZID=Asia/Shanghai:20261226T165500
+SUMMARY:体态练习｜颈肩胸椎10分钟
+DESCRIPTION:第11周。\n收下巴 2组×10次（每次保持3秒，头
+ 水平后移）；靠墙天使 2组×10次；门框胸肌拉伸 每侧2
+ ×30秒；胸椎旋转 每侧8次。\n时间不足时每项减半。轻
+ 柔完成，不追求疼痛；出现疼痛或眩晕停止。体态练习
+ 不能局部瘦脸。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:体态练习｜颈肩胸椎10分钟
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:29ed1ba6-c634-4bd2-a637-7e8827cf3d6e@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261226T170000
+DTEND;TZID=Asia/Shanghai:20261226T175000
+SUMMARY:有氧｜轻松跑／跑走结合
+DESCRIPTION:第11周（阶段4）。\n热身快走5分钟；轻松慢跑3
+ 0–40分钟；步行放松5分钟。 若疲劳，可改为同等时间
+ 快走或骑车。\n保持能说完整句子的强度；有疼痛就停
+ ，疲劳时缩短时长。跑步不能定向减少脸部脂肪。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:有氧｜轻松跑／跑走结合
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:4d5748a8-b7ac-4123-b7d1-78de7e4ea4c8@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261226T223000
+DTEND;TZID=Asia/Shanghai:20261226T224000
+SUMMARY:晚间护肤｜温和清洁·保湿
+DESCRIPTION:第11周／第74天。\n1. 用温和洁面清除当天油脂
+ 和防晒。\n2. 涂轻薄保湿乳。\n3. 尽量规律睡眠，减少
+ 高盐宵夜。\n前2–3周先稳定基础护肤，不同时叠加多
+ 种酸类或维A类。皮肤明显刺痛时停用可疑产品。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:晚间护肤｜温和清洁·保湿
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:450ba381-1a46-4352-be7c-07a467de1e95@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261227T090000
+DTEND;TZID=Asia/Shanghai:20261227T091000
+SUMMARY:晨间护肤｜洁面·保湿·防晒
+DESCRIPTION:第11周／第75天。\n1. 油脂明显时用温和洁面；
+ 不油可清水。\n2. 涂轻薄无香精保湿乳。\n3. 涂广谱SPF30
+ –50防晒；长时间户外按产品说明补涂。\n观察早晨浮
+ 肿；正常饮水，不要通过脱水瘦脸。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:晨间护肤｜洁面·保湿·防晒
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:d639b77e-a6f8-4b93-93c8-106c6a6f7316@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261227T164500
+DTEND;TZID=Asia/Shanghai:20261227T165500
+SUMMARY:体态练习｜颈肩胸椎10分钟
+DESCRIPTION:第11周。\n收下巴 2组×10次（每次保持3秒，头
+ 水平后移）；靠墙天使 2组×10次；门框胸肌拉伸 每侧2
+ ×30秒；胸椎旋转 每侧8次。\n时间不足时每项减半。轻
+ 柔完成，不追求疼痛；出现疼痛或眩晕停止。体态练习
+ 不能局部瘦脸。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:体态练习｜颈肩胸椎10分钟
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:c0d11ecc-54f8-4746-9c8b-c7b0f86f2760@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261227T170000
+DTEND;TZID=Asia/Shanghai:20261227T172500
+SUMMARY:主动恢复｜散步与舒展
+DESCRIPTION:第11周。\n轻松散步15–25分钟，或做舒缓活动
+ 。\n检查是否有明显疲劳或关节不适，必要时完全休息
+ 。今天不需要补练。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:主动恢复｜散步与舒展
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:196ed9b1-1916-429f-a5c0-eb4d5c7b9fc1@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261227T223000
+DTEND;TZID=Asia/Shanghai:20261227T224000
+SUMMARY:晚间护肤｜温和清洁·保湿
+DESCRIPTION:第11周／第75天。\n1. 用温和洁面清除当天油脂
+ 和防晒。\n2. 涂轻薄保湿乳。\n3. 尽量规律睡眠，减少
+ 高盐宵夜。\n前2–3周先稳定基础护肤，不同时叠加多
+ 种酸类或维A类。皮肤明显刺痛时停用可疑产品。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:晚间护肤｜温和清洁·保湿
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:82634a28-eb85-4060-b92d-c806a239d411@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261228T090000
+DTEND;TZID=Asia/Shanghai:20261228T091000
+SUMMARY:晨间护肤｜洁面·保湿·防晒
+DESCRIPTION:第11周／第76天。\n1. 油脂明显时用温和洁面；
+ 不油可清水。\n2. 涂轻薄无香精保湿乳。\n3. 涂广谱SPF30
+ –50防晒；长时间户外按产品说明补涂。\n观察早晨浮
+ 肿；正常饮水，不要通过脱水瘦脸。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:晨间护肤｜洁面·保湿·防晒
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:439af2d0-0e45-4729-9784-76e73339a003@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261228T164500
+DTEND;TZID=Asia/Shanghai:20261228T165500
+SUMMARY:体态练习｜颈肩胸椎10分钟
+DESCRIPTION:第11周。\n收下巴 2组×10次（每次保持3秒，头
+ 水平后移）；靠墙天使 2组×10次；门框胸肌拉伸 每侧2
+ ×30秒；胸椎旋转 每侧8次。\n时间不足时每项减半。轻
+ 柔完成，不追求疼痛；出现疼痛或眩晕停止。体态练习
+ 不能局部瘦脸。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:体态练习｜颈肩胸椎10分钟
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:1f699730-0d49-4977-bc63-30c9369bc49c@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261228T170000
+DTEND;TZID=Asia/Shanghai:20261228T175500
+SUMMARY:力量A｜全身基础
+DESCRIPTION:第11周（阶段4）｜热身5–8分钟。\n高脚杯深蹲
+  10次；哑铃卧推 10次；坐姿划船 12次；平板支撑 30–45
+ 秒。\n每项3组；周五侧平板可做2组。组间休息60–120秒
+ 。\n维持动作质量，不必追求极限重量。\n结束后轻松
+ 活动3–5分钟。无需练到力竭。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:力量A｜全身基础
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fce2f775-9e31-4c2f-92ba-dcb474abe286@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261228T223000
+DTEND;TZID=Asia/Shanghai:20261228T224000
+SUMMARY:晚间护肤｜温和清洁·保湿
+DESCRIPTION:第11周／第76天。\n1. 用温和洁面清除当天油脂
+ 和防晒。\n2. 涂轻薄保湿乳。\n3. 尽量规律睡眠，减少
+ 高盐宵夜。\n前2–3周先稳定基础护肤，不同时叠加多
+ 种酸类或维A类。皮肤明显刺痛时停用可疑产品。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:晚间护肤｜温和清洁·保湿
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:a351649f-ba2b-4119-a31b-c6682043e4da@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261229T090000
+DTEND;TZID=Asia/Shanghai:20261229T091000
+SUMMARY:晨间护肤｜洁面·保湿·防晒
+DESCRIPTION:第11周／第77天。\n1. 油脂明显时用温和洁面；
+ 不油可清水。\n2. 涂轻薄无香精保湿乳。\n3. 涂广谱SPF30
+ –50防晒；长时间户外按产品说明补涂。\n观察早晨浮
+ 肿；正常饮水，不要通过脱水瘦脸。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:晨间护肤｜洁面·保湿·防晒
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:5c4fcadc-dcbc-48a6-aad2-0b303ab56deb@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261229T164500
+DTEND;TZID=Asia/Shanghai:20261229T165500
+SUMMARY:体态练习｜颈肩胸椎10分钟
+DESCRIPTION:第11周。\n收下巴 2组×10次（每次保持3秒，头
+ 水平后移）；靠墙天使 2组×10次；门框胸肌拉伸 每侧2
+ ×30秒；胸椎旋转 每侧8次。\n时间不足时每项减半。轻
+ 柔完成，不追求疼痛；出现疼痛或眩晕停止。体态练习
+ 不能局部瘦脸。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:体态练习｜颈肩胸椎10分钟
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:871a2d78-efd0-4dc8-8c0d-2177d23c2f4a@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261229T170000
+DTEND;TZID=Asia/Shanghai:20261229T175000
+SUMMARY:有氧｜轻松跑／跑走结合
+DESCRIPTION:第11周（阶段4）。\n热身快走5分钟；轻松慢跑3
+ 0–40分钟；步行放松5分钟。\n保持能说完整句子的强度
+ ；有疼痛就停，疲劳时缩短时长。跑步不能定向减少脸
+ 部脂肪。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:有氧｜轻松跑／跑走结合
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:7749a301-e6f0-4cc0-905b-3c8dec181df1@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261229T223000
+DTEND;TZID=Asia/Shanghai:20261229T224000
+SUMMARY:晚间护肤｜温和清洁·保湿
+DESCRIPTION:第11周／第77天。\n1. 用温和洁面清除当天油脂
+ 和防晒。\n2. 涂轻薄保湿乳。\n3. 尽量规律睡眠，减少
+ 高盐宵夜。\n前2–3周先稳定基础护肤，不同时叠加多
+ 种酸类或维A类。皮肤明显刺痛时停用可疑产品。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:晚间护肤｜温和清洁·保湿
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:58bab8cd-a94c-4c12-ae5c-875be19c436b@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261230T090000
+DTEND;TZID=Asia/Shanghai:20261230T091000
+SUMMARY:晨间护肤｜洁面·保湿·防晒
+DESCRIPTION:第12周／第78天。\n1. 油脂明显时用温和洁面；
+ 不油可清水。\n2. 涂轻薄无香精保湿乳。\n3. 涂广谱SPF30
+ –50防晒；长时间户外按产品说明补涂。\n观察早晨浮
+ 肿；正常饮水，不要通过脱水瘦脸。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:晨间护肤｜洁面·保湿·防晒
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:5143da41-fc76-4537-aac4-ed0f88c926a0@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261230T164500
+DTEND;TZID=Asia/Shanghai:20261230T165500
+SUMMARY:体态练习｜颈肩胸椎10分钟
+DESCRIPTION:第12周。\n收下巴 2组×10次（每次保持3秒，头
+ 水平后移）；靠墙天使 2组×10次；门框胸肌拉伸 每侧2
+ ×30秒；胸椎旋转 每侧8次。\n时间不足时每项减半。轻
+ 柔完成，不追求疼痛；出现疼痛或眩晕停止。体态练习
+ 不能局部瘦脸。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:体态练习｜颈肩胸椎10分钟
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:67d934e8-8d8e-47b4-9196-be72a4ae272f@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261230T170000
+DTEND;TZID=Asia/Shanghai:20261230T175500
+SUMMARY:力量B｜背肩臀腿
+DESCRIPTION:第12周（阶段4）｜热身5–8分钟。\n罗马尼亚硬
+ 拉 10次；高位下拉 12次；哑铃肩推 10次；死虫式 每侧10
+ 次。\n每项3组；周五侧平板可做2组。组间休息60–120秒
+ 。\n维持动作质量，不必追求极限重量。\n结束后轻松
+ 活动3–5分钟。无需练到力竭。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:力量B｜背肩臀腿
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:e4494429-6e78-4e81-adc7-9db5c573a73a@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261230T223000
+DTEND;TZID=Asia/Shanghai:20261230T224000
+SUMMARY:晚间护肤｜温和清洁·保湿
+DESCRIPTION:第12周／第78天。\n1. 用温和洁面清除当天油脂
+ 和防晒。\n2. 涂轻薄保湿乳。\n3. 尽量规律睡眠，减少
+ 高盐宵夜。\n前2–3周先稳定基础护肤，不同时叠加多
+ 种酸类或维A类。皮肤明显刺痛时停用可疑产品。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:晚间护肤｜温和清洁·保湿
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:71804ace-e304-4142-9da6-36ebbb1a40b2@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261231T090000
+DTEND;TZID=Asia/Shanghai:20261231T091000
+SUMMARY:晨间护肤｜洁面·保湿·防晒
+DESCRIPTION:第12周／第79天。\n1. 油脂明显时用温和洁面；
+ 不油可清水。\n2. 涂轻薄无香精保湿乳。\n3. 涂广谱SPF30
+ –50防晒；长时间户外按产品说明补涂。\n观察早晨浮
+ 肿；正常饮水，不要通过脱水瘦脸。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:晨间护肤｜洁面·保湿·防晒
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:d9073e62-1279-4a00-9a76-f819b0de3637@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261231T164500
+DTEND;TZID=Asia/Shanghai:20261231T165500
+SUMMARY:体态练习｜颈肩胸椎10分钟
+DESCRIPTION:第12周。\n收下巴 2组×10次（每次保持3秒，头
+ 水平后移）；靠墙天使 2组×10次；门框胸肌拉伸 每侧2
+ ×30秒；胸椎旋转 每侧8次。\n时间不足时每项减半。轻
+ 柔完成，不追求疼痛；出现疼痛或眩晕停止。体态练习
+ 不能局部瘦脸。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:体态练习｜颈肩胸椎10分钟
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:9a4bc2ad-bd22-4e85-b903-d3f30489fab8@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261231T170000
+DTEND;TZID=Asia/Shanghai:20261231T175000
+SUMMARY:有氧｜轻松跑／跑走结合
+DESCRIPTION:第12周（阶段4）。\n热身快走5分钟；轻松慢跑3
+ 0–40分钟；步行放松5分钟。\n保持能说完整句子的强度
+ ；有疼痛就停，疲劳时缩短时长。跑步不能定向减少脸
+ 部脂肪。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:有氧｜轻松跑／跑走结合
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:5d8b2063-838e-4760-94b9-21b3b91a0b0f@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261231T223000
+DTEND;TZID=Asia/Shanghai:20261231T224000
+SUMMARY:晚间护肤｜温和清洁·保湿
+DESCRIPTION:第12周／第79天。\n1. 用温和洁面清除当天油脂
+ 和防晒。\n2. 涂轻薄保湿乳。\n3. 尽量规律睡眠，减少
+ 高盐宵夜。\n前2–3周先稳定基础护肤，不同时叠加多
+ 种酸类或维A类。皮肤明显刺痛时停用可疑产品。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:晚间护肤｜温和清洁·保湿
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:d7c291e9-6d6f-4028-be0c-e6da25c9b49f@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20270101T090000
+DTEND;TZID=Asia/Shanghai:20270101T091000
+SUMMARY:晨间护肤｜洁面·保湿·防晒
+DESCRIPTION:第12周／第80天。\n1. 油脂明显时用温和洁面；
+ 不油可清水。\n2. 涂轻薄无香精保湿乳。\n3. 涂广谱SPF30
+ –50防晒；长时间户外按产品说明补涂。\n观察早晨浮
+ 肿；正常饮水，不要通过脱水瘦脸。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:晨间护肤｜洁面·保湿·防晒
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:337f8db6-0565-4ee0-9421-dcb0ba182fbc@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20270101T164500
+DTEND;TZID=Asia/Shanghai:20270101T165500
+SUMMARY:体态练习｜颈肩胸椎10分钟
+DESCRIPTION:第12周。\n收下巴 2组×10次（每次保持3秒，头
+ 水平后移）；靠墙天使 2组×10次；门框胸肌拉伸 每侧2
+ ×30秒；胸椎旋转 每侧8次。\n时间不足时每项减半。轻
+ 柔完成，不追求疼痛；出现疼痛或眩晕停止。体态练习
+ 不能局部瘦脸。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:体态练习｜颈肩胸椎10分钟
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:c2095783-6d11-4dda-a92f-3a84eadcdc9c@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20270101T170000
+DTEND;TZID=Asia/Shanghai:20270101T175500
+SUMMARY:力量C｜全身综合
+DESCRIPTION:第12周（阶段4）｜热身5–8分钟。\n反向弓步蹲
+  每侧10次；俯卧撑 8–15次；单臂哑铃划船 每侧10次；
+ 侧平板支撑 每侧30秒。\n每项3组；周五侧平板可做2组
+ 。组间休息60–120秒。\n维持动作质量，不必追求极限
+ 重量。\n结束后轻松活动3–5分钟。无需练到力竭。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:力量C｜全身综合
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:09627cae-68a4-4730-8fd8-6c7da4505709@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20270101T223000
+DTEND;TZID=Asia/Shanghai:20270101T224000
+SUMMARY:晚间护肤｜温和清洁·保湿
+DESCRIPTION:第12周／第80天。\n1. 用温和洁面清除当天油脂
+ 和防晒。\n2. 涂轻薄保湿乳。\n3. 尽量规律睡眠，减少
+ 高盐宵夜。\n前2–3周先稳定基础护肤，不同时叠加多
+ 种酸类或维A类。皮肤明显刺痛时停用可疑产品。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:晚间护肤｜温和清洁·保湿
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:692f74e2-9d6a-4303-8ee1-4d2a1998af89@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20270102T090000
+DTEND;TZID=Asia/Shanghai:20270102T091000
+SUMMARY:晨间护肤｜洁面·保湿·防晒
+DESCRIPTION:第12周／第81天。\n1. 油脂明显时用温和洁面；
+ 不油可清水。\n2. 涂轻薄无香精保湿乳。\n3. 涂广谱SPF30
+ –50防晒；长时间户外按产品说明补涂。\n观察早晨浮
+ 肿；正常饮水，不要通过脱水瘦脸。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:晨间护肤｜洁面·保湿·防晒
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:758350e2-c7e9-44fb-95b8-d4da94a07ec3@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20270102T164500
+DTEND;TZID=Asia/Shanghai:20270102T165500
+SUMMARY:体态练习｜颈肩胸椎10分钟
+DESCRIPTION:第12周。\n收下巴 2组×10次（每次保持3秒，头
+ 水平后移）；靠墙天使 2组×10次；门框胸肌拉伸 每侧2
+ ×30秒；胸椎旋转 每侧8次。\n时间不足时每项减半。轻
+ 柔完成，不追求疼痛；出现疼痛或眩晕停止。体态练习
+ 不能局部瘦脸。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:体态练习｜颈肩胸椎10分钟
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ea50bff2-a15f-4b4a-b0d5-eef7e9d59248@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20270102T170000
+DTEND;TZID=Asia/Shanghai:20270102T175000
+SUMMARY:有氧｜轻松跑／跑走结合
+DESCRIPTION:第12周（阶段4）。\n热身快走5分钟；轻松慢跑3
+ 0–40分钟；步行放松5分钟。 若疲劳，可改为同等时间
+ 快走或骑车。\n保持能说完整句子的强度；有疼痛就停
+ ，疲劳时缩短时长。跑步不能定向减少脸部脂肪。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:有氧｜轻松跑／跑走结合
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:03f99692-4f89-4321-af0f-19e1dec5a4ba@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20270102T223000
+DTEND;TZID=Asia/Shanghai:20270102T224000
+SUMMARY:晚间护肤｜温和清洁·保湿
+DESCRIPTION:第12周／第81天。\n1. 用温和洁面清除当天油脂
+ 和防晒。\n2. 涂轻薄保湿乳。\n3. 尽量规律睡眠，减少
+ 高盐宵夜。\n前2–3周先稳定基础护肤，不同时叠加多
+ 种酸类或维A类。皮肤明显刺痛时停用可疑产品。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:晚间护肤｜温和清洁·保湿
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:8e33fef8-8ca8-4957-9292-cc86ab6aa95a@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20270103T090000
+DTEND;TZID=Asia/Shanghai:20270103T091000
+SUMMARY:晨间护肤｜洁面·保湿·防晒
+DESCRIPTION:第12周／第82天。\n1. 油脂明显时用温和洁面；
+ 不油可清水。\n2. 涂轻薄无香精保湿乳。\n3. 涂广谱SPF30
+ –50防晒；长时间户外按产品说明补涂。\n观察早晨浮
+ 肿；正常饮水，不要通过脱水瘦脸。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:晨间护肤｜洁面·保湿·防晒
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:6df71c39-c5d8-4a0e-887d-8a31cc95cc55@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20270103T164500
+DTEND;TZID=Asia/Shanghai:20270103T165500
+SUMMARY:体态练习｜颈肩胸椎10分钟
+DESCRIPTION:第12周。\n收下巴 2组×10次（每次保持3秒，头
+ 水平后移）；靠墙天使 2组×10次；门框胸肌拉伸 每侧2
+ ×30秒；胸椎旋转 每侧8次。\n时间不足时每项减半。轻
+ 柔完成，不追求疼痛；出现疼痛或眩晕停止。体态练习
+ 不能局部瘦脸。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:体态练习｜颈肩胸椎10分钟
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:7807aebb-a3a3-4865-85f0-f03b8c3e3d3a@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20270103T170000
+DTEND;TZID=Asia/Shanghai:20270103T172500
+SUMMARY:主动恢复｜散步与舒展
+DESCRIPTION:第12周。\n轻松散步15–25分钟，或做舒缓活动
+ 。\n检查是否有明显疲劳或关节不适，必要时完全休息
+ 。今天不需要补练。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:主动恢复｜散步与舒展
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ded60a31-8e61-4b77-8f02-34d9c2825776@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20270103T223000
+DTEND;TZID=Asia/Shanghai:20270103T224000
+SUMMARY:晚间护肤｜温和清洁·保湿
+DESCRIPTION:第12周／第82天。\n1. 用温和洁面清除当天油脂
+ 和防晒。\n2. 涂轻薄保湿乳。\n3. 尽量规律睡眠，减少
+ 高盐宵夜。\n前2–3周先稳定基础护肤，不同时叠加多
+ 种酸类或维A类。皮肤明显刺痛时停用可疑产品。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:晚间护肤｜温和清洁·保湿
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:c29bf77f-2128-4945-a5a1-d5282826e3a2@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20270104T090000
+DTEND;TZID=Asia/Shanghai:20270104T091000
+SUMMARY:晨间护肤｜洁面·保湿·防晒
+DESCRIPTION:第12周／第83天。\n1. 油脂明显时用温和洁面；
+ 不油可清水。\n2. 涂轻薄无香精保湿乳。\n3. 涂广谱SPF30
+ –50防晒；长时间户外按产品说明补涂。\n观察早晨浮
+ 肿；正常饮水，不要通过脱水瘦脸。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:晨间护肤｜洁面·保湿·防晒
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:c9839dd7-6339-49d2-a7e0-6bfb0b2d13d8@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20270104T164500
+DTEND;TZID=Asia/Shanghai:20270104T165500
+SUMMARY:体态练习｜颈肩胸椎10分钟
+DESCRIPTION:第12周。\n收下巴 2组×10次（每次保持3秒，头
+ 水平后移）；靠墙天使 2组×10次；门框胸肌拉伸 每侧2
+ ×30秒；胸椎旋转 每侧8次。\n时间不足时每项减半。轻
+ 柔完成，不追求疼痛；出现疼痛或眩晕停止。体态练习
+ 不能局部瘦脸。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:体态练习｜颈肩胸椎10分钟
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:6e27b4cf-70c3-4192-b80b-ea1ac815e408@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20270104T170000
+DTEND;TZID=Asia/Shanghai:20270104T175500
+SUMMARY:力量A｜全身基础
+DESCRIPTION:第12周（阶段4）｜热身5–8分钟。\n高脚杯深蹲
+  10次；哑铃卧推 10次；坐姿划船 12次；平板支撑 30–45
+ 秒。\n每项3组；周五侧平板可做2组。组间休息60–120秒
+ 。\n维持动作质量，不必追求极限重量。\n结束后轻松
+ 活动3–5分钟。无需练到力竭。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:力量A｜全身基础
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:6a6fafe4-8666-4050-9c63-a45d52527a24@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20270104T223000
+DTEND;TZID=Asia/Shanghai:20270104T224000
+SUMMARY:晚间护肤｜温和清洁·保湿
+DESCRIPTION:第12周／第83天。\n1. 用温和洁面清除当天油脂
+ 和防晒。\n2. 涂轻薄保湿乳。\n3. 尽量规律睡眠，减少
+ 高盐宵夜。\n前2–3周先稳定基础护肤，不同时叠加多
+ 种酸类或维A类。皮肤明显刺痛时停用可疑产品。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:晚间护肤｜温和清洁·保湿
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20d8b1c9-0e13-4e2f-9e13-6841f586d550@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20270105T090000
+DTEND;TZID=Asia/Shanghai:20270105T091000
+SUMMARY:晨间护肤｜洁面·保湿·防晒
+DESCRIPTION:第12周／第84天。\n1. 油脂明显时用温和洁面；
+ 不油可清水。\n2. 涂轻薄无香精保湿乳。\n3. 涂广谱SPF30
+ –50防晒；长时间户外按产品说明补涂。\n观察早晨浮
+ 肿；正常饮水，不要通过脱水瘦脸。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:晨间护肤｜洁面·保湿·防晒
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:5c015b47-9132-4cc5-81f4-cc06e9a74f9c@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20270105T164500
+DTEND;TZID=Asia/Shanghai:20270105T165500
+SUMMARY:体态练习｜颈肩胸椎10分钟
+DESCRIPTION:第12周。\n收下巴 2组×10次（每次保持3秒，头
+ 水平后移）；靠墙天使 2组×10次；门框胸肌拉伸 每侧2
+ ×30秒；胸椎旋转 每侧8次。\n时间不足时每项减半。轻
+ 柔完成，不追求疼痛；出现疼痛或眩晕停止。体态练习
+ 不能局部瘦脸。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:体态练习｜颈肩胸椎10分钟
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cd34409e-54fe-4596-9f15-ede99437fb3f@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20270105T170000
+DTEND;TZID=Asia/Shanghai:20270105T175000
+SUMMARY:有氧｜轻松跑／跑走结合
+DESCRIPTION:第12周（阶段4）。\n热身快走5分钟；轻松慢跑3
+ 0–40分钟；步行放松5分钟。\n保持能说完整句子的强度
+ ；有疼痛就停，疲劳时缩短时长。跑步不能定向减少脸
+ 部脂肪。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:有氧｜轻松跑／跑走结合
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:1624dff7-f9a7-4725-81f4-57a12e50b3ff@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20270105T223000
+DTEND;TZID=Asia/Shanghai:20270105T224000
+SUMMARY:晚间护肤｜温和清洁·保湿
+DESCRIPTION:第12周／第84天。\n1. 用温和洁面清除当天油脂
+ 和防晒。\n2. 涂轻薄保湿乳。\n3. 尽量规律睡眠，减少
+ 高盐宵夜。\n前2–3周先稳定基础护肤，不同时叠加多
+ 种酸类或维A类。皮肤明显刺痛时停用可疑产品。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:晚间护肤｜温和清洁·保湿
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:c6ed4d11-c8d7-4a84-9e64-1011524d5bb0@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261027T190000
+DTEND;TZID=Asia/Shanghai:20261027T192000
+SUMMARY:第2周阶段复盘｜记录与调整
+DESCRIPTION:记录体重趋势、腰围、力量完成度、跑步舒适
+ 度、晨晚浮肿与皮肤耐受。 用相同光线和距离拍正面
+ 、45度、侧面照片；自然平视，不刻意抬头。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:第2周阶段复盘｜记录与调整
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:3478d232-5fb3-4eda-a36f-39596838105a@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261124T190000
+DTEND;TZID=Asia/Shanghai:20261124T192000
+SUMMARY:第6周阶段复盘｜记录与调整
+DESCRIPTION:记录体重趋势、腰围、力量完成度、跑步舒适
+ 度、晨晚浮肿与皮肤耐受。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:第6周阶段复盘｜记录与调整
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:3087fede-c23c-4ca9-a597-a6c4ba6240b5@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20261222T190000
+DTEND;TZID=Asia/Shanghai:20261222T192000
+SUMMARY:第10周阶段复盘｜记录与调整
+DESCRIPTION:记录体重趋势、腰围、力量完成度、跑步舒适
+ 度、晨晚浮肿与皮肤耐受。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:第10周阶段复盘｜记录与调整
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fa9e5f44-0f11-4d38-97eb-2931d95d6d56@12week-plan.local
+DTSTAMP:20261013T100000Z
+DTSTART;TZID=Asia/Shanghai:20270105T190000
+DTEND;TZID=Asia/Shanghai:20270105T192000
+SUMMARY:第12周阶段复盘｜记录与调整
+DESCRIPTION:记录体重趋势、腰围、力量完成度、跑步舒适
+ 度、晨晚浮肿与皮肤耐受。 用相同光线和距离拍正面
+ 、45度、侧面照片；自然平视，不刻意抬头。 评估是否
+ 继续维持每周3次力量＋3次有氧，按恢复情况调整；无
+ 需为了下颌线激进减重。
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:第12周阶段复盘｜记录与调整
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+END:VCALENDAR
